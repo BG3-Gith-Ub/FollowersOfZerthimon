@@ -40,7 +40,7 @@
 					<attribute id="Icon" type="FixedString" value="9e645e51-bf7d-4f0a-9c73-4ab3038b43a6-_(Icon_Githyanki_Female)" />
 					<attribute id="Stats" type="FixedString" value="HeroGithFemale" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="9e645e51-bf7d-4f0a-9c73-4ab3038b43a6" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="9e645e51-bf7d-4f0a-9c73-4ab3038b43a6" />  //NEW
 					<attribute id="PortraitVisualResourceID" type="FixedString" value="00f931b5-7105-da0c-8992-26beeb53dbbc" />
 					<children>
 						<node id="SpeakerGroupList">

@@ -6,7 +6,7 @@
 			<children>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="23418296-f7fa-66e9-b986-466a12707c1a" />
-					<attribute id="BodySetVisual" type="FixedString" value="b7bfa2d3-4dad-d8a3-8639-9e3dddb97a00" />
+					<attribute id="BodySetVisual" type="FixedString" value="c6dade98-ac5a-4894-80a5-5c05a3a440f0" />
 					<attribute id="ID" type="FixedString" value="9e645e51-bf7d-4f0a-9c73-4ab3038b43a6" />
 					<attribute id="Name" type="LSString" value="BASE_Githzerai_Female_Player_39c7c3a9-8393-4df9-9bbf-6d52aa7f34db" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
@@ -313,11 +313,6 @@
 							<attribute id="Slot" type="FixedString" value="Hair" />
 							<attribute id="VisualResource" type="FixedString" value="3e4791b0-4b7e-2ff8-02a7-3a351ea8d672" />
 						</node>
-						<node id="Slots">
-							<attribute id="Bone" type="FixedString" value="" />
-							<attribute id="Slot" type="FixedString" value="Body" />
-							<attribute id="VisualResource" type="FixedString" value="" />
-						</node>						
 					</children>
 				</node>
 
