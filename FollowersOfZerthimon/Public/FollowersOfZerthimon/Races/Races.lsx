@@ -6,7 +6,7 @@
     <node id="root">
       <children>
 		<node id="Race">
-                    <attribute id="Description" type="TranslatedString" handle="h5b7fda71gb073g42eeg82e7ga4fcce96cfb9" version="3"/>
+                    <attribute id="Description" type="TranslatedString" handle="hd33af732gae42g45edgb67cg5ff9a826cef6" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hd1f23e23ge9ecg4061gb49ag0c6a88a77e31" version="1"/>
                     <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f"/>
                     <attribute id="Name" type="FixedString" value="Githzerai"/>
