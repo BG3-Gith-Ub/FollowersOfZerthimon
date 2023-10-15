@@ -24,6 +24,9 @@
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="8f74d144-041e-4035-a9ac-72f41fc32de7" />
 								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="7fa93b80-8ba5-4c1d-9b00-5dd20ced7f67" />
+								</node>
 							</children>
 						</node>
 						<node id="LocomotionParams" />
@@ -47,6 +50,9 @@
 							<children>
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="3806477c-65a7-4100-9f92-be4c12c4fa4f" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="7fa93b80-8ba5-4c1d-9b00-5dd20ced7f67" />
 								</node>
 							</children>
 						</node>

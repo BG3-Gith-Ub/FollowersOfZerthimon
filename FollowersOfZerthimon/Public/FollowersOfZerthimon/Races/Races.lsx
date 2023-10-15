@@ -15,10 +15,7 @@
                     <attribute id="RaceEquipment" type="FixedString" value="EQ_Underwear_Githyanki"/>
                     <attribute id="RaceSoundSwitch" type="FixedString" value="Githyanki"/>
                     <attribute id="UUID" type="guid" value="ca1c9216-a0cf-44e7-811a-2f9081c536ed"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="7fa93b80-8ba5-4c1d-9b00-5dd20ced7f67"/>
-                        </node>     
+                    <children>     
                         <node id="ExcludedGods">
                             <attribute id="Object" type="guid" value="eba713d1-bfa3-4117-8680-6d07ce1f29f0"/>
                         </node>
@@ -1476,6 +1473,9 @@
                         </node>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="677ffa76-2562-4217-873e-2253d4720ba4"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="7fa93b80-8ba5-4c1d-9b00-5dd20ced7f67"/>
                         </node>
                         <node id="TattooColors">
                             <attribute id="Object" type="guid" value="8f8019ae-4c7d-4871-8479-1219fbf6ba7e"/>
