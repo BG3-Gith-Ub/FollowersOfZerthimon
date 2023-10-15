@@ -2075,7 +2075,7 @@
 	</region>
 
 	<region id="TextureBank">
-		<node id="TextureBank">
+		<node id="TextureBank">                 
 			<children>
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
