@@ -4,8 +4,8 @@
 	<region id="Tags">
 		<node id="Tags">
 			<attribute id="Description" type="LSString" value="Character looks like a githzerai" />
-			<attribute id="DisplayDescription" type="TranslatedString" handle="hd33af732gae42g45edgb67cg5ff9a826cef6" version="1" />
-			<attribute id="DisplayName" type="TranslatedString" handle="hd1f23e23ge9ecg4061gb49ag0c6a88a77e31" version="1" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h531ef78dgbe15g4221ga0deg4bb578483a87" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h5506651dg7b5fg40deg840cg6dfc0b27df35" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />
 			<attribute id="Name" type="FixedString" value="GITHZERAI" />
 			<attribute id="UUID" type="guid" value="7fa93b80-8ba5-4c1d-9b00-5dd20ced7f67" />
