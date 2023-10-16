@@ -7,7 +7,7 @@
       <children>
         <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="False" />
-                    <attribute id="Boosts" type="LSString" value="Ability(Intelligence,1); Ability(Wisdom,2);ActionResource(Movement,9,0)"/>
+                    <attribute id="Boosts" type="LSString" value="Ability(Intelligence,1); Ability(Wisdom,2)"/>
                     <attribute id="Level" type="uint8" value="1" />
                     <attribute id="Name" type="LSString" value="Githzerai_Base" />
                     <attribute id="PassivesAdded" type="LSString" value="GTZ_Mental_Discipline;" />
