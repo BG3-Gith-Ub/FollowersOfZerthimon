@@ -4,7 +4,11 @@
 	<content contentuid="hd33af732gae42g45edgb67cg5ff9a826cef6" version="1">"Solace in the plane of Limbo is something created, not found. The Githzerai are a monastic faction of Gith hidden away in limbo, dwelling in sanctuaries cultivated through sheer willpower.  Their psionic gifts are unmatched even by githyanki, as they dedicate their lives to augmenting their spiritual power. As children of Lorthimon — the betrayer of Gith — , the Githzerai are the result of an uprising against the illithid empire, a war they continue to wage to this day. Wary of outsiders, the Githzerai have dedicated themselves to solemn solitude."</content>  
 
 	<content contentuid="hfe1a80bbg9a44g477dg8443g571e9e3558b3" version="1">Mental Discipline</content>  
-	<content contentuid="h2f31999aga35cg4354g8719gea719a6d2149" version="1">You have advantage on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; against the charmed and frightened conditions. Under the tutelage of monastic masters, githzerai learn to govern their own minds</content>  
+	<content contentuid="h2f31999aga35cg4354g8719gea719a6d2149" version="1">Under the tutelage of monastic masters, githzerai learn to govern their own minds. Your innate psychic defences give you &lt;LSTag Tooltip="Advantage"&gt;advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;saving throws&lt;/LSTag&gt; against the effects of the &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;charmed&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;frightened&lt;/LSTag&gt;conditions.</content>  
+
+
+	<content contentuid="ha48a6b20g643bg4f53g8b18g1544ca9945c4" version="1">Fortification of Mind</content>  
+	<content contentuid="h7b6df8fbgfe21g4d91g8856g2adfcab99a08" version="1">Steel your mind for oncoming hardship gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in all &lt;LSTag Tooltip="Skill"&gt;Skills&lt;/LSTag&gt; of a chosen &lt;LSTag Tooltip="Abilities"&gt;Ability&lt;/LSTag&gt;.</content>  
 
 </contentList>
 
