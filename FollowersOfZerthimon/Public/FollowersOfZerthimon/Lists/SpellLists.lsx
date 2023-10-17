@@ -11,7 +11,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="GIthzerai Level 3"/>
-                    <attribute id="Spells" type="LSString" value="Shout_Shield_Wizard"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Shield_Githzerai"/>
                     <attribute id="UUID" type="guid" value="cff754a0-ce76-4596-8df4-110d3a4cbf0e"/>
                 </node>                
             </children>
