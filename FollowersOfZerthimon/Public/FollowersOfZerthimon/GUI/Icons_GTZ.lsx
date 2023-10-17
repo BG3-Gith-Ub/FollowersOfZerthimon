@@ -30,7 +30,7 @@
                     <attribute id="V2" type="float" value="0.03125" />
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Icon_SMP_Inertia" />
+                    <attribute id="MapKey" type="FixedString" value="Action_LimboKnowledge" />
                     <attribute id="U1" type="float" value="0.03125" />
                     <attribute id="U2" type="float" value="0.0625" />
                     <attribute id="V1" type="float" value="0.0" />
