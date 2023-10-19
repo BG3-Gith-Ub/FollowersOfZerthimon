@@ -123,7 +123,7 @@
                     <attribute id="SlotName" type="FixedString" value="Head"/>
                     <attribute id="UUID" type="guid" value="e3aeff65-2a65-403a-afeb-e04368d1441a"/>
                     <attribute id="VisualResource" type="guid" value="066216e7-ad1e-4b78-9f7c-abdbebc693cc"/>  //NEW  
-                </node>                    
+                </node>                                  
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>

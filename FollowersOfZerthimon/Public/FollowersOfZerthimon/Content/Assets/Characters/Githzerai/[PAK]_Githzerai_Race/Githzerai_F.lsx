@@ -5565,8 +5565,7 @@
 							<attribute id="Value" type="fvec4" value="0.02745098 0.02745098 0.02745098 1" />
 						</node>
 					</children>
-				</node>
-								
+				</node>							
 			</children>
 		</node>
 	</region>
@@ -5810,7 +5809,7 @@
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="GTZ_F_NKD_Head_B_HMVY" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Models/Githzerai/GTZ_F_NKD/GTZ_F_Head_B/Resources//GTZ_F_NKD_Head_B_HMVY.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Models/Githzerai/GTZ_F_NKD/GTZ_F_Head_B/Resources/GTZ_F_NKD_Head_B_HMVY.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="GTZ_F_NKD_Head_B_HMVY" />
 					<attribute id="Type" type="int32" value="1" />
@@ -5825,13 +5824,44 @@
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="GTZ_F_NKD_Head_B_NM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Models/Githzerai/GTZ_F_NKD/GTZ_F_Head_B/Resources//GTZ_F_NKD_Head_B_NM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Models/Githzerai/GTZ_F_NKD/GTZ_F_Head_B/Resources/GTZ_F_NKD_Head_B_NM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="GTZ_F_NKD_Head_B_NM" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855894" />
-				</node>						
+				</node>	
+				HEAD 3
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Format" type="uint32" value="64" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="d0a9c72f-5a67-4ee2-94ce-becf64e29cf5" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="GTZ_F_NKD_Head_C_NM" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Models/Githzerai/GTZ_F_NKD/GTZ_F_Head_C/Resources/GTZ_F_NKD_Head_C_NM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="GTZ_F_NKD_Head_C_NM" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855898" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Format" type="uint32" value="64" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="e416c4ff-bd8c-4688-ad09-1094b9ab62c0" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="GTZ_F_NKD_Head_C_HMVY" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Models/Githzerai/GTZ_F_NKD/GTZ_F_Head_C/Resources/GTZ_F_NKD_Head_C_HMVY.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="GTZ_F_NKD_Head_C_HMVY" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855898" />
+				</node>				
 			</children>
 		</node>
 	</region>
