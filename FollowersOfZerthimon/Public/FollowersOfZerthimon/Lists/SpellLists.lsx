@@ -13,7 +13,12 @@
                     <attribute id="Comment" type="LSString" value="GIthzerai Level 3"/>
                     <attribute id="Spells" type="LSString" value="Shout_Shield_Githzerai"/>
                     <attribute id="UUID" type="guid" value="cff754a0-ce76-4596-8df4-110d3a4cbf0e"/>
-                </node>                
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Githzerai Mage Hand"/>
+                    <attribute id="Spells" type="LSString" value="Target_MageHand_GithzeraiPsionics"/>
+                    <attribute id="UUID" type="guid" value="ebac8043-4fd0-457e-8126-538c166dfb5c"/>
+                </node>                               
             </children>
         </node>
     </region>

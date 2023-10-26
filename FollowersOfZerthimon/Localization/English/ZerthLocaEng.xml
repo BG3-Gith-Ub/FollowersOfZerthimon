@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
 	<content contentuid="hd1f23e23ge9ecg4061gb49ag0c6a88a77e31" version="1">Githzerai</content>  
-	<content contentuid="hd33af732gae42g45edgb67cg5ff9a826cef6" version="1">Solace in the plane of Limbo is something created, not found. The githzerai are a monastic faction of gith hidden away in limbo, dwelling in sanctuaries cultivated through sheer willpower.  Their psionic gifts are unmatched even by githyanki, as they dedicate their lives to augmenting their spiritual power. As children of Lorthimon — the betrayer of Gith — , the githzerai are the result of an uprising against the illithid empire, a war they continue to wage to this day. Wary of outsiders, the githzerai have dedicated themselves to solitude.</content>  
+	<content contentuid="hd33af732gae42g45edgb67cg5ff9a826cef6" version="1">Solace in the plane of Limbo is something created, not found. The githzerai are a monastic faction of gith hidden away in limbo, dwelling in sanctuaries cultivated through sheer willpower.  Their psionic gifts are unmatched even by githyanki, as they dedicate their lives to augmenting their spiritual power. As children of Zerthimon — the betrayer of Gith — , the githzerai are the result of an uprising against the illithid empire, a war they continue to wage to this day. Wary of outsiders, the githzerai have dedicated themselves to solitude.</content>  
 
 	<content contentuid="h5506651dg7b5fg40deg840cg6dfc0b27df35" version="1">Githzerai</content>  
 	<content contentuid="h531ef78dgbe15g4221ga0deg4bb578483a87" version="1">Githzeraidesc</content>  
@@ -13,7 +13,7 @@
 	<content contentuid="h69829ef6gda0bg484aga600g2b5f5166a877" version="2">Gith</content>  
 	<content contentuid="hef0b7fa0gb538g422egab35g7be8c6a5bc65" version="1">The warlike githyanki and the contemplative githzerai are a sundered people – two cultures that utterly despise one another. The githyanki are trained from birth as warriors, while the githzerai hone their minds to a razor’s edge in their fortresses within Limbo. But before there were githyanki or githzerai, these creatures were a single race enslaved by the illithids.</content>
 
-
+	<content contentuid="h70808230g19e4g49d0gbb9ag6f5ed4a39fb0" version="1">Githzerai Psionics: Mage Hand</content>
 
 	<content contentuid="hfe1a80bbg9a44g477dg8443g571e9e3558b3" version="1">Mental Discipline</content>  
 	<content contentuid="h2f31999aga35cg4354g8719gea719a6d2149" version="1">Under the tutelage of monastic masters, githzerai learn to govern their own minds. Your innate psychic defences give you &lt;LSTag Tooltip="Advantage"&gt;advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;saving throws&lt;/LSTag&gt; against the effects of the &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;charmed&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;frightened&lt;/LSTag&gt; conditions.</content>  

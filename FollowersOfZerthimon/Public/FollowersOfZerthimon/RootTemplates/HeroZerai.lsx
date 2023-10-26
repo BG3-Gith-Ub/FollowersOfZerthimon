@@ -11,10 +11,10 @@
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="e1b0049c-3d63-48a4-ba00-117cd0a29fc9" />
 					<attribute id="Flag" type="int32" value="0" />
-					<attribute id="Icon" type="FixedString" value="538eb02f-9e1b-4740-7e4f-024573ce2de7-_(Icon_Githyanki_Male)" />
+					<attribute id="Icon" type="FixedString" value="aaedb135-9561-4ecb-9c4c-0ccb31d6f107-_(Icon_Githyanki_Male)" />
 					<attribute id="Stats" type="FixedString" value="HeroGithMale" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="538eb02f-9e1b-4740-7e4f-024573ce2de7" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="aaedb135-9561-4ecb-9c4c-0ccb31d6f107" />
 					<attribute id="PortraitVisualResourceID" type="FixedString" value="2c0ba7ad-66be-884e-b680-9b7e5a2203a0" />
 					<children>
 						<node id="SpeakerGroupList">

@@ -13,7 +13,7 @@
                     <attribute id="PassivesAdded" type="LSString" value="GTZ_Mental_Discipline;" />
                     <attribute id="PassivesRemoved" type="LSString" value="" />
                     <attribute id="ProgressionType" type="uint8" value="2" />
-                    <attribute id="Selectors" type="LSString" value="SelectSkills(f974ebd6-3725-4b90-bb5c-2b647d41615d,1);AddSpells(c203ff42-09bc-4a9c-8b65-b13afd092573);AddSpells(4d7bfb6c-5001-4a83-8728-94e3711516d3,,Intelligence,,AlwaysPrepared)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSkills(f974ebd6-3725-4b90-bb5c-2b647d41615d,1);AddSpells(c203ff42-09bc-4a9c-8b65-b13afd092573);AddSpells(ebac8043-4fd0-457e-8126-538c166dfb5c,,Intelligence,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="eccc27e9-0d6f-409a-98d1-c924ce52c364" />
                     <attribute id="UUID" type="guid" value="8e8928df-70b1-43c0-bc86-40b32c455bee" />
                 </node>

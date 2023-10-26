@@ -318,9 +318,9 @@
 
                 <node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="e6fa4c4b-8f7d-52d0-78d1-81405baf735f" />
-					<attribute id="BodySetVisual" type="FixedString" value="e933d49d-9207-e9fc-819f-45db5b403a11" />
-					<attribute id="ID" type="FixedString" value="538eb02f-9e1b-4740-7e4f-024573ce2de7" />
-					<attribute id="Name" type="LSString" value="BASE_Githyanki_Male_Player_ba63c9de-13fc-4011-94a1-0ca11c29893e" />
+					<attribute id="BodySetVisual" type="FixedString" value="8d31594b-7897-4331-afe2-1b3a214bdd66" />
+					<attribute id="ID" type="FixedString" value="aaedb135-9561-4ecb-9c4c-0ccb31d6f107" />
+					<attribute id="Name" type="LSString" value="BASE_Githzerai_Male_Player_ba63c9de-13fc-4011-94a1-0ca11c29893e" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>

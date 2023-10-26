@@ -4,7 +4,7 @@
 	<region id="Tags">
 		<node id="Tags">
 			<attribute id="Description" type="LSString" value="Character is really a gith" />
-			<attribute id="DisplayDescription" type="TranslatedString" handle="he80cb422g017dg420fg958fg275334601c62" version="1" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h5e4806e5gf22dg4ce6g9abfg8e4abaaa6d55" version="1" />
 			<attribute id="DisplayName" type="TranslatedString" handle="h69829ef6gda0bg484aga600g2b5f5166a877" version="2" />
 			<attribute id="Icon" type="FixedString" value="" />
 			<attribute id="Name" type="FixedString" value="REALLY_GITHYANKI" />
