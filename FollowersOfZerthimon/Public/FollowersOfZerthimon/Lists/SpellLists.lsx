@@ -6,7 +6,7 @@
             <children>  
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Githzerai racial"/>
-                    <attribute id="Spells" type="LSString" value="Shout_LimboKnowledge"/>
+                    <attribute id="Spells" type="LSString" value="Shout_LimboKnowledge;Target_GZI_Training"/>
                     <attribute id="UUID" type="guid" value="c203ff42-09bc-4a9c-8b65-b13afd092573"/>
                 </node>
                 <node id="SpellList">
