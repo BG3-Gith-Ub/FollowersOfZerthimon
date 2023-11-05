@@ -8,3 +8,49 @@ new subtable "1,1"
 object category "I_GTZ_BOOK_Circles_C" ,1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_GTZ_BOOK_Circles_D" ,1,0,0,0,0,0,0,0
+
+
+new treasuretable "GEN_Book_Gods"
+CanMerge 1
+new subtable "1,9;2,1"
+object category "I_GTZ_BOOK_Circles_A" ,1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GTZ_BOOK_Circles_B" ,1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GTZ_BOOK_Circles_C" ,1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GTZ_BOOK_Circles_D" ,1,0,0,0,0,0,0,0
+
+new treasuretable "GEN_Book_History"
+CanMerge 1
+new subtable "1,9;2,1"
+object category "I_GTZ_BOOK_Circles_A" ,1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GTZ_BOOK_Circles_B" ,1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GTZ_BOOK_Circles_C" ,1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GTZ_BOOK_Circles_D" ,1,0,0,0,0,0,0,0
+
+new treasuretable "GEN_Book_Planes"
+CanMerge 1
+new subtable "1,9;2,1"
+object category "I_GTZ_BOOK_Circles_A" ,1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GTZ_BOOK_Circles_B" ,1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GTZ_BOOK_Circles_C" ,1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GTZ_BOOK_Circles_D" ,1,0,0,0,0,0,0,0
+
+new treasuretable "GEN_Book_Uncommon_Races"
+CanMerge 1
+new subtable "1,9;2,1"
+object category "I_GTZ_BOOK_Circles_A" ,1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GTZ_BOOK_Circles_B" ,1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GTZ_BOOK_Circles_C" ,1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GTZ_BOOK_Circles_D" ,1,0,0,0,0,0,0,0
+
