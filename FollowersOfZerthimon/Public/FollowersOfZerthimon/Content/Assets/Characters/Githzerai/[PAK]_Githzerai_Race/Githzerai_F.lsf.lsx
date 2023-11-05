@@ -4271,9 +4271,9 @@
           <attribute id="SkeletonSlot" type="FixedString" value="1"/>
           <attribute id="Slot" type="FixedString" value="Head"/>
           <attribute id="SoftbodyResourceID" type="FixedString" value=""/>
-          <attribute id="SourceFile" type="LSString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Anims/Githzerai/_Female/Resources/GTY_F_NKD_Head_E.GR2"/>
+          <attribute id="SourceFile" type="LSString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Anims/Githzerai/_Female/Resources/GTZ_F_NKD_Head_E.GR2"/>
           <attribute id="SupportsVertexColorMask" type="bool" value="False"/>
-          <attribute id="Template" type="FixedString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Anims/Githzerai/_Female/Resources/GTY_F_NKD_Head_E.Dummy_Root.0"/>
+          <attribute id="Template" type="FixedString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Anims/Githzerai/_Female/Resources/GTZ_F_NKD_Head_E.Dummy_Root.0"/>
           <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725665"/>
           <children>
             <node id="AnimationSetOverrides">
@@ -4297,87 +4297,87 @@
             <node id="Objects">
               <attribute id="LOD" type="uint8" value="0"/>
               <attribute id="MaterialID" type="FixedString" value="2b16db65-6aa7-42f3-bb2a-c3854f90cee2"/>
-              <attribute id="ObjectID" type="FixedString" value="GTY_F_NKD_Head_E.GTY_F_NKD_Head_E_Mesh.0"/>
+              <attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Head_E.GTZ_F_NKD_Head_E_Mesh.0"/>
             </node>
             <node id="Objects">
               <attribute id="LOD" type="uint8" value="0"/>
               <attribute id="MaterialID" type="FixedString" value="11928c80-9ca0-7d96-683b-31a7fe7c24ed"/>
-              <attribute id="ObjectID" type="FixedString" value="GTY_F_NKD_Head_E.GTY_F_NKD_Head_E_Mouth_Interior_Fangs_Mesh.1"/>
+              <attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Head_E.GTZ_F_NKD_Head_E_Mouth_Interior_Fangs_Mesh.1"/>
             </node>
             <node id="Objects">
               <attribute id="LOD" type="uint8" value="0"/>
               <attribute id="MaterialID" type="FixedString" value="16564a73-2c40-82c9-7f72-11f07e78c783"/>
-              <attribute id="ObjectID" type="FixedString" value="GTY_F_NKD_Head_E.GTY_F_NKD_Head_E_Eyes_Mesh.2"/>
+              <attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Head_E.GTZ_F_NKD_Head_E_Eyes_Mesh.2"/>
             </node>
             <node id="Objects">
               <attribute id="LOD" type="uint8" value="0"/>
               <attribute id="MaterialID" type="FixedString" value="2b16db65-6aa7-42f3-bb2a-c3854f90cee2"/>
-              <attribute id="ObjectID" type="FixedString" value="GTY_F_NKD_Head_E.GTY_F_NKD_Head_E_Ears_Mesh.3"/>
+              <attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Head_E.GTZ_F_NKD_Head_E_Ears_Mesh.3"/>
             </node>
             <node id="Objects">
               <attribute id="LOD" type="uint8" value="0"/>
               <attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84"/>
-              <attribute id="ObjectID" type="FixedString" value="GTY_F_NKD_Head_E.GTY_F_NKD_Head_E_Tearline_Mesh.4"/>
+              <attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Head_E.GTZ_F_NKD_Head_E_Tearline_Mesh.4"/>
             </node>
             <node id="Objects">
               <attribute id="LOD" type="uint8" value="0"/>
               <attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e"/>
-              <attribute id="ObjectID" type="FixedString" value="GTY_F_NKD_Head_E.GTY_F_NKD_Head_E_Eyelashes_Mesh.5"/>
+              <attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Head_E.GTZ_F_NKD_Head_E_Eyelashes_Mesh.5"/>
             </node>
             <node id="Objects">
               <attribute id="LOD" type="uint8" value="0"/>
               <attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e"/>
-              <attribute id="ObjectID" type="FixedString" value="GTY_F_NKD_Head_E.GTY_F_NKD_Head_E_Eyeshadow_Mesh.6"/>
+              <attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Head_E.GTZ_F_NKD_Head_E_Eyeshadow_Mesh.6"/>
             </node>
             <node id="Objects">
               <attribute id="LOD" type="uint8" value="0"/>
               <attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7"/>
-              <attribute id="ObjectID" type="FixedString" value="GTY_F_NKD_Head_E.GTY_F_NKD_Head_E_Scalp_Mesh.7"/>
+              <attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Head_E.GTZ_F_NKD_Head_E_Scalp_Mesh.7"/>
             </node>
             <node id="Objects">
               <attribute id="LOD" type="uint8" value="1"/>
               <attribute id="MaterialID" type="FixedString" value="94312ef8-7413-4598-8a16-11435b11efc5"/>
-              <attribute id="ObjectID" type="FixedString" value="GTY_F_NKD_Head_E.GTY_F_NKD_Head_E_Mesh_LOD1.8"/>
+              <attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Head_E.GTZ_F_NKD_Head_E_Mesh_LOD1.8"/>
             </node>
             <node id="Objects">
               <attribute id="LOD" type="uint8" value="1"/>
               <attribute id="MaterialID" type="FixedString" value="94312ef8-7413-4598-8a16-11435b11efc5"/>
-              <attribute id="ObjectID" type="FixedString" value="GTY_F_NKD_Head_E.GTY_F_NKD_Head_E_Ears_Mesh_LOD1.9"/>
+              <attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Head_E.GTZ_F_NKD_Head_E_Ears_Mesh_LOD1.9"/>
             </node>
             <node id="Objects">
               <attribute id="LOD" type="uint8" value="1"/>
               <attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7"/>
-              <attribute id="ObjectID" type="FixedString" value="GTY_F_NKD_Head_E.GTY_F_NKD_Head_E_Scalp_Mesh_LOD1.10"/>
+              <attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Head_E.GTZ_F_NKD_Head_E_Scalp_Mesh_LOD1.10"/>
             </node>
             <node id="Objects">
               <attribute id="LOD" type="uint8" value="2"/>
               <attribute id="MaterialID" type="FixedString" value="92d837cd-51ce-44d8-8d1e-000a1138f743"/>
-              <attribute id="ObjectID" type="FixedString" value="GTY_F_NKD_Head_E.GTY_F_NKD_Head_E_Mesh_LOD2.11"/>
+              <attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Head_E.GTZ_F_NKD_Head_E_Mesh_LOD2.11"/>
             </node>
             <node id="Objects">
               <attribute id="LOD" type="uint8" value="2"/>
               <attribute id="MaterialID" type="FixedString" value="92d837cd-51ce-44d8-8d1e-000a1138f743"/>
-              <attribute id="ObjectID" type="FixedString" value="GTY_F_NKD_Head_E.GTY_F_NKD_Head_E_Ears_Mesh_LOD2.12"/>
+              <attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Head_E.GTZ_F_NKD_Head_E_Ears_Mesh_LOD2.12"/>
             </node>
             <node id="Objects">
               <attribute id="LOD" type="uint8" value="2"/>
               <attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7"/>
-              <attribute id="ObjectID" type="FixedString" value="GTY_F_NKD_Head_E.GTY_F_NKD_Head_E_Scalp_Mesh_LOD2.13"/>
+              <attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Head_E.GTZ_F_NKD_Head_E_Scalp_Mesh_LOD2.13"/>
             </node>
             <node id="Objects">
               <attribute id="LOD" type="uint8" value="3"/>
               <attribute id="MaterialID" type="FixedString" value="92d837cd-51ce-44d8-8d1e-000a1138f743"/>
-              <attribute id="ObjectID" type="FixedString" value="GTY_F_NKD_Head_E.GTY_F_NKD_Head_E_Mesh_LOD3.14"/>
+              <attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Head_E.GTZ_F_NKD_Head_E_Mesh_LOD3.14"/>
             </node>
             <node id="Objects">
               <attribute id="LOD" type="uint8" value="3"/>
               <attribute id="MaterialID" type="FixedString" value="92d837cd-51ce-44d8-8d1e-000a1138f743"/>
-              <attribute id="ObjectID" type="FixedString" value="GTY_F_NKD_Head_E.GTY_F_NKD_Head_E_Ears_Mesh_LOD3.15"/>
+              <attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Head_E.GTZ_F_NKD_Head_E_Ears_Mesh_LOD3.15"/>
             </node>
             <node id="Objects">
               <attribute id="LOD" type="uint8" value="4"/>
               <attribute id="MaterialID" type="FixedString" value="a91481a3-b183-4348-9dc5-3cb5fcd14cd1"/>
-              <attribute id="ObjectID" type="FixedString" value="GTY_F_NKD_Head_E.GTY_F_NKD_Head_E_Mesh_LOD4.16"/>
+              <attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Head_E.GTZ_F_NKD_Head_E_Mesh_LOD4.16"/>
             </node>
           </children>
         </node>

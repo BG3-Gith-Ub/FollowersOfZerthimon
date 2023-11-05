@@ -113,7 +113,17 @@
                     <attribute id="SlotName" type="FixedString" value="Head"/>
                     <attribute id="UUID" type="guid" value="13de31fe-7e7d-4499-b102-f15231e228eb"/>
                     <attribute id="VisualResource" type="guid" value="b6f585cb-c368-4711-af08-06b3a9b92795"/>  //NEW  
-                </node>                                                      
+                </node> 
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DefaultSkinColor" type="guid" value="5977bb22-cd74-13ac-35b0-229ed71a7049"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf05b5c9ag9901g4047g9810g2a20e21e60db" version="3"/>
+                    <attribute id="RaceUUID" type="guid" value="bdf9b779-002c-4077-b377-8ea7c1faa795"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="917cd854-62be-4964-9921-0049023cc658"/>
+                    <attribute id="VisualResource" type="guid" value="b6f585cb-c368-4711-af08-06b3a9b92795"/>  //NEW  for GTY
+                </node>                                                                       
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
