@@ -40,9 +40,9 @@
           <attribute id="ParentTemplateId" type="FixedString" value="9ab35976-3555-4ed7-9343-7e52d8facad5"/>
           <attribute id="ReadinessFlags" type="uint32" value="12"/>
           <attribute id="VisualTemplate" type="FixedString" value=""/>
-          <attribute id="Icon" type="FixedString" value="ca349532-fe0f-846e-4baf-0f9670f8b463-_(Icon_Githyanki_Female)"/>
+          <attribute id="Icon" type="FixedString" value="ee076753-8e72-48ae-a2e3-a877fc2a8ce7-_(Icon_Githyanki_Female)"/>  //CHANGED
           <attribute id="EquipmentRace" type="guid" value="06aaae02-bb9e-4fa3-ac00-b08e13a5b0fa"/>
-          <attribute id="CharacterVisualResourceID" type="FixedString" value="ca349532-fe0f-846e-4baf-0f9670f8b463"/>
+          <attribute id="CharacterVisualResourceID" type="FixedString" value="ee076753-8e72-48ae-a2e3-a877fc2a8ce7"/> //CHANGED
           <attribute id="GeneratePortrait" type="LSString" value="Icon_Githyanki_Female"/>
           <attribute id="Race" type="guid" value="ca1c9216-a0cf-44e7-811a-2f9081c536ed"/>
           <children>
@@ -59,7 +59,7 @@
             <node id="GameMaster"/>
             <node id="LocomotionParams"/>
           </children>
-        </node>
+        </node>      
       </children>
     </node>
   </region>
