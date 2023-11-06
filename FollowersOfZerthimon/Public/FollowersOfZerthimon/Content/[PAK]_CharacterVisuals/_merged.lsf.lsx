@@ -6,7 +6,7 @@
       <children>
         <node id="Resource">
           <attribute id="BaseVisual" type="FixedString" value="23418296-f7fa-66e9-b986-466a12707c1a"/>
-          <attribute id="BodySetVisual" type="FixedString" value="c6dade98-ac5a-4894-80a5-5c05a3a440f0"/>
+          <attribute id="BodySetVisual" type="FixedString" value="e804edf1-24f4-4e6b-bc0d-7e010a563bcf"/> //c6dade98-ac5a-4894-80a5-5c05a3a440f0
           <attribute id="ID" type="FixedString" value="9e645e51-bf7d-4f0a-9c73-4ab3038b43a6"/>
           <attribute id="Name" type="LSString" value="BASE_Githzerai_Female_Player_39c7c3a9-8393-4df9-9bbf-6d52aa7f34db"/>
           <attribute id="ShowEquipmentVisuals" type="bool" value="True"/>

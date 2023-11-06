@@ -182,35 +182,35 @@
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Models/Githzerai/_Female/Resources/GTZ_F_NKD_Body_A.Dummy_Root.0"/>
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
-					<children>
-						<node id="Base" />
-						<node id="ClothProxyMapping" />
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="1c7022af-5d72-61b2-e49e-766148eb14c6" />
-							<attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Body_A.GTZ_F_NKD_Body_A_Mesh.0" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="1" />
-							<attribute id="MaterialID" type="FixedString" value="1c7022af-5d72-61b2-e49e-766148eb14c6" />
-							<attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Body_A.GTZ_F_NKD_Body_A_Mesh_LOD1.1" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="2" />
-							<attribute id="MaterialID" type="FixedString" value="1c7022af-5d72-61b2-e49e-766148eb14c6" />
-							<attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Body_A.GTZ_F_NKD_Body_A_Mesh_LOD2.2" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="3" />
-							<attribute id="MaterialID" type="FixedString" value="1c7022af-5d72-61b2-e49e-766148eb14c6" />
-							<attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Body_A.GTZ_F_NKD_Body_A_Mesh_LOD3.3" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="4" />
-							<attribute id="MaterialID" type="FixedString" value="1c7022af-5d72-61b2-e49e-766148eb14c6" />
-							<attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Body_A.GTZ_F_NKD_Body_A_Mesh_LOD4.4" />
-						</node>
-					</children>
+          <children>
+            <node id="Base"/>
+            <node id="ClothProxyMapping"/>
+            <node id="Objects">
+              <attribute id="LOD" type="uint8" value="0"/>
+              <attribute id="MaterialID" type="FixedString" value="dab5b929-173a-4df0-97bc-3645b8e26e22"/>
+              <attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Body_A.GTZ_F_NKD_Body_A_Mesh.0"/>
+            </node>
+            <node id="Objects">
+              <attribute id="LOD" type="uint8" value="1"/>
+              <attribute id="MaterialID" type="FixedString" value="dab5b929-173a-4df0-97bc-3645b8e26e22"/>
+              <attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Body_A.GTZ_F_NKD_Body_A_Mesh_LOD1.1"/>
+            </node>
+            <node id="Objects">
+              <attribute id="LOD" type="uint8" value="2"/>
+              <attribute id="MaterialID" type="FixedString" value="dab5b929-173a-4df0-97bc-3645b8e26e22"/>
+              <attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Body_A.GTZ_F_NKD_Body_A_Mesh_LOD2.2"/>
+            </node>
+            <node id="Objects">
+              <attribute id="LOD" type="uint8" value="3"/>
+              <attribute id="MaterialID" type="FixedString" value="dab5b929-173a-4df0-97bc-3645b8e26e22"/>
+              <attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Body_A.GTZ_F_NKD_Body_A_Mesh_LOD3.3"/>
+            </node>
+            <node id="Objects">
+              <attribute id="LOD" type="uint8" value="4"/>
+              <attribute id="MaterialID" type="FixedString" value="dab5b929-173a-4df0-97bc-3645b8e26e22"/>
+              <attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Body_A.GTZ_F_NKD_Body_A_Mesh_LOD4.4"/>
+            </node>
+          </children>
 				</node>
 			</children>
 		</node>
