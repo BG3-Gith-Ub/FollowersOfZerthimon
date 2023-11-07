@@ -7,9 +7,14 @@
       <children>
         <node id="SpellList">
           <attribute id="Comment" type="LSString" value="Githzerai racial"/>
-          <attribute id="Spells" type="LSString" value="Shout_LimboKnowledge;Target_GZI_Training"/>
+          <attribute id="Spells" type="LSString" value="Shout_LimboKnowledge;"/>
           <attribute id="UUID" type="guid" value="c203ff42-09bc-4a9c-8b65-b13afd092573"/>
         </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Githzerai Training"/>
+          <attribute id="Spells" type="LSString" value="Target_GZI_Training"/>
+          <attribute id="UUID" type="guid" value="fdce7a0b-1e19-432b-a8eb-07fa4f17f097"/>
+        </node>        
         <node id="SpellList">
           <attribute id="Comment" type="LSString" value="GIthzerai Level 3"/>
           <attribute id="Spells" type="LSString" value="Shout_Shield_Githzerai"/>

@@ -185,8 +185,6 @@
                     <attribute id="VisualResource" type="guid" value="31b9f9cb-404f-fa34-7fe7-75ba021e0803"/>
                 </node>
 
-
-
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
