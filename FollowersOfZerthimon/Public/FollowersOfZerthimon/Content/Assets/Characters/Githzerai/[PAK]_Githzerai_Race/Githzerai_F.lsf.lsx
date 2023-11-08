@@ -14,10 +14,10 @@
 					<attribute id="PreviewAnimationResource" type="FixedString" value="" />
 					<attribute id="PreviewVisualResource" type="FixedString" value="" />
 					<attribute id="RagdollResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="SoftbodyResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/FollowersOFZerthimon/Assets/Characters/_Anims/Githzerai/_Female/Resources/GTZ_F_NKD_Head_Y_Base.GR2" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />C:\Users\Ryan\Documents\BG3GIT\FollowersOfZerthimon\FollowersOfZerthimon\Public\FollowersOfZerthimon\[PAK]_Githzerai\Heads
+					<attribute id="SourceFile" type="LSString" value="Public/FollowersOfZerthimon/[PAK]_Githzerai/Heads/GTZ_F_NKD_Head_Y_Base.GR2" />
 					<attribute id="SpringResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/FollowersOFZerthimon/Assets/Characters/_Anims/Githzerai/_Female/Resources/GTZ_F_NKD_Head_Y_Base.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Public/FollowersOfZerthimon/[PAK]_Githzerai/Heads/GTZ_F_NKD_Head_Y_Base.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960758165" />
 					<children>
 						<node id="Bones">
@@ -5837,9 +5837,9 @@
           <attribute id="SkeletonSlot" type="FixedString" value="1"/>
           <attribute id="Slot" type="FixedString" value="Head"/>
           <attribute id="SoftbodyResourceID" type="FixedString" value=""/>
-          <attribute id="SourceFile" type="LSString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Anims/Githzerai/_Female/Resources/GTZ_F_NKD_Head_E.GR2"/>
+          <attribute id="SourceFile" type="LSString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Anims/[PAK]_Githzerai/_Female/Resources/GTZ_F_NKD_Head_E.GR2"/>
           <attribute id="SupportsVertexColorMask" type="bool" value="False"/>
-          <attribute id="Template" type="FixedString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Anims/Githzerai/_Female/Resources/GTZ_F_NKD_Head_E.Dummy_Root.0"/>
+          <attribute id="Template" type="FixedString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Anims/[PAK]_Githzerai/_Female/Resources/GTZ_F_NKD_Head_E.Dummy_Root.0"/>
           <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725665"/>
           <children>
             <node id="AnimationSetOverrides">
