@@ -55,7 +55,7 @@ data "DisplayName" "hd479fc14gfa77g4b51gb921gf1aaaf594b63;2"
 data "Description" "h0d17cea5g3f0fg47ddga79cg9f6e726e1aec;1" 
 data "Icon" "PassiveFeature_Zerth_Teachings"
 data "Properties" "Highlighted"
-data "Boosts" "UnlockSpell(Target_MageHand_GithzeraiPsionics);"
+data "Boosts" "UnlockSpell(Target_MageHand_GithzeraiPsionics);UnlockSpell(Target_Limbo_Container)"
 
 new entry "GTZ_Zerth_Psionics_Two"
 type "PassiveData"
