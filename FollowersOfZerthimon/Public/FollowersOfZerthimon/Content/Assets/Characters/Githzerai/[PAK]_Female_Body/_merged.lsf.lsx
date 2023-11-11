@@ -178,9 +178,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="NakedBody" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="15827dce-b0c0-c740-541b-03633a5a9c6d" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Models/Githzerai/_Female/Resources/GTZ_F_NKD_Body_A.GR2"/>
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Models/[PAK]_Githzerai/_Female/Resources/GTZ_F_NKD_Body_A.GR2"/>
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Models/Githzerai/_Female/Resources/GTZ_F_NKD_Body_A.Dummy_Root.0"/>
+					<attribute id="Template" type="FixedString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Models/[PAK]_Githzerai/_Female/Resources/GTZ_F_NKD_Body_A.Dummy_Root.0"/>
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
           <children>
             <node id="Base"/>

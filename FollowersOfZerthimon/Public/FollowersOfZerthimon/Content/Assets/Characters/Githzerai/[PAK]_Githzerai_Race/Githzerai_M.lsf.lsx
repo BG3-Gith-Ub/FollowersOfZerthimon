@@ -501,7 +501,7 @@
           <attribute id="ID" type="FixedString" value="912c37cc-fcea-456f-af83-7b321f557755"/>
           <attribute id="Name" type="LSString" value="GTZ_M_NKD_Body_A_MSK"/>
           <attribute id="SRGB" type="bool" value="False"/>
-          <attribute id="SourceFile" type="LSString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Models/Githzerai/GTZ_M_NKD/Resources/GTZ_M_NKD_Body_A_MSK.DDS"/>
+          <attribute id="SourceFile" type="LSString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Models/[PAK]_Githzerai/GTZ_M_NKD/Resources/GTZ_M_NKD_Body_A_MSK.DDS"/>
           <attribute id="Streaming" type="bool" value="True"/>
           <attribute id="Template" type="FixedString" value="GTZ_M_NKD_Body_A_MSK"/>
           <attribute id="Type" type="int32" value="1"/>
@@ -514,7 +514,7 @@
           <attribute id="ID" type="FixedString" value="f3bc6f66-f712-4d02-8af2-8bf7e9c8ac81"/>
           <attribute id="Name" type="LSString" value="GTZ_M_NKD_Body_A_NM"/>
           <attribute id="SRGB" type="bool" value="False"/>
-          <attribute id="SourceFile" type="LSString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Models/Githzerai/GTZ_M_NKD/Resources/GTZ_M_NKD_Body_A_NM.DDS"/>
+          <attribute id="SourceFile" type="LSString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Models/[PAK]_Githzerai/GTZ_M_NKD/Resources/GTZ_M_NKD_Body_A_NM.DDS"/>
           <attribute id="Streaming" type="bool" value="True"/>
           <attribute id="Template" type="FixedString" value="GTZ_M_NKD_Body_A_NM"/>
           <attribute id="Type" type="int32" value="1"/>
@@ -527,7 +527,7 @@
           <attribute id="ID" type="FixedString" value="a305ec88-9d3d-4b53-8047-87d5c80bb920"/>
           <attribute id="Name" type="LSString" value="GTZ_M_NKD_Body_A_CLEA"/>
           <attribute id="SRGB" type="bool" value="False"/>
-          <attribute id="SourceFile" type="LSString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Models/Githzerai/GTZ_M_NKD/Resources/GTZ_M_NKD_Body_A_CLEA.DDS"/>
+          <attribute id="SourceFile" type="LSString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Models/[PAK]_Githzerai/GTZ_M_NKD/Resources/GTZ_M_NKD_Body_A_CLEA.DDS"/>
           <attribute id="Streaming" type="bool" value="True"/>
           <attribute id="Template" type="FixedString" value="GTZ_M_NKD_Body_A_CLEA"/>
           <attribute id="Type" type="int32" value="1"/>
@@ -540,7 +540,7 @@
           <attribute id="ID" type="FixedString" value="936926ec-877c-4568-9813-2f1eccef1493"/>
           <attribute id="Name" type="LSString" value="GTZ_M_NKD_Body_A_HMVY"/>
           <attribute id="SRGB" type="bool" value="False"/>
-          <attribute id="SourceFile" type="LSString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Models/Githzerai/GTZ_M_NKD/Resources/GTZ_M_NKD_Body_A_HMVY.DDS"/>
+          <attribute id="SourceFile" type="LSString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Models/[PAK]_Githzerai/GTZ_M_NKD/Resources/GTZ_M_NKD_Body_A_HMVY.DDS"/>
           <attribute id="Streaming" type="bool" value="True"/>
           <attribute id="Template" type="FixedString" value="GTZ_M_NKD_Body_A_HMVY"/>
           <attribute id="Type" type="int32" value="1"/>

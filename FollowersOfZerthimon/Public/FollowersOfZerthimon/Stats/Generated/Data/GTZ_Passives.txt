@@ -13,7 +13,33 @@ data "Description" "hb59528d0gfcdcg4f31g9db5gd0fa8640719e;2"
 data "Icon" "Spell_Divination_GZI_DetectThoughts"
 data "Properties" "Highlighted;ForceShowInCC"
 data "StatsFunctorContext" "OnCreate"
-data "StatsFunctors" "ApplyStatus(SELF,GZI_DETECT_THOUGHTS,100,-1)"
+data "StatsFunctors" "ApplyStatus(SELF,GZI_DETECT_THOUGHTS,100,-1)"     Target_GZI_Training
+
+
+new entry "GTZ_Zerth_Bestow_Training_A"
+type "PassiveData"
+data "DisplayName" "h1c86913fg1c35g4865g93f8g576c856265a3;2"
+data "Description" "h8c9b0f14gdbb2g4a4bga648g716d6d85957c;1" 
+data "Icon" "PassiveFeature_Zerth_Teachings"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockSpell(Target_GZI_Training_A)"
+
+new entry "GTZ_Zerth_Bestow_Training_B"
+type "PassiveData"
+data "DisplayName" "h1c86913fg1c35g4865g93f8g576c856265a3;2"
+data "Description" "h8c9b0f14gdbb2g4a4bga648g716d6d85957c;1"
+data "Icon" "PassiveFeature_Zerth_Teachings"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockSpell(Target_GZI_Training_B)"
+
+new entry "GTZ_Zerth_Bestow_Training_C"
+type "PassiveData"
+data "DisplayName" "h1c86913fg1c35g4865g93f8g576c856265a3;2"
+data "Description" "h8c9b0f14gdbb2g4a4bga648g716d6d85957c;1"
+data "Icon" "PassiveFeature_Zerth_Teachings"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockSpell(Target_GZI_Training_C)"
+
 
 new entry "GTZ_Zerth_Training"
 type "PassiveData"

@@ -36,11 +36,32 @@
         <node id="Progression">
           <attribute id="Level" type="uint8" value="5"/>
           <attribute id="Name" type="LSString" value="Githzerai_5"/>
+          <attribute id="PassivesAdded" type="LSString" value="GTZ_Zerth_Bestow_Training_A"/>
+          <attribute id="PassivesRemoved" type="LSString" value="GTZ_Zerth_Bestow_Training_B;GTZ_Zerth_Bestow_Training_C"/>           
           <attribute id="ProgressionType" type="uint8" value="2"/>
-          <attribute id="Selectors" type="LSString" value="AddSpells(b5218b5e-37a6-4ff7-8821-8bead1baa9ba,,Intelligence,,AlwaysPrepared,UntilRest);AddSpells(fdce7a0b-1e19-432b-a8eb-07fa4f17f097)"/>
+          <attribute id="Selectors" type="LSString" value="AddSpells(b5218b5e-37a6-4ff7-8821-8bead1baa9ba,,Intelligence,,AlwaysPrepared,UntilRest)"/>  ;AddSpells(fdce7a0b-1e19-432b-a8eb-07fa4f17f097)
           <attribute id="TableUUID" type="guid" value="eccc27e9-0d6f-409a-98d1-c924ce52c364"/>
           <attribute id="UUID" type="guid" value="6ffab5cd-9118-4472-b610-30df59a3ff6f"/>
+          <attribute id="Boosts" type="LSString" value="TAG(ZERTH)"/>   GTZ_Zerth_Bestow_Training_C GTZ_Zerth_Bestow_Training_B GTZ_Zerth_Bestow_Training_A
         </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="7"/>
+          <attribute id="Name" type="LSString" value="Githzerai_7"/>
+          <attribute id="PassivesAdded" type="LSString" value="GTZ_Zerth_Bestow_Training_B"/>
+          <attribute id="PassivesRemoved" type="LSString" value="GTZ_Zerth_Bestow_Training_A;GTZ_Zerth_Bestow_Training_C"/>           
+          <attribute id="ProgressionType" type="uint8" value="2"/>
+          <attribute id="TableUUID" type="guid" value="eccc27e9-0d6f-409a-98d1-c924ce52c364"/>
+          <attribute id="UUID" type="guid" value="91e65196-1db2-4233-89cd-33d075f56c6e"/>
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="9"/>
+          <attribute id="Name" type="LSString" value="Githzerai_9"/>
+          <attribute id="PassivesAdded" type="LSString" value="GTZ_Zerth_Bestow_Training_C"/>
+          <attribute id="PassivesRemoved" type="LSString" value="GTZ_Zerth_Bestow_Training_B;GTZ_Zerth_Bestow_Training_A"/>          
+          <attribute id="ProgressionType" type="uint8" value="2"/>
+          <attribute id="TableUUID" type="guid" value="eccc27e9-0d6f-409a-98d1-c924ce52c364"/>
+          <attribute id="UUID" type="guid" value="f1dfb467-0a26-4dec-8ff0-0ec28e3eac2f"/>
+        </node>                
       </children>
     </node>
   </region>
