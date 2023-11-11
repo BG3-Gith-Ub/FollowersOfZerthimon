@@ -16,7 +16,7 @@
                     <attribute id="IsHidden" type="bool" value="false"/>
                     <attribute id="Name" type="FixedString" value="GZI_Knowledge"/>
                     <attribute id="ReplenishType" type="FixedString" value="Never"/>
-                    <attribute id="UUID" type="guid" value="19d40b2c-2d75-44c7-83e3-f91abe33496b"/> 
+                    <attribute id="UUID" type="guid" value="615346fa-d6c7-4804-a0d0-bd361fd4f79a"/> 
                 </node>                
             </children>
         </node>
