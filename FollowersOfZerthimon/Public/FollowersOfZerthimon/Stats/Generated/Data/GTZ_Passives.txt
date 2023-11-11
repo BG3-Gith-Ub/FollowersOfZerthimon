@@ -47,7 +47,7 @@ data "DisplayName" "h0dcf10e4g5df7g482egbbabgf357130c1e5a;2"
 data "Description" "h4965e1aag0998g4a4dg9baag4615993ab509;1" 
 data "Icon" "PassiveFeature_Zerth_Teachings"
 data "Properties" "Highlighted"
-data "Boosts" "Tag(ZERTH);Ability(Wisdom,1)"
+data "Boosts" "Tag(ZERTH);Ability(Wisdom,1);UnlockSpell(Target_GZI_Training_Revoke)"
 
 new entry "GTZ_Zerth_Psionics"
 type "PassiveData"
@@ -63,7 +63,7 @@ data "DisplayName" "h92464171g15b8g43b4gb260g8a37cbe97e93;1"
 data "Description" "hd0751a29gf251g4c0cg8632g20d9f8e63e98;1" 
 data "Icon" "PassiveFeature_Zerth_Teachings"
 data "Properties" "Highlighted"
-data "Boosts" "UnlockSpell(Projectile_Zerth_Psi_Barrage);UnlockSpell(Projectile_Zerth_Psi_Lance);UnlockSpell(Target_GZI_Training_Revoke)"
+data "Boosts" "UnlockSpell(Projectile_Zerth_Psi_Barrage);UnlockSpell(Projectile_Zerth_Psi_Lance)"
 
 
 new entry "GTZ_Base_Speed"
