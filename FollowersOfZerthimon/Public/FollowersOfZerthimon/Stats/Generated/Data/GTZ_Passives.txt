@@ -69,12 +69,13 @@ data "Boosts" "UnlockSpell(Projectile_Zerth_Psi_Barrage);UnlockSpell(Projectile_
 new entry "GZI_KNWLD_TECH"
 type "PassiveData"
 data "StatusPropertyFlags" "IgnoreResting"
-data "DisplayName" "h0dcf10e4g5df7g482egb55b5f357130c1e5a;2"
+data "DisplayName" "h0dcf10e4g5df7g482egbbabgf357130c1e5a;2"
 data "Description" "h4965e1aag0998g4a4dg9baag4615993ab509;1" 
 data "StatsFunctorContext" "OnCast"
+data "Properties" "Highlighted"
 data "Conditions" "SpellId('Target_GZI_Training_Revoke')"
-data "StatsFunctors" "RestoreResource(SELF,GZI_Knowledge,1,0)"
-data "Icon" "PassiveFeature_Zerth_Teachings"
+data "StatsFunctors" "ApplyStatus(SELF,GZI_KNWLD_ADD_STATUS,100,1)"
+data "Icon" ""
 
 
 

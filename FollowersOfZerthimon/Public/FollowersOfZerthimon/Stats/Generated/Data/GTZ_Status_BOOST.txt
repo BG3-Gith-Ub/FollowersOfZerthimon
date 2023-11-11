@@ -127,7 +127,7 @@ data "StatusType" "BOOST"
 data "StatusPropertyFlags" "IgnoreResting"
 data "DisplayName" "h0dcf10e4g5df7g482egb55b5f357130c1e5a;2"
 data "Description" "h4965e1aag0998g4a4dg9baag4615993ab509;1" 
-data "Boosts" "ActionResource(GZI_Knowledge,1,0)"
+data "OnApplyFunctors" "UseActionResource(GZI_Knowledge,-1)"
 data "Icon" "PassiveFeature_Zerth_Teachings"
 
 new entry "GZI_TRAINING_A_PROXY"
