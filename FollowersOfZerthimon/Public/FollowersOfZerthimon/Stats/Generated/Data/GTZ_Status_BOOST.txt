@@ -109,3 +109,33 @@ data "StatusPropertyFlags" "DisableCombatlog;DisablePortraitIndicator;DisableOve
 data "StackId" "ZERTH_TRAINING_C"
 data "Passives" "GTZ_Zerth_Psionics_Two"
 data "StatusGroups" "SG_RemoveOnRespec"
+
+
+
+new entry "GZI_TRAINING_A_PROXY"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h0dcf10e4g5df7g482egbbabgf357130c1e5a;2"
+data "Description" "h4965e1aag0998g4a4dg9baag4615993ab509;1" 
+data "Icon" "PassiveFeature_Zerth_Teachings"
+
+
+
+new entry "GZI_TRAINING_B_PROXY"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "hd479fc14gfa77g4b51gb921gf1aaaf594b63;2"
+data "Description" "h0d17cea5g3f0fg47ddga79cg9f6e726e1aec;1" 
+data "Icon" "PassiveFeature_Zerth_Teachings"
+
+
+
+new entry "GZI_TRAINING_C_PROXY"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h92464171g15b8g43b4gb260g8a37cbe97e93;1"
+data "Description" "hd0751a29gf251g4c0cg8632g20d9f8e63e98;1" 
+data "Icon" "PassiveFeature_Zerth_Teachings"
+
+
+
