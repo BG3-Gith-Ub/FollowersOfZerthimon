@@ -18,7 +18,7 @@
 					<attribute id="Looping" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="VFX_PsionicMM_BodyFX_01" />
 					<attribute id="Radius" type="float" value="3" />
-					<attribute id="SourceFile" type="LSString" value="Public/FollowersOFZerthimon/Assets/Effects/Effects_Banks/VFX_PsionicMM_BodyFX_01.lsfx" />
+					<attribute id="SourceFile" type="LSString" value="Public/FollowersOfZerthimon/Assets/Effects/Effects_Banks/VFX_PsionicMM_BodyFX_01.lsfx" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
 					<children>
 						<node id="Dependencies">
@@ -80,7 +80,7 @@
 					<attribute id="Looping" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="VFX_PsionicMM_R_HandFX_01" />
 					<attribute id="Radius" type="float" value="7.5" />
-					<attribute id="SourceFile" type="LSString" value="Public/FollowersOFZerthimon/Assets/Effects/Effects_Banks/VFX_PsionicMM_R_HandFX_01.lsfx" />
+					<attribute id="SourceFile" type="LSString" value="Public/FollowersOfZerthimon/Assets/Effects/Effects_Banks/VFX_PsionicMM_R_HandFX_01.lsfx" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115198813274212" />
 					<children>
 						<node id="Dependencies">
@@ -151,7 +151,7 @@
 					<attribute id="Looping" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="VFX_PsionicMM_Root_01" />
 					<attribute id="Radius" type="float" value="4" />
-					<attribute id="SourceFile" type="LSString" value="Public/FollowersOFZerthimon/Assets/Effects/Effects_Banks/VFX_PsionicMM_Root_01.lsfx" />
+					<attribute id="SourceFile" type="LSString" value="Public/FollowersOfZerthimon/Assets/Effects/Effects_Banks/VFX_PsionicMM_Root_01.lsfx" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
 					<children>
 						<node id="Dependencies">
@@ -194,7 +194,7 @@
 					<attribute id="Looping" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="VFX_PsionicMM_CastFX_01" />
 					<attribute id="Radius" type="float" value="3" />
-					<attribute id="SourceFile" type="LSString" value="Public/FollowersOFZerthimon/Assets/Effects/Effects_Banks/VFX_PsionicMM_CastFX_01.lsfx" />
+					<attribute id="SourceFile" type="LSString" value="Public/FollowersOfZerthimon/Assets/Effects/Effects_Banks/VFX_PsionicMM_CastFX_01.lsfx" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
 					<children>
 						<node id="Dependencies">
@@ -396,7 +396,7 @@
 					<attribute id="Looping" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="VFX_PsionicMM_TrailFX_01" />
 					<attribute id="Radius" type="float" value="5" />
-					<attribute id="SourceFile" type="LSString" value="Public/FollowersOFZerthimon/Assets/Effects/Effects_Banks/VFX_PsionicMM_TrailFX_01.lsfx" />
+					<attribute id="SourceFile" type="LSString" value="Public/FollowersOfZerthimon/Assets/Effects/Effects_Banks/VFX_PsionicMM_TrailFX_01.lsfx" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
 					<children>
 						<node id="Dependencies">
@@ -485,7 +485,7 @@
 					<attribute id="Looping" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="VFX_PsionicMM_ImpactFX_01" />
 					<attribute id="Radius" type="float" value="6" />
-					<attribute id="SourceFile" type="LSString" value="Public/FollowersOFZerthimon/Assets/Effects/Effects_Banks/VFX_PsionicMM_ImpactFX_01.lsfx" />
+					<attribute id="SourceFile" type="LSString" value="Public/FollowersOfZerthimon/Assets/Effects/Effects_Banks/VFX_PsionicMM_ImpactFX_01.lsfx" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
 					<children>
 						<node id="Dependencies">
