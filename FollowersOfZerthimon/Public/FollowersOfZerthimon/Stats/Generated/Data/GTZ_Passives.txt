@@ -24,6 +24,7 @@ data "Icon" "PassiveFeature_Zerth_Teachings"
 data "Properties" "Highlighted"
 data "Boosts" "UnlockSpell(Target_GZI_Training_A);UnlockSpell(Target_GZI_Training_Revoke)"
 
+
 new entry "GTZ_Zerth_Bestow_Training_B"
 type "PassiveData"
 data "DisplayName" "h1c86913fg1c35g4865g93f8g576c856265a3;2"
@@ -64,6 +65,17 @@ data "Description" "hd0751a29gf251g4c0cg8632g20d9f8e63e98;1"
 data "Icon" "PassiveFeature_Zerth_Teachings"
 data "Properties" "Highlighted"
 data "Boosts" "UnlockSpell(Projectile_Zerth_Psi_Barrage);UnlockSpell(Projectile_Zerth_Psi_Lance)"
+
+new entry "GZI_KNWLD_TECH"
+type "PassiveData"
+data "StatusPropertyFlags" "IgnoreResting"
+data "DisplayName" "h0dcf10e4g5df7g482egb55b5f357130c1e5a;2"
+data "Description" "h4965e1aag0998g4a4dg9baag4615993ab509;1" 
+data "StatsFunctorContext" "OnCast"
+data "Conditions" "SpellId('Target_GZI_Training_Revoke')"
+data "StatsFunctors" "RestoreResource(SELF,GZI_Knowledge,1,0)"
+data "Icon" "PassiveFeature_Zerth_Teachings"
+
 
 
 new entry "GTZ_Base_Speed"
