@@ -1,3 +1,6 @@
+//GothHolliday 
+
+
 new entry "GETFUCKED"
 type "StatusData"
 data "StatusType" "INCAPACITATED"

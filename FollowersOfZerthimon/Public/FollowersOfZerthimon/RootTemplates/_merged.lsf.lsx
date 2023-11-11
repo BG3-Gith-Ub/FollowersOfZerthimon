@@ -4,6 +4,7 @@
 	<region id="Templates">
 		<node id="Templates">
 			<children>
+				//IMMORTALRD
                 <node id="GameObjects">
 					<attribute id="BeamFX" type="FixedString" value="VFX_PsionicMM_01" />
 					<attribute id="CameraOffset" type="fvec3" value="0 0 0" />
