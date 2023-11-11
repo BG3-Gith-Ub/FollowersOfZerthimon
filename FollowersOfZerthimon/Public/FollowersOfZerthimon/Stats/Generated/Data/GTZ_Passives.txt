@@ -63,7 +63,7 @@ data "DisplayName" "h92464171g15b8g43b4gb260g8a37cbe97e93;1"
 data "Description" "hd0751a29gf251g4c0cg8632g20d9f8e63e98;1" 
 data "Icon" "PassiveFeature_Zerth_Teachings"
 data "Properties" "Highlighted"
-data "Boosts" "UnlockSpell(Projectile_Zerth_Psi_Barrage);UnlockSpell(Projectile_Zerth_Psi_Lance);"
+data "Boosts" "UnlockSpell(Projectile_Zerth_Psi_Barrage);UnlockSpell(Projectile_Zerth_Psi_Lance);UnlockSpell(Target_GZI_Training_Revoke)"
 
 
 new entry "GTZ_Base_Speed"
