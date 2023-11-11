@@ -74,7 +74,7 @@ data "Description" "h4965e1aag0998g4a4dg9baag4615993ab509;1"
 data "StatsFunctorContext" "OnCast"
 data "Properties" "Highlighted"
 data "Conditions" "SpellId('Target_GZI_Training_Revoke')"
-data "StatsFunctors" "ApplyStatus(SELF,GZI_KNWLD_ADD_STATUS,100,1)"
+data "StatsFunctors" "IF(CharacterLevelGreaterThan(4) and not CharacterLevelGreaterThan(6)):ApplyStatus(SELF,GZI_KNWLD_ADD_STATUS_A,100,1);IF(CharacterLevelGreaterThan(6) and not CharacterLevelGreaterThan(8)):ApplyStatus(SELF,GZI_KNWLD_ADD_STATUS_B,100,1);IF(CharacterLevelGreaterThan(8)):ApplyStatus(SELF,GZI_KNWLD_ADD_STATUS_C,100,1);"
 data "Icon" ""
 
 
