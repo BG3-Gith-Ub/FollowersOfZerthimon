@@ -66,6 +66,15 @@ data "Icon" "PassiveFeature_Zerth_Teachings"
 data "Properties" "Highlighted"
 data "Boosts" "UnlockSpell(Projectile_Zerth_Psi_Barrage);UnlockSpell(Projectile_Zerth_Psi_Lance_Teacher)"
 
+new entry "GTZ_Zerth_DEBUG"
+type "PassiveData"
+data "DisplayName" "hd479fc14gfa77g4b51gb921gf1aaaf594b63;2"
+data "Description" "h0d17cea5g3f0fg47ddga79cg9f6e726e1aec;1" 
+data "Icon" "PassiveFeature_Zerth_Teachings"
+data "Properties" "Highlighted"
+data "Boosts" "Ability(Wisdom,1);UnlockSpell(Target_MageHand_GithzeraiPsionics);UnlockSpell(Target_Limbo_Container);UnlockSpell(GH_GithOverHere)"
+
+
 
 new entry "GTZ_Zerth_Psionics"
 type "PassiveData"
