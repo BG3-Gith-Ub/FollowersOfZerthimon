@@ -56,7 +56,7 @@ data "DisplayName" "hd479fc14gfa77g4b51gb921gf1aaaf594b63;2"
 data "Description" "h0d17cea5g3f0fg47ddga79cg9f6e726e1aec;1" 
 data "Icon" "PassiveFeature_Zerth_Teachings"
 data "Properties" "Highlighted"
-data "Boosts" "Ability(Wisdom,1);UnlockSpell(Target_MageHand_GithzeraiPsionics);UnlockSpell(Target_Limbo_Container);UnlockSpell(GH_GithOverHere)"
+data "Boosts" "Ability(Wisdom,1);UnlockSpell(Target_MageHand_GithzeraiPsionics);"  //UnlockSpell(Target_Limbo_Container);UnlockSpell(GH_GithOverHere)
 
 new entry "GTZ_Zerth_Psionics_Two_Teacher"
 type "PassiveData"
@@ -64,7 +64,7 @@ data "DisplayName" "h92464171g15b8g43b4gb260g8a37cbe97e93;1"
 data "Description" "hd0751a29gf251g4c0cg8632g20d9f8e63e98;1" 
 data "Icon" "PassiveFeature_Zerth_Teachings"
 data "Properties" "Highlighted"
-data "Boosts" "UnlockSpell(Projectile_Zerth_Psi_Barrage);UnlockSpell(Projectile_Zerth_Psi_Lance_Teacher)"
+data "Boosts" ";UnlockSpell(Projectile_Zerth_Psi_Lance_Teacher)"  //UnlockSpell(Projectile_Zerth_Psi_Barrage)
 
 
 new entry "GTZ_Zerth_Psionics"
@@ -73,7 +73,7 @@ data "DisplayName" "hd479fc14gfa77g4b51gb921gf1aaaf594b63;2"
 data "Description" "h0d17cea5g3f0fg47ddga79cg9f6e726e1aec;1" 
 data "Icon" "PassiveFeature_Zerth_Teachings"
 data "Properties" "Highlighted"
-data "Boosts" "Ability(Wisdom,1);UnlockSpell(Target_MageHand_GithzeraiPsionics);UnlockSpell(Target_Limbo_Container);UnlockSpell(GH_GithOverHere)"
+data "Boosts" "Ability(Wisdom,1);UnlockSpell(Target_MageHand_GithzeraiPsionics);"  //UnlockSpell(Target_Limbo_Container);UnlockSpell(GH_GithOverHere)
 
 new entry "GTZ_Zerth_Psionics_Two"
 type "PassiveData"
@@ -81,7 +81,7 @@ data "DisplayName" "h92464171g15b8g43b4gb260g8a37cbe97e93;1"
 data "Description" "hd0751a29gf251g4c0cg8632g20d9f8e63e98;1" 
 data "Icon" "PassiveFeature_Zerth_Teachings"
 data "Properties" "Highlighted"
-data "Boosts" "UnlockSpell(Projectile_Zerth_Psi_Barrage);UnlockSpell(Projectile_Zerth_Psi_Lance)"
+data "Boosts" ";UnlockSpell(Projectile_Zerth_Psi_Lance)"  //UnlockSpell(Projectile_Zerth_Psi_Barrage)
 
 new entry "GZI_KNWLD_TECH"
 type "PassiveData"
