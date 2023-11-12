@@ -13,14 +13,17 @@
 	<content contentuid="h1c86913fg1c35g4865g93f8g576c856265a3" version="1">Bestow Knowledge</content>
 	<content contentuid="h8c9b0f14gdbb2g4a4bga648g716d6d85957c" version="1">Set an ally on a path of inner discovery, allowing them to eventually become a Zerth</content>
 	
-	
-	
+	<content contentuid="h2063b081g818dg46d6g9040g1091e0e94c19" version="1">Knowledge Tier</content>	
+
+	<content contentuid="ha059ddc4gbf80g45bdg9958g1c3eb66cf3b7" version="1">Revoke Knowledge</content>	
+	<content contentuid="hcca5f466gba6bg4656g8360g46fc39c61d34" version="1">CTRL Z</content>
+		
 	
 	
 	<content contentuid="h0dcf10e4g5df7g482egbbabgf357130c1e5a" version="1">Teachings of Zerthimon - I</content>
-	<content contentuid="h4965e1aag0998g4a4dg9baag4615993ab509" version="1">Beginning down the path of the Zerth you are able to benefit from their psionically enhanced equipment and gear. Additionally you gain an increased understanding of your inner self, increasing your &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt; by 1.</content>
+	<content contentuid="h4965e1aag0998g4a4dg9baag4615993ab509" version="1">Beginning down the path of the Zerth you are able to benefit from their psionically enhanced equipment and gear.</content>
 	<content contentuid="hd479fc14gfa77g4b51gb921gf1aaaf594b63" version="1">Teachings of Zerthimon - II</content>
-	<content contentuid="h0d17cea5g3f0fg47ddga79cg9f6e726e1aec" version="1">Zerthimon's psionic presence allows you to cast &lt;LSTag Type="Spell" Tooltip="Target_MageHand_GithzeraiPsionics"&gt;Githzerai Mage Hand&lt;/LSTag&gt; once per long rest</content>
+	<content contentuid="h0d17cea5g3f0fg47ddga79cg9f6e726e1aec" version="1">Zerthimon's psionic presence allows you to cast &lt;LSTag Type="Spell" Tooltip="Target_MageHand_GithzeraiPsionics"&gt;Githzerai Mage Hand&lt;/LSTag&gt; once per long rest. Additionally you gain an increased understanding of your inner self, increasing your &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt; by 1.</content>
 	
 	<content contentuid="h92464171g15b8g43b4gb260g8a37cbe97e93" version="1">Teachings of Zerthimon - III</content>
 	<content contentuid="hd0751a29gf251g4c0cg8632g20d9f8e63e98" version="1">Zerthimon's psionic presence allows you to cast &lt;LSTag Type="Spell" Tooltip="Projectile_Zerth_Psi_Barrage"&gt;Project Will&lt;/LSTag&gt; once per short rest</content>
@@ -56,6 +59,12 @@
 	<content contentuid="haac43791gaf4ag4b2cgb3cdga91587612cde" version="1">The Seventh Circle&lt;br&gt;&lt;br&gt;&lt;br&gt;Know that the Rising of the People against the illithid was a thing built upon many turnings. Many were the People who lived and died under time's blade while the Rising was shaped.&lt;br&gt;&lt;br&gt;The Rising was shaped upon a slow foundation. Steel was gathered so that it might mark illithid flesh. A means of knowing the movements of the illithids was established, at first weak and confused, then stronger, like a child finding its voice. When the movements were known, then the illithids were observed. In observing them, their ways of the mind were known.&lt;br&gt;&lt;br&gt;When the ways of the illithid were known, many of the People were gathered and taught in secret the means to shield their minds, and the way to harness their will as weapons. They were taught the scripture of steel, and most importantly, they were given the knowing of freedom.&lt;br&gt;&lt;br&gt;These things were not learned quickly. The knowing of much of the ways was slow, and in all these things, time's weight fell upon all. From the knowing of one's reflection in a steel blade, to the knowing of submerging the will, to the knowing of seeing itself. All of these things and more the People built upon. In time, they came to know the whole.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;The Eighth Circle&lt;br&gt;&lt;br&gt;&lt;br&gt;Know that a mind divided divides the man. The will and the hand must be as one. In knowing the self, one becomes strong.&lt;br&gt;&lt;br&gt;Know that if you know a course of action to be true in your heart, do not betray it because the path leads to hardship. Know that without suffering, the Rising would have never been, and the People would never have come to know themselves.&lt;br&gt;&lt;br&gt;Know that there is nothing in all the Worlds that can stand against unity. When all know a single purpose, when all hands are guided by one will, and all act with the same intent, the Planes themselves may be moved.&lt;br&gt;&lt;br&gt;A divided mind is one that does not know itself. When it is divided, it cleaves the body in two. When one has a single purpose, the body is strengthened. In knowing the self, grow strong.</content>
 
 	<content contentuid="h67bb2c2dgd8acg48e1gb229g3902d36fa1fa" version="1">Monastic</content>
+	
+	<content contentuid="hd947ed3cg33bfg4e32g802cg2b086c8627df" version="1">Limbo, baby!</content>
+	<content contentuid="h4870a85fg6d82g4c15gbab5gf872c9bdc666" version="1">Teleport yourself and one target to your home plane of Limbo, where you are much stronger.  Then be mean to them.</content>
+	<content contentuid="h160f4312gfe9bg4485g9da1g82360d92ce0d" version="1">Teleport yourself and two targets to your home plane of Limbo for 2 turns, where you are much stronger.  Then be mean to them.</content>
+	<content contentuid="h8fc8cbb7gd5d2g4538gaca0g04087511306b" version="1">Teleport yourself and three targets to your home plane of Limbo for 3 turns, where you are much stronger.  Then be mean to them.</content>
+	<content contentuid="h847d41e8g0d10g4444ga367g7ef8cb0478dc" version="1">The Legacy of Limbo courses through you</content>
 
 
 </contentList>
