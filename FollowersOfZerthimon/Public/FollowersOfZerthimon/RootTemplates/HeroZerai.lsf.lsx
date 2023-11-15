@@ -50,7 +50,7 @@
           <attribute id="Type" type="FixedString" value="character"/>
           <attribute id="ParentTemplateId" type="FixedString" value="fb6c3396-2aea-4800-9e9f-826854a6bdf3"/>
           <attribute id="Flag" type="int32" value="0"/>
-          <attribute id="Icon" type="FixedString" value="9e645e51-bf7d-4f0a-9c73-4ab3038b43a6-_(Icon_Dragonborn_Female)"/>
+          <attribute id="Icon" type="FixedString" value="9e645e51-bf7d-4f0a-9c73-4ab3038b43a6-_(Icon_Githyanki_Female)"/>
           <attribute id="Stats" type="FixedString" value="HeroGithFemale"/>
           <attribute id="SpellSet" type="FixedString" value="CommonPlayerActions"/>
           <attribute id="CharacterVisualResourceID" type="FixedString" value="9e645e51-bf7d-4f0a-9c73-4ab3038b43a6"/>
