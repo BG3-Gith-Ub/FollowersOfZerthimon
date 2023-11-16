@@ -1,0 +1,12 @@
+new entry "MAG_Zerth_Magic_Armor_Robe_A_Passive"
+type "PassiveData"
+data "DisplayName" "hcbc03dafg8aacg4068g808cg1849be085b2f;1"
+data "Description" "hc38ef374g8d19g47d5g80d3g0bc2665dd615;1"
+data "DescriptionParams" "DealDamage(1d4,Psychic)"
+data "Boosts" "IF(IsSpell() and IsDamageTypePsionic()):DamageBonus(1d4,Psychic)"
+
+new entry "MAG_Zerth_Magic_Armor_Robe_B_Passive"
+type "PassiveData"
+data "DisplayName" "h4d5c1fb0gb705g4e4egab52ga2b36cb23715;3"
+data "Description" "h09243535g5cfbg42ddg9346gad31b0646ea8;1"
+data "Boosts" "IF(Tagged('ZERTH')):Advantage(SavingThrow, Wisdom)"

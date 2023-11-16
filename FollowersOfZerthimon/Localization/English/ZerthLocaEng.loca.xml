@@ -18,12 +18,12 @@
 	<content contentuid="ha059ddc4gbf80g45bdg9958g1c3eb66cf3b7" version="1">Revoke Knowledge</content>	
 	<content contentuid="hcca5f466gba6bg4656g8360g46fc39c61d34" version="1">CTRL Z</content>
 		
-	
+	<content contentuid="h798200eag79f8g44fag8893gfe377cfcb628" version="1">Suhra</content>	
 	
 	<content contentuid="h0dcf10e4g5df7g482egbbabgf357130c1e5a" version="1">Teachings of Zerthimon - I</content>
-	<content contentuid="h4965e1aag0998g4a4dg9baag4615993ab509" version="1">Beginning down the path of the Zerth you are able to benefit from their psionically enhanced equipment and gear. Additionally you gain an increased understanding of your inner self, increasing your &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt; by 1.</content>
+	<content contentuid="h4965e1aag0998g4a4dg9baag4615993ab509" version="1">Beginning down the path of the Zerth you are able to benefit from their psionically enhanced equipment and gear.</content>
 	<content contentuid="hd479fc14gfa77g4b51gb921gf1aaaf594b63" version="1">Teachings of Zerthimon - II</content>
-	<content contentuid="h0d17cea5g3f0fg47ddga79cg9f6e726e1aec" version="1">Zerthimon's psionic presence allows you to cast &lt;LSTag Type="Spell" Tooltip="Target_MageHand_GithzeraiPsionics"&gt;Githzerai Mage Hand&lt;/LSTag&gt; once per long rest</content>
+	<content contentuid="h0d17cea5g3f0fg47ddga79cg9f6e726e1aec" version="1">Zerthimon's psionic presence allows you to cast &lt;LSTag Type="Spell" Tooltip="Target_MageHand_GithzeraiPsionics"&gt;Githzerai Mage Hand&lt;/LSTag&gt; once per long rest. Additionally you gain an increased understanding of your inner self, increasing your &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt; by 1.</content>
 	
 	<content contentuid="h92464171g15b8g43b4gb260g8a37cbe97e93" version="1">Teachings of Zerthimon - III</content>
 	<content contentuid="hd0751a29gf251g4c0cg8632g20d9f8e63e98" version="1">Zerthimon's psionic presence allows you to cast &lt;LSTag Type="Spell" Tooltip="Projectile_Zerth_Psi_Barrage"&gt;Project Will&lt;/LSTag&gt; once per short rest</content>
@@ -76,6 +76,5 @@
 	<content contentuid="h678ce434g7839g48c7ga393g20a14c1e9077" version="1">Negate the spell, knocking the opponent back and possibly disarming them.</content>
 	<content contentuid="h4e2459d0g0aacg4addg8a75g58e8a8c12580" version="1">Getting the shit kicked out of them</content>
 	<content contentuid="h15287400g3fa9g4f35g879ag1877d1c4738b" version="1">Phase yourself and an unfortunate target to your home plane of Limbo, where you are much stronger.</content>
-
 
 </contentList>
