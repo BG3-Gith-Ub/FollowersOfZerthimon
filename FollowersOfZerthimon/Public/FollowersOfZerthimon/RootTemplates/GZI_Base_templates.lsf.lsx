@@ -59,7 +59,7 @@
             <node id="GameMaster"/>
             <node id="LocomotionParams"/>
           </children>
-        </node>      
+        </node>     
       </children>
     </node>
   </region>
