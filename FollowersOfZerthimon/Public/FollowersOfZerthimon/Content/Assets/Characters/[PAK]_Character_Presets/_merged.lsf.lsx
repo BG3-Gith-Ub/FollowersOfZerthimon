@@ -55,7 +55,7 @@
 									<attribute id="Custom" type="bool" value="True" />
 									<attribute id="Enabled" type="bool" value="False" />
 									<attribute id="Parameter" type="FixedString" value="BodyTattooIndex" />
-									<attribute id="Value" type="float" value="1" />
+									<attribute id="Value" type="float" value="2" />
 								</node>
 								<node id="ScalarParameters">
 									<attribute id="Color" type="bool" value="False" />

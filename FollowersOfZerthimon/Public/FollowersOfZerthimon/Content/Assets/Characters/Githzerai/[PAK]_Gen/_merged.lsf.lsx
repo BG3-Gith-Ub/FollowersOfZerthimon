@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids" />
+	<region id="VisualBank">
+		<node id="VisualBank">
+			<children>
+				//GEN A
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.06131051 1.055958 0.05154187" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.06855641 0.9390886 -0.1009529" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="0fbb171a-6a58-516b-0c5f-9d252a4f6ee9" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="e5f1c623-24f5-4ef1-b10c-60da68a93ecc" /> //CHANGED
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="GTZ_F_NKD_Body_Genital_A" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Private Parts" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Models/Githyanki/_Female/Resources/GTY_F_NKD_Body_Genital_A.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Models/Githyanki/_Female/Resources/GTY_F_NKD_Body_Genital_A.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="1d401399-7c7b-45d3-90d0-571bf10b7c41" /> //CHANGED
+							<attribute id="ObjectID" type="FixedString" value="GTY_F_NKD_Body_Genital_A.GTY_F_NKD_Body_Genital_A_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="79c3b32b-a243-b949-4aea-4ff285d50fca" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_F_NKD_Body_Genital_A.GTY_F_NKD_Body_Genital_A_Pubes_Mesh.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="1d401399-7c7b-45d3-90d0-571bf10b7c41" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_F_NKD_Body_Genital_A.GTY_F_NKD_Body_Genital_A_Mesh_LOD1.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="79c3b32b-a243-b949-4aea-4ff285d50fca" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_F_NKD_Body_Genital_A.GTY_F_NKD_Body_Genital_A_Pubes_Mesh_LOD1.3" />
+						</node>
+					</children>
+				</node>
+
+
+				//GEN A NH
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.04220764 1.0319 0.05154187" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.04220762 0.9430031 -0.09440736" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="50d378f5-696e-4448-9769-e7b077a8c808" /> //CHANGED
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="GTZ_F_NKD_Body_Genital_A_NoHair" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Models/Githyanki/_Female/Resources/GTY_F_NKD_Body_Genital_A_NoHair.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Models/Githyanki/_Female/Resources/GTY_F_NKD_Body_Genital_A_NoHair.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="1d401399-7c7b-45d3-90d0-571bf10b7c41" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_F_NKD_Body_Genital_A_NoHair.GTY_F_NKD_Body_Genital_A_Mesh1.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="1d401399-7c7b-45d3-90d0-571bf10b7c41" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_F_NKD_Body_Genital_A_NoHair.GTY_F_NKD_Body_Genital_A_Mesh1_LOD1.1" />
+						</node>
+					</children>
+				</node>				
+
+				//GEN B
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.06064124 1.074903 0.05154187" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.06189471 0.8904553 -0.1230975" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="1bc003b0-0afe-495b-04fb-c4902ec82d00" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="d7725e95-daef-4000-82a5-5449d6b60643" /> //CHANGED 20a4db7c-139f-77c9-3af1-bfda5bc2a318
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="GTZ_F_NKD_Body_Genital_B" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Private Parts" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Models/Githyanki/_Female/Resources/GTY_F_NKD_Body_Genital_B.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Models/Githyanki/_Female/Resources/GTY_F_NKD_Body_Genital_B.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="133adfa9-11a1-4b16-8578-ebc39a1ca960" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_F_NKD_Body_Genital_B.GTY_F_NKD_Body_Genital_B_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="79c3b32b-a243-b949-4aea-4ff285d50fca" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_F_NKD_Body_Genital_B.GTY_F_NKD_Body_Genital_B_Pubes_Mesh.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="133adfa9-11a1-4b16-8578-ebc39a1ca960" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_F_NKD_Body_Genital_B.GTY_F_NKD_Body_Genital_B_Mesh_LOD1.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="79c3b32b-a243-b949-4aea-4ff285d50fca" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_F_NKD_Body_Genital_B.GTY_F_NKD_Body_Genital_B_Pubes_Mesh_LOD1.3" />
+						</node>
+					</children>
+				</node>
+
+				//GEN B NH
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.04220762 1.0319 0.05154187" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.04220762 0.8961504 -0.1230975" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="1ef67ffc-04c6-46f7-ae38-890397bd8372" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="GTZ_F_NKD_Body_Genital_B_NoHair" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Private Parts" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Models/Githyanki/_Female/Resources/GTY_F_NKD_Body_Genital_B_NoHair.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Models/Githyanki/_Female/Resources/GTY_F_NKD_Body_Genital_B_NoHair.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="133adfa9-11a1-4b16-8578-ebc39a1ca960" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_F_NKD_Body_Genital_B_NoHair.GTY_F_NKD_Body_Genital_B_NoHair_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="133adfa9-11a1-4b16-8578-ebc39a1ca960" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_F_NKD_Body_Genital_B_NoHair.GTY_F_NKD_Body_Genital_B_NoHair_Mesh_LOD1.1" />
+						</node>
+					</children>
+				</node>
+
+				//GEN C
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.06064124 1.074903 0.05154186" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.06186974 0.8904553 -0.121527" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="0b6a624c-a49c-4e16-8d01-b3c8dd522de2" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="GTZ_F_NKD_Body_Genital_C" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Private Parts" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Models/Githyanki/_Female/Resources/GTY_F_NKD_Body_Genital_C.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Models/Githyanki/_Female/Resources/GTY_F_NKD_Body_Genital_C.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="79c3b32b-a243-b949-4aea-4ff285d50fca" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_F_NKD_Body_Genital_C.GTY_F_NKD_Body_Genital_B_Pubes_Mesh1.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="fac23cb5-abfb-4b55-befd-06d23e262d82" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_F_NKD_Body_Genital_C.GTY_F_NKD_Body_Genital_C_Mesh.1" />
+						</node>
+					</children>
+				</node>
+
+				//GEN C NH
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.04220762 1.0319 0.05154186" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.04220762 0.8961504 -0.121527" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="68f24c29-f6d6-4c89-acc4-7e5e53b558e3" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="GTZ_F_NKD_Body_Genital_C_NoHair" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Private Parts" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Models/Githyanki/_Female/Resources/GTY_F_NKD_Body_Genital_C_NoHair.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Models/Githyanki/_Female/Resources/GTY_F_NKD_Body_Genital_C_NoHair.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="fac23cb5-abfb-4b55-befd-06d23e262d82" />
+							<attribute id="ObjectID" type="FixedString" value="GTY_F_NKD_Body_Genital_C_NoHair.GTY_F_NKD_Body_Genital_C_NoHair_Mesh.0" />
+						</node>
+					</children>
+				</node>
+
+			</children>
+		</node>
+	</region>
+</save>

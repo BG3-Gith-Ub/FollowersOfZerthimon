@@ -184,7 +184,12 @@
                     <attribute id="UUID" type="guid" value="567ac838-4ecd-4ba9-8612-5f17ba3a9b8d"/>
                     <attribute id="VisualResource" type="guid" value="31b9f9cb-404f-fa34-7fe7-75ba021e0803"/>
                 </node>
-
+              
+              
+              
+              
+              
+                //GEN
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
@@ -192,7 +197,7 @@
                     <attribute id="RaceUUID" type="guid" value="ca1c9216-a0cf-44e7-811a-2f9081c536ed"/>
                     <attribute id="SlotName" type="FixedString" value="Private Parts"/>
                     <attribute id="UUID" type="guid" value="9b8c79ea-f81d-40db-b729-64f90980bff3"/>
-                    <attribute id="VisualResource" type="guid" value="e64e1451-aa89-1fef-3ae4-2ca7ccdeaec0"/>
+                    <attribute id="VisualResource" type="guid" value="e5f1c623-24f5-4ef1-b10c-60da68a93ecc"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="a0738fdf-ca0c-446f-a11d-6211ecac3291"/>
@@ -207,7 +212,7 @@
                     <attribute id="RaceUUID" type="guid" value="ca1c9216-a0cf-44e7-811a-2f9081c536ed"/>
                     <attribute id="SlotName" type="FixedString" value="Private Parts"/>
                     <attribute id="UUID" type="guid" value="4c91c78e-d6a9-4192-9a2b-4609f5ea96e6"/>
-                    <attribute id="VisualResource" type="guid" value="e64e1451-aa89-1fef-3ae4-2ca7ccdeaec0"/>
+                    <attribute id="VisualResource" type="guid" value="e5f1c623-24f5-4ef1-b10c-60da68a93ecc"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="a0738fdf-ca0c-446f-a11d-6211ecac3291"/>
@@ -221,7 +226,7 @@
                     <attribute id="RaceUUID" type="guid" value="ca1c9216-a0cf-44e7-811a-2f9081c536ed"/>
                     <attribute id="SlotName" type="FixedString" value="Private Parts"/>
                     <attribute id="UUID" type="guid" value="9c5aedf4-2efd-40dc-ba14-b05ec7abca7f"/>
-                    <attribute id="VisualResource" type="guid" value="82880fbb-57fc-82a5-6724-446352f4dc30"/>
+                    <attribute id="VisualResource" type="guid" value="50d378f5-696e-4448-9769-e7b077a8c808"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="a0738fdf-ca0c-446f-a11d-6211ecac3291"/>
@@ -235,6 +240,7 @@
                     <attribute id="RaceUUID" type="guid" value="ca1c9216-a0cf-44e7-811a-2f9081c536ed"/>
                     <attribute id="SlotName" type="FixedString" value="Private Parts"/>
                     <attribute id="UUID" type="guid" value="26efa3e9-55b6-4426-bd4c-e94a6b905d21"/>
+                    <!--<attribute id="VisualResource" type="guid" value="d7725e95-daef-4000-82a5-5449d6b60643"/>-->
                     <attribute id="VisualResource" type="guid" value="20a4db7c-139f-77c9-3af1-bfda5bc2a318"/>
                     <children>
                         <node id="Tags">
@@ -250,6 +256,7 @@
                     <attribute id="RaceUUID" type="guid" value="ca1c9216-a0cf-44e7-811a-2f9081c536ed"/>
                     <attribute id="SlotName" type="FixedString" value="Private Parts"/>
                     <attribute id="UUID" type="guid" value="a6b04099-fc19-4d70-9b18-30f80177cfcc"/>
+                    <!--<attribute id="VisualResource" type="guid" value="d7725e95-daef-4000-82a5-5449d6b60643"/>-->
                     <attribute id="VisualResource" type="guid" value="20a4db7c-139f-77c9-3af1-bfda5bc2a318"/>
                     <children>
                         <node id="Tags">
@@ -264,6 +271,7 @@
                     <attribute id="RaceUUID" type="guid" value="ca1c9216-a0cf-44e7-811a-2f9081c536ed"/>
                     <attribute id="SlotName" type="FixedString" value="Private Parts"/>
                     <attribute id="UUID" type="guid" value="c8070362-a3dd-4045-9552-93308e620e70"/>
+                    <!--<attribute id="VisualResource" type="guid" value="1ef67ffc-04c6-46f7-ae38-890397bd8372"/> -->
                     <attribute id="VisualResource" type="guid" value="e9b02e5e-a4c4-5ccb-5d04-57d08c3f257e"/>
                     <children>
                         <node id="Tags">
@@ -278,6 +286,7 @@
                     <attribute id="RaceUUID" type="guid" value="ca1c9216-a0cf-44e7-811a-2f9081c536ed"/>
                     <attribute id="SlotName" type="FixedString" value="Private Parts"/>
                     <attribute id="UUID" type="guid" value="41ae438e-4f56-47b5-be70-3125d450d3d7"/>
+                    <!--<attribute id="VisualResource" type="guid" value="0b6a624c-a49c-4e16-8d01-b3c8dd522de2"/> -->
                     <attribute id="VisualResource" type="guid" value="1b422365-a69d-5fd8-4c04-535704b0ad99"/>
                     <children>
                         <node id="Tags">
@@ -292,13 +301,26 @@
                     <attribute id="RaceUUID" type="guid" value="ca1c9216-a0cf-44e7-811a-2f9081c536ed"/>
                     <attribute id="SlotName" type="FixedString" value="Private Parts"/>
                     <attribute id="UUID" type="guid" value="ec4c52b5-5d04-450d-887e-b3b2e3986e84"/>
-                    <attribute id="VisualResource" type="guid" value="65da1853-8c2d-d134-a4c0-cc1d186cc7d1"/>
+                    <!--<attribute id="VisualResource" type="guid" value="68f24c29-f6d6-4c89-acc4-7e5e53b558e3"/> NEW WIP-->
+                    <attribute id="VisualResource" type="guid" value="65da1853-8c2d-d134-a4c0-cc1d186cc7d1"/>                    
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="d27831df-2891-42e4-b615-ae555404918b"/>
                         </node>
                     </children>
                 </node>
+
+
+
+
+
+
+
+
+
+
+
+                //BODY 2
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
