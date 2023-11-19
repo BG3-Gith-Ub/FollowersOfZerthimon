@@ -136,4 +136,6 @@ data "SpellAnimation" "72d47225-f44c-4186-a5b3-d0a6fd252f56,,;,,;d209d724-43ce-4
 data "SpellStyleGroup" "Class"
 
 
+
+
 //"RestoreResource(SELF, GZI_Knowledge,1);IF(HasStatus('GZI_TRAINING_C')):RemoveStatus(GZI_TRAINING_C);IF(HasStatus('GZI_TRAINING_B')):RemoveStatus(GZI_TRAINING_B);IF(HasStatus('GZI_TRAINING_A')):RemoveStatus(GZI_TRAINING_A);"

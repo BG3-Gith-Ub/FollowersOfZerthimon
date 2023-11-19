@@ -21,9 +21,9 @@
                     <attribute id="UUID" type="guid" value="615346fa-d6c7-4804-a0d0-bd361fd4f79a"/> 
                 </node>         
                 <node id="ActionResourceDefinition">
-                    <attribute id="DisplayName" type="TranslatedString" handle="h2063b081g818dg46d6g9040g1091e0e94c19" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h0afcc6dag3b06g4ae6gb307g135366afd28f" version="1"/>
                     <attribute id="IsHidden" type="bool" value="false"/>
-                    <attribute id="MaxValue" type="uint32" value="5"/>                    
+                    <attribute id="MaxValue" type="uint32" value="6"/>                    
                     <attribute id="Name" type="FixedString" value="GZI_Psionic_Focus"/>
                     <attribute id="ReplenishType" type="FixedString" value="Rest"/>
                     <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>                                       

@@ -28,7 +28,9 @@
 	<content contentuid="h92464171g15b8g43b4gb260g8a37cbe97e93" version="1">Teachings of Zerthimon - III</content>
 	<content contentuid="hd0751a29gf251g4c0cg8632g20d9f8e63e98" version="1">Zerthimon's psionic presence allows you to cast &lt;LSTag Type="Spell" Tooltip="Projectile_Zerth_Psi_Barrage"&gt;Project Will&lt;/LSTag&gt; once per short rest</content>
 		
-	
+	<content contentuid="h0afcc6dag3b06g4ae6gb307g135366afd28f" version="1">Psionic Focus</content>	
+
+
 	<content contentuid="h70808230g19e4g49d0gbb9ag6f5ed4a39fb0" version="1">Githzerai Psionics: Mage Hand</content>
 	<content contentuid="hfe1a80bbg9a44g477dg8443g571e9e3558b3" version="1">Mental Discipline</content>
 	<content contentuid="h2f31999aga35cg4354g8719gea719a6d2149" version="1">Under the tutelage of monastic masters, githzerai learn to govern their own minds. Your innate psychic defences give you &lt;LSTag Tooltip="Advantage"&gt;advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;saving throws&lt;/LSTag&gt; against the effects of the &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;charmed&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;frightened&lt;/LSTag&gt; conditions.</content>
