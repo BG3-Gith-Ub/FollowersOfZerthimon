@@ -18,6 +18,32 @@
           <attribute id="ExactMatch" type="FixedString" value="ActionResource(Movement,9,0)"/>
           <attribute id="UUID" type="guid" value="1a6758a2-cd1b-478d-b756-e7e8f0461e26"/>
         </node>
+        <node id="ProgressionDescription">
+          <attribute id="Description" type="TranslatedString" handle="h3bb11390gc425g4433ga541g0c839090e973" version="2"/>
+          <attribute id="DisplayName" type="TranslatedString" handle="ha0bb1044gdf6cg4c18gbbe8g16935dae77ab" version="5"/>
+          <attribute id="ParamMatch" type="FixedString" value="0:GZI_Knowledge"/>
+          <attribute id="Type" type="FixedString" value="ActionResource"/>
+          <attribute id="UUID" type="guid" value="42397fe6-0be4-4d90-881e-f89cb3d22953"/>
+        </node>  
+        <node id="ProgressionDescription">
+          <attribute id="Description" type="TranslatedString" handle="h3bb11390gc425g4433ga541g0c839090e973" version="2"/>
+          <attribute id="DisplayName" type="TranslatedString" handle="ha0bb1044gdf6cg4c18gbbe8g16935dae77ab" version="5"/>
+          <attribute id="ExactMatch" type="FixedString" value="ActionResource(GZI_Knowledge,1,0)"/>
+          <attribute id="UUID" type="guid" value="1a6758a2-cd1b-478d-b756-e7e8f0461e26"/>
+        </node>        
+        <node id="ProgressionDescription">
+          <attribute id="Description" type="TranslatedString" handle="h3bb11390gc425g4433ga541g0c839090e973" version="2"/>
+          <attribute id="DisplayName" type="TranslatedString" handle="ha0bb1044gdf6cg4c18gbbe8g16935dae77ab" version="5"/>
+          <attribute id="ExactMatch" type="FixedString" value="ActionResource(GZI_Psionic_Focus,1,0)"/>
+          <attribute id="UUID" type="guid" value="1a6758a2-cd1b-478d-b756-e7e8f0461e26"/>
+        </node>          
+        <node id="ProgressionDescription">
+          <attribute id="Description" type="TranslatedString" handle="h3bb11390gc425g4433ga541g0c839090e973" version="2"/>
+          <attribute id="DisplayName" type="TranslatedString" handle="ha0bb1044gdf6cg4c18gbbe8g16935dae77ab" version="5"/>
+          <attribute id="ParamMatch" type="FixedString" value="0:GZI_Psionic_Focus"/>
+          <attribute id="Type" type="FixedString" value="ActionResource"/>
+          <attribute id="UUID" type="guid" value="e1cfaadc-f08e-4e18-934d-1836eebeac57"/>
+        </node>               
       </children>
     </node>
   </region>

@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="LevelName" type="FixedString" value="SYS_PortraitPlayerRace_A" />
+					<attribute id="MapKey" type="FixedString" value="78400227-6933-4d72-b68c-801f6b11a243" /> <!--2c2ee9e0-ac2a-4a1f-a58d-654bed522e34-->
+					<attribute id="Name" type="LSString" value="Icon_Githzerai_Male" />
+					<attribute id="OnlyOsirisEvents" type="bool" value="False" />
+					<attribute id="TemplateName" type="FixedString" value="15111ce4-12fc-4757-bb81-7c2c212e141a" />
+					<attribute id="Type" type="FixedString" value="trigger" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209020" />
+					<children>
+						<node id="FadeChildren" />
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="SYS_PortraitPlayerRace_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="ff3e83e5-cfb9-45fd-a1e3-fc1e6dd7ee98" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="64 0 32" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0 0 1" />
+							<attribute id="Scale" type="float" value="1" />
+						</node>
+					</children>
+				</node>
+			
+
+
+
+				<node id="GameObjects">
+					<attribute id="DOFAperature" type="float" value="21" />
+					<attribute id="DOFFarOnly" type="float" value="0" />
+					<attribute id="DOFFarSharpDistance" type="float" value="0" />
+					<attribute id="DOFFocalDistance" type="float" value="1" />
+					<attribute id="DOFNearOnly" type="float" value="0" />
+					<attribute id="DOFNearSharpDistance" type="float" value="0" />
+					<attribute id="FOV" type="float" value="20" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="Lerp" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="SYS_PortraitPlayerRace_A" />
+					<attribute id="MapKey" type="FixedString" value="49adde63-232f-4ad4-bb08-043a2aa49415" /> <!--69d11f4d-0106-4cc9-99bf-69a2af97d68a-->
+					<attribute id="Name" type="LSString" value="Camera_Icon_Githzerai_Female" />
+					<attribute id="OnlyOsirisEvents" type="bool" value="False" />
+					<attribute id="Speed" type="float" value="5" />
+					<attribute id="TemplateName" type="FixedString" value="7f4a742a-b1ab-4195-b04b-9320244592ca" />
+					<attribute id="Type" type="FixedString" value="trigger" />
+					<attribute id="UseDOF" type="bool" value="False" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209020" />
+					<children>
+						<node id="FadeChildren" />
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="SYS_PortraitPlayerRace_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="23a8137b-5b43-4872-850b-c31d41731256" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="62 1.75 30.74998" />
+							<attribute id="RotationQuat" type="fvec4" value="-3.72529E-09 0 0 1" />
+							<attribute id="Scale" type="float" value="1" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DOFAperature" type="float" value="21" />
+					<attribute id="DOFFarOnly" type="float" value="0" />
+					<attribute id="DOFFarSharpDistance" type="float" value="0" />
+					<attribute id="DOFFocalDistance" type="float" value="1" />
+					<attribute id="DOFNearOnly" type="float" value="0" />
+					<attribute id="DOFNearSharpDistance" type="float" value="0" />
+					<attribute id="FOV" type="float" value="20" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="Lerp" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="SYS_PortraitPlayerRace_A" />
+					<attribute id="MapKey" type="FixedString" value="01810b3a-e5a1-4c80-a74a-b19d0aa683c7" />  <!--6bbebd18-cd53-44b0-83a1-505ace9184e2-->
+					<attribute id="Name" type="LSString" value="Camera_Icon_Githzerai_Male" />
+					<attribute id="OnlyOsirisEvents" type="bool" value="False" />
+					<attribute id="Speed" type="float" value="5" />
+					<attribute id="TemplateName" type="FixedString" value="7f4a742a-b1ab-4195-b04b-9320244592ca" />
+					<attribute id="Type" type="FixedString" value="trigger" />
+					<attribute id="UseDOF" type="bool" value="False" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209020" />
+					<children>
+						<node id="FadeChildren" />
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="SYS_PortraitPlayerRace_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="ff3e83e5-cfb9-45fd-a1e3-fc1e6dd7ee98" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="64 1.75 30.74998" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0 0 1" />
+							<attribute id="Scale" type="float" value="1" />
+						</node>
+					</children>
+				</node>
+
+
+
+
+
+
+
+
+
+
+				<node id="GameObjects">
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="LevelName" type="FixedString" value="SYS_PortraitPlayerRace_A" />
+					<attribute id="MapKey" type="FixedString" value="f369be19-30ae-4dd6-aee2-231aa8a5dee4" /> <!--bed1a13f-fe93-46b5-9936-04eea9ad93b3-->
+					<attribute id="Name" type="LSString" value="Icon_Githzerai_Female" />
+					<attribute id="OnlyOsirisEvents" type="bool" value="False" />
+					<attribute id="TemplateName" type="FixedString" value="15111ce4-12fc-4757-bb81-7c2c212e141a" />
+					<attribute id="Type" type="FixedString" value="trigger" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209020" />
+					<children>
+						<node id="FadeChildren" />
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="SYS_PortraitPlayerRace_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="23a8137b-5b43-4872-850b-c31d41731256" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="62 0 32" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0 0 1" />
+							<attribute id="Scale" type="float" value="1" />
+						</node>
+					</children>
+				</node>
+
+
+			</children>
+		</node>
+	</region>
+</save>

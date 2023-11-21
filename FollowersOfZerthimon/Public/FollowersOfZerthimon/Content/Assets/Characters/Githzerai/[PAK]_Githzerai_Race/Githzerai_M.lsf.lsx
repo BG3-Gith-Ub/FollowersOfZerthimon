@@ -606,6 +606,9 @@
             </node>
           </children>
         </node>
+
+
+        
         <node id="Resource">
           <attribute id="AttachBone" type="FixedString" value=""/>
           <attribute id="AttachmentSkeletonResource" type="FixedString" value=""/>

@@ -4,7 +4,174 @@
 	<region id="Templates">
 		<node id="Templates">
 			<children>
-				//IMMORTALRD
+				<!--KAZ-->
+				<node id="GameObjects">
+					<attribute id="BeamFX" type="FixedString" value="VFX_Enemies_Githyanki_MindSteal_Beam_01" />
+					<attribute id="Acceleration" type="float" value="15" />
+					<attribute id="CameraOffset" type="fvec3" value="0 0 0" />
+					<attribute id="CastBone" type="FixedString" value="Dummy_CastFX" />
+					<attribute id="CurveResourceId" type="FixedString" value="1c29c693-15dc-5fe9-7092-85b8110e7f19" />
+					<attribute id="DetachBeam" type="bool" value="True" />
+					<attribute id="DistanceMax_Bezier3" type="float" value="70" />
+					<attribute id="DistanceMax_Bezier4" type="float" value="36" />
+					<attribute id="DistanceMin_Bezier3" type="float" value="3" />
+					<attribute id="DistanceMin_Bezier4" type="float" value="3" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="GroupID" type="uint32" value="0" />
+					<attribute id="HasGameplayValue" type="bool" value="False" />
+					<attribute id="ImpactFX" type="FixedString" value="VFX_Spells_Cast_Damage_Psychic_Generic_Impact_01" /> <!--VFX_Projectiles_Telekinesis_Impact_01-->
+					<attribute id="GroundImpactFX" type="FixedString" value="VFX_Spells_Cast_Damage_Psychic_TargetSingle_PhantasmalForce_Impact_HeadFX_01" />
+					<attribute id="InitialSpeed" type="float" value="14" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="25c37412-d0c5-4d23-a508-cdbcfe363371" /> <!--55ae7132-ee98-46a8-b111-771809a7ff76-->
+					<attribute id="Name" type="LSString" value="VFX_Projectile_Spell_GZI_Telekinesis_01" />
+					<attribute id="OffsetAMax_Bezier4" type="fvec2" value="0 8" />
+					<attribute id="OffsetAMin_Bezier4" type="fvec2" value="0 5" />
+					<attribute id="OffsetBMax_Bezier4" type="fvec2" value="0 8" />
+					<attribute id="OffsetBMin_Bezier4" type="fvec2" value="0 5" />
+					<attribute id="OffsetMax_Bezier3" type="fvec2" value="0 50" />
+					<attribute id="ParentTemplateId" type="FixedString" value="" />
+					<attribute id="PhysicsOpenTemplate" type="FixedString" value="" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="" />
+					<attribute id="PreviewPathImpactFX" type="FixedString" value="VFX_UI_DestinationBeam_Projectile_01" />
+					<attribute id="PreviewPathMaterial" type="FixedString" value="312a1494-a0e2-c215-cf51-bda58a6b2341" />
+					<attribute id="RotateImpact" type="bool" value="False" />
+					<attribute id="ShiftAMin_Bezier4" type="float" value="0.1" />
+					<attribute id="ShiftBMax_Bezier4" type="float" value="0.4" />
+					<attribute id="ShiftBMin_Bezier4" type="float" value="1" />
+					<attribute id="ShiftMax_Bezier3" type="float" value="0.8" />
+					<attribute id="TrajectoryType" type="uint8" value="1" />
+					<attribute id="Type" type="FixedString" value="projectile" />
+					<attribute id="VelocityMode" type="uint8" value="2" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<children>
+						<node id="Bounds" />
+					</children>
+				</node>
+			
+				<node id="GameObjects">
+					<attribute id="BeamFX" type="FixedString" value="VFX_Enemies_Githyanki_MindSteal_Beam_01" />
+					<attribute id="CurveResourceId" type="FixedString" value="1c29c693-15dc-5fe9-7092-85b8110e7f19" />
+					<attribute id="DistanceMax_Bezier4" type="float" value="36" />
+					<attribute id="DistanceMin_Bezier4" type="float" value="3" />
+					<attribute id="ImpactFX" type="FixedString" value="VFX_Spells_Cast_Damage_Psychic_Generic_Impact_01" />
+					<attribute id="GroundImpactFX" type="FixedString" value="VFX_Spells_Cast_Damage_Psychic_TargetSingle_PhantasmalForce_Impact_HeadFX_01" />
+					<attribute id="ImpactSoundResourceID" type="FixedString" value="" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="fcffae43-d276-4c81-abc1-56fe6cec880d" /> <!--f432f788-1481-449b-a3fe-3d3e84412297-->
+					<attribute id="Name" type="LSString" value="VFX_Projectile_Spell_GZI_Telekinesis_02" />
+					<attribute id="OffsetAMax_Bezier4" type="fvec2" value="0 4" />
+					<attribute id="OffsetAMin_Bezier4" type="fvec2" value="0 2" />
+					<attribute id="OffsetBMax_Bezier4" type="fvec2" value="0 4" />
+					<attribute id="OffsetBMin_Bezier4" type="fvec2" value="0 2" />
+					<attribute id="OffsetMin_Bezier3" type="fvec2" value="0 1.5" />
+					<attribute id="ParentTemplateId" type="FixedString" value="a82d0147-9ecd-455a-a9ef-c6d2b8119777" />
+					<attribute id="ShiftAMax_Bezier4" type="float" value="0.25" />
+					<attribute id="ShiftAMin_Bezier4" type="float" value="0.1" />
+					<attribute id="ShiftBMax_Bezier4" type="float" value="0.8" />
+					<attribute id="ShiftBMin_Bezier4" type="float" value="0.7" />
+					<attribute id="TrajectoryType" type="uint8" value="1" />
+					<attribute id="Type" type="FixedString" value="projectile" />
+					<attribute id="VelocityMode" type="uint8" value="2" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+				</node>				
+
+			
+				<node id="GameObjects">
+					<attribute id="BeamFX" type="FixedString" value="VFX_Enemies_Githyanki_MindSteal_Beam_01" />
+					<attribute id="CurveResourceId" type="FixedString" value="1c29c693-15dc-5fe9-7092-85b8110e7f19" />
+					<attribute id="Acceleration" type="float" value="15" />
+					<attribute id="CameraOffset" type="fvec3" value="0 0 0" />
+					<attribute id="CastBone" type="FixedString" value="Dummy_CastFX" />
+					<attribute id="DetachBeam" type="bool" value="True" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="GroupID" type="uint32" value="0" />
+					<attribute id="HasGameplayValue" type="bool" value="False" />
+					<attribute id="ImpactFX" type="FixedString" value="VFX_Spells_Cast_Damage_Psychic_Generic_Impact_01" /> <!--VFX_Projectiles_Telekinesis_Impact_01-->
+					<attribute id="GroundImpactFX" type="FixedString" value="VFX_Spells_Cast_Damage_Psychic_TargetSingle_PhantasmalForce_Impact_HeadFX_01" />
+					<attribute id="InitialSpeed" type="float" value="14" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="bea6141e-16ec-42b9-9bb3-17a8f3d4d7bf" /> <!--55ae7132-ee98-46a8-b111-771809a7ff76-->
+					<attribute id="Name" type="LSString" value="VFX_Projectile_Spell_GZI_Telekinesis_02B" />
+					<attribute id="ParentTemplateId" type="FixedString" value="a82d0147-9ecd-455a-a9ef-c6d2b8119777" />
+					<attribute id="PhysicsOpenTemplate" type="FixedString" value="" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="" />
+					<attribute id="PreviewPathImpactFX" type="FixedString" value="VFX_UI_DestinationBeam_Projectile_01" />
+					<attribute id="PreviewPathMaterial" type="FixedString" value="312a1494-a0e2-c215-cf51-bda58a6b2341" />
+					<attribute id="RotateImpact" type="bool" value="False" />
+					<attribute id="ShiftBMax_Bezier4" type="float" value="0.25" />
+					<attribute id="ShiftBMin_Bezier4" type="float" value="0.25" />
+					<attribute id="TrajectoryType" type="uint8" value="1" />
+					<attribute id="Type" type="FixedString" value="projectile" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<attribute id="VelocityMode" type="uint8" value="2" />
+					<children>
+						<node id="Bounds" />
+					</children>
+				</node>
+
+				<node id="GameObjects">
+					<attribute id="BeamFX" type="FixedString" value="VFX_Enemies_Githyanki_MindSteal_Beam_01" />
+					<attribute id="CurveResourceId" type="FixedString" value="1c29c693-15dc-5fe9-7092-85b8110e7f19" />
+					<attribute id="DistanceMax_Bezier4" type="float" value="36" />
+					<attribute id="DistanceMin_Bezier4" type="float" value="3" />
+					<attribute id="IgnoreRoof" type="bool" value="False" />
+					<attribute id="ImpactFX" type="FixedString" value="VFX_Spells_Cast_Damage_Psychic_Generic_Impact_01" /> <!--VFX_Spells_Cast_Damage_Psychic_TargetSingle_PhantasmalForce_Impact_HeadFX_01-->
+					<attribute id="GroundImpactFX" type="FixedString" value="VFX_Spells_Cast_Damage_Psychic_TargetSingle_PhantasmalForce_Impact_HeadFX_01" />
+					<attribute id="ImpactSoundResourceID" type="FixedString" value="" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="c0fd61ad-8beb-4dd0-8952-b0346aeb66c4" />  <!--200e3672-5ce8-482e-b880-91db9edd6566-->
+					<attribute id="Name" type="LSString" value="VFX_Projectile_Spell_GZI_Telekinesis_03" />
+					<attribute id="OffsetAMax_Bezier4" type="fvec2" value="0 2.5" />
+					<attribute id="OffsetAMin_Bezier4" type="fvec2" value="0 1" />
+					<attribute id="OffsetBMax_Bezier4" type="fvec2" value="0 2.5" />
+					<attribute id="OffsetBMin_Bezier4" type="fvec2" value="0 1" />
+					<attribute id="OffsetMax_Bezier3" type="fvec2" value="0 29" />
+					<attribute id="OffsetMin_Bezier3" type="fvec2" value="0 0.5" />
+					<attribute id="ParentTemplateId" type="FixedString" value="a82d0147-9ecd-455a-a9ef-c6d2b8119777" />
+					<attribute id="ShiftAMin_Bezier4" type="float" value="0.1" />
+					<attribute id="ShiftBMax_Bezier4" type="float" value="0.75" />
+					<attribute id="ShiftBMin_Bezier4" type="float" value="0.75" />
+					<attribute id="TrajectoryType" type="uint8" value="1" />
+					<attribute id="Type" type="FixedString" value="projectile" />
+					<attribute id="VelocityMode" type="uint8" value="2" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+				</node>			
+
+				<!--<node id="GameObjects">
+					<attribute id="BeamFX" type="FixedString" value="VFX_Projectiles_Fireball_Beam_01" />
+					<attribute id="CameraOffset" type="fvec3" value="0 0 0" />
+					<attribute id="CastBone" type="FixedString" value="Dummy_CastFX" />
+					<attribute id="DetachBeam" type="bool" value="True" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="GroupID" type="uint32" value="0" />
+					<attribute id="HasGameplayValue" type="bool" value="False" />
+					<attribute id="ImpactFX" type="FixedString" value="VFX_Projectiles_Fireball_Impact_01" />
+					<attribute id="InitialSpeed" type="float" value="45" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="5134aa79-8622-4683-b3bf-af8668773275" />
+					<attribute id="Name" type="LSString" value="VFX_Projectile_Spell_FlamesOfThePhoenix_01" />
+					<attribute id="ParentTemplateId" type="FixedString" value="" />
+					<attribute id="PhysicsOpenTemplate" type="FixedString" value="" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="" />
+					<attribute id="PreviewPathImpactFX" type="FixedString" value="VFX_UI_DestinationBeam_Projectile_01" />
+					<attribute id="PreviewPathMaterial" type="FixedString" value="312a1494-a0e2-c215-cf51-bda58a6b2341" />
+					<attribute id="RotateImpact" type="bool" value="False" />
+					<attribute id="ShiftBMax_Bezier4" type="float" value="0.25" />
+					<attribute id="ShiftBMin_Bezier4" type="float" value="0.25" />
+					<attribute id="TrailFX" type="FixedString" value="VFX_Projectiles_Fireball_01" />
+					<attribute id="Type" type="FixedString" value="projectile" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725056" />
+					<children>
+						<node id="Bounds" />
+					</children>
+				</node>-->
+
+
+				<!--IMMORTALRD-->
                 <node id="GameObjects">
 					<attribute id="BeamFX" type="FixedString" value="VFX_PsionicMM_01" />
 					<attribute id="CameraOffset" type="fvec3" value="0 0 0" />

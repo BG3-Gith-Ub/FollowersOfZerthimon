@@ -5,18 +5,22 @@
   <region id="Progressions">
     <node id="root">
       <children>
+
+
         <node id="Progression">
           <attribute id="AllowImprovement" type="bool" value="False"/>
-          <attribute id="Boosts" type="LSString" value="Advantage(Skill, Insight)"/> //Ability(Intelligence,1); Ability(Wisdom,1); Ability(Charisma,-2)
+          <attribute id="Boosts" type="LSString" value="Advantage(Skill, Insight)"/> <!--Ability(Intelligence,1); Ability(Wisdom,1); Ability(Charisma,-2)-->
           <attribute id="Level" type="uint8" value="1"/>
           <attribute id="Name" type="LSString" value="Githzerai_Base"/>
-          <attribute id="PassivesAdded" type="LSString" value="GTZ_Mental_Discipline;GTZ_Psionic_Insight"/>
+          <attribute id="PassivesAdded" type="LSString" value="GTZ_Mental_Discipline;GTZ_Psionic_Insight"/> <!--;GTZ_Zerth_DEBUG-->
           <attribute id="PassivesRemoved" type="LSString" value=""/>
           <attribute id="ProgressionType" type="uint8" value="2"/>
           <attribute id="Selectors" type="LSString" value="SelectSkills(f974ebd6-3725-4b90-bb5c-2b647d41615d,1,GithzeraiDefaults);AddSpells(c203ff42-09bc-4a9c-8b65-b13afd092573);AddSpells(ebac8043-4fd0-457e-8126-538c166dfb5c,,Intelligence,,AlwaysPrepared)"/>
           <attribute id="TableUUID" type="guid" value="eccc27e9-0d6f-409a-98d1-c924ce52c364"/>
           <attribute id="UUID" type="guid" value="8e8928df-70b1-43c0-bc86-40b32c455bee"/>
         </node>
+
+
         <node id="Progression">
           <attribute id="Level" type="uint8" value="2"/>
           <attribute id="Name" type="LSString" value="Githzerai_2"/>
@@ -24,26 +28,33 @@
           <attribute id="TableUUID" type="guid" value="eccc27e9-0d6f-409a-98d1-c924ce52c364"/>
           <attribute id="UUID" type="guid" value="94e6e800-3fab-4f58-8f10-f206d3f00d80"/>
         </node>
+
+
         <node id="Progression">
           <attribute id="Level" type="uint8" value="3"/>
           <attribute id="Name" type="LSString" value="Githzerai_3"/>
+          <attribute id="PassivesAdded" type="LSString" value="GTZ_Zerth_Telekinetics_Path;GTZ_Zerth_Equipment_Training"/>          
           <attribute id="ProgressionType" type="uint8" value="2"/>
-          <attribute id="Boosts" type="LSString" value = "ActionResource(Interupt_Shield_GZI,1,0)"/>
+          <attribute id="Boosts" type="LSString" value = "ActionResource(Interupt_Shield_GZI,1,0);ActionResource(GZI_Psionic_Focus,1,0)"/>
           <attribute id="Selectors" type="LSString" value="AddSpells(cff754a0-ce76-4596-8df4-110d3a4cbf0e,,Intelligence,,AlwaysPrepared,UntilRest)"/>  <!-- //old bc5fa476-8329-4e60-bfee-0db7d057d5c2 -->
           <attribute id="TableUUID" type="guid" value="eccc27e9-0d6f-409a-98d1-c924ce52c364"/>
           <attribute id="UUID" type="guid" value="e32a37d7-8b50-4c00-9599-a1dcef89cf91"/>
         </node>
+
+
         <node id="Progression">
           <attribute id="Level" type="uint8" value="5"/>
           <attribute id="Name" type="LSString" value="Githzerai_5"/>
-          <attribute id="PassivesAdded" type="LSString" value="GTZ_Zerth_Training;GTZ_Zerth_Bestow_Training_A;GZI_KNWLD_TECH"/>
+          <attribute id="PassivesAdded" type="LSString" value="GTZ_Zerth_Bestow_Training_A;GZI_KNWLD_TECH"/>
           <attribute id="PassivesRemoved" type="LSString" value="GTZ_Zerth_Bestow_Training_B;GTZ_Zerth_Bestow_Training_C"/>           
           <attribute id="ProgressionType" type="uint8" value="2"/>
           <attribute id="Selectors" type="LSString" value="AddSpells(b5218b5e-37a6-4ff7-8821-8bead1baa9ba,,Intelligence,,AlwaysPrepared,UntilRest)"/>  ;AddSpells(fdce7a0b-1e19-432b-a8eb-07fa4f17f097)
           <attribute id="TableUUID" type="guid" value="eccc27e9-0d6f-409a-98d1-c924ce52c364"/>
           <attribute id="UUID" type="guid" value="6ffab5cd-9118-4472-b610-30df59a3ff6f"/>
-          <attribute id="Boosts" type="LSString" value="ActionResource(GZI_Knowledge,1,0);ActionResource(GZI_Psionic_Focus,2,0)"/>   GTZ_Zerth_Bestow_Training_C GTZ_Zerth_Bestow_Training_B GTZ_Zerth_Bestow_Training_A
+          <attribute id="Boosts" type="LSString" value="ActionResource(GZI_Knowledge,1,0);ActionResource(GZI_Psionic_Focus,1,0)"/>   GTZ_Zerth_Bestow_Training_C GTZ_Zerth_Bestow_Training_B GTZ_Zerth_Bestow_Training_A
         </node>
+
+
         <node id="Progression">
           <attribute id="Level" type="uint8" value="7"/>
           <attribute id="Name" type="LSString" value="Githzerai_7"/>
@@ -54,6 +65,8 @@
           <attribute id="UUID" type="guid" value="91e65196-1db2-4233-89cd-33d075f56c6e"/>
           <attribute id="Boosts" type="LSString" value="ActionResource(GZI_Knowledge,1,0);ActionResource(GZI_Psionic_Focus,2,0)" />
         </node>
+
+
         <node id="Progression">
           <attribute id="Level" type="uint8" value="9"/>
           <attribute id="Name" type="LSString" value="Githzerai_9"/>
