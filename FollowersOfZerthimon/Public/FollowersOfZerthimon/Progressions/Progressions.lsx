@@ -12,7 +12,7 @@
           <attribute id="Boosts" type="LSString" value="Advantage(Skill, Insight)"/> <!--Ability(Intelligence,1); Ability(Wisdom,1); Ability(Charisma,-2)-->
           <attribute id="Level" type="uint8" value="1"/>
           <attribute id="Name" type="LSString" value="Githzerai_Base"/>
-          <attribute id="PassivesAdded" type="LSString" value="GTZ_Mental_Discipline;GTZ_Psionic_Insight"/> <!--;GTZ_Zerth_DEBUG-->
+          <attribute id="PassivesAdded" type="LSString" value="GTZ_MovementSpeed;GTZ_Mental_Discipline;GTZ_Psionic_Insight"/> <!--;GTZ_Zerth_DEBUG-->
           <attribute id="PassivesRemoved" type="LSString" value=""/>
           <attribute id="ProgressionType" type="uint8" value="2"/>
           <attribute id="Selectors" type="LSString" value="SelectSkills(f974ebd6-3725-4b90-bb5c-2b647d41615d,1,GithzeraiDefaults);AddSpells(c203ff42-09bc-4a9c-8b65-b13afd092573);AddSpells(ebac8043-4fd0-457e-8126-538c166dfb5c,,Intelligence,,AlwaysPrepared)"/>

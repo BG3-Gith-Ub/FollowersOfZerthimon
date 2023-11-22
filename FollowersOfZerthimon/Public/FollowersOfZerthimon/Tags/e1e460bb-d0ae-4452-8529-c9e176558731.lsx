@@ -7,7 +7,7 @@
 			<attribute id="DisplayDescription" type="TranslatedString" handle="hfc55e774gd4f7g4252g81b6gbe81520a6b5f" version="1" />
 			<attribute id="DisplayName" type="TranslatedString" handle="h67bb2c2dgd8acg48e1gb229g3902d36fa1fa" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />
-			<attribute id="Name" type="FixedString" value="Monastic" /> //MONK
+			<attribute id="Name" type="FixedString" value="MONK" /> //MONK
 			<attribute id="UUID" type="guid" value="e1e460bb-d0ae-4452-8529-c9e176558731" />
 			<children>
 				<node id="Categories">
