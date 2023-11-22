@@ -110,7 +110,7 @@ data "Boosts" "UnlockSpell(Projectile_Zerth_Psi_Lance)"
 
 new entry "GZI_KNWLD_TECH"
 type "PassiveData"
-data "StatusPropertyFlags" "DisableCombatlog;DisablePortraitIndicator;DisableOverhead;IgnoreResting"
+data "StatusPropertyFlags" "DisableCombatlog;DisableOverhead;IgnoreResting"
 data "DisplayName" "hd7110194g97b8g42eagabadga0bafb96834d;1" 
 data "Description" "h7833a3f0g3e10g4af6ga014gfe001b9e7588;1" 
 data "StatsFunctorContext" "OnCast"

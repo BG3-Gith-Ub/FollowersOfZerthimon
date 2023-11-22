@@ -1475,11 +1475,20 @@
               <attribute id="Object" type="guid" value="677ffa76-2562-4217-873e-2253d4720ba4"/>
             </node>
             <node id="Tags">
+              <attribute id="Object" type="guid" value="697b9262-7d3a-4bcd-b5c5-e36cf02b369d"/>
+            </node>                        
+            <node id="Tags">
               <attribute id="Object" type="guid" value="7fa93b80-8ba5-4c1d-9b00-5dd20ced7f67"/>
             </node>
             <node id="Tags">
               <attribute id="Object" type="guid" value="e1e460bb-d0ae-4452-8529-c9e176558731"/>
             </node>
+            <node id="Tags">
+              <attribute id="Object" type="guid" value="3836988a-2342-498d-916e-96adf91ab8bc"/>
+            </node>             
+            <node id="Tags">
+              <attribute id="Object" type="guid" value="e49c027c-6ec6-4158-9afb-8b59236d10fd"/>
+            </node>            
             <node id="TattooColors">
               <attribute id="Object" type="guid" value="8f8019ae-4c7d-4871-8479-1219fbf6ba7e"/>
             </node>
@@ -3457,6 +3466,12 @@
             </node>
             <node id="Tags">
               <attribute id="Object" type="guid" value="019170e7-9a50-448f-ae1b-701dc75afd3e"/>
+            </node>
+            <node id="Tags">
+              <attribute id="Object" type="guid" value="1180781a-76f5-419c-80ee-9e4c973f1113"/>
+            </node>
+            <node id="Tags">
+              <attribute id="Object" type="guid" value="e49c027c-6ec6-4158-9afb-8b59236d10fd"/>
             </node>
             <node id="TattooColors">
               <attribute id="Object" type="guid" value="8f8019ae-4c7d-4871-8479-1219fbf6ba7e"/>
