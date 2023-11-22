@@ -36,11 +36,19 @@
 	
 	<content contentuid="h6af3ffd3gafbcg4144g9d3egb3483468d077" version="1">Path of Zerthimon - III</content>
 	<content contentuid="h8e0f43dfge1ceg4750gbcfagda9a9957101b" version="1">Zerthimon's psionic presence allows you to cast &lt;LSTag Type="Spell" Tooltip="Projectile_Zerth_Psi_Barrage"&gt;Project Will&lt;/LSTag&gt; for 1 &lt;LSTag Type="ActionResource" Tooltip="GZI_Psionic_Focus"&gt;Psionic Focus&lt;/LSTag&gt;</content>
-		
+
+	<content contentuid="h6d7b71e7gb7c1g4f33g8176gfbda83f82958" version="1">Githzerai Psionics</content>		
+	<content contentuid="h75bcffa4g701fg4dbfga374gdbe936ce1d71" version="1">Project your will outward, manifesting various effects</content>		
+
+
 	<content contentuid="hd9bf5a6dg392dg40c7g96bagc2cc2fd1acf1" version="1">Githzerai Psionics: Telekinetic Toss</content>	
 	<content contentuid="h8db84fb9gfa92g49adg8054g5a00147ba148" version="5">Toss a creature or object up to [1] with a thought.</content>
 	<content contentuid="hbc1d32a6g4acfg4932gaf6fg6553f0333694" version="1">Githzerai Psionics: Telekinetic Spike</content>	
 	<content contentuid="h383c798fge778g4013g8b3dg40b6508018d3" version="5">Spike a creature or object directly at a target up to [1] with a thought.</content>	
+
+	<content contentuid="h77150383gea46g41c9g90f7ga2e24980f658" version="1">Githzerai Psionics: Telekinetic Trip</content>	
+	<content contentuid="hd01080c4gf48cg4af5g87cdgf8e17fd098ac" version="1">A psychic assault that possibly knocks the target &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
+
 
 	<content contentuid="hd7110194g97b8g42eagabadga0bafb96834d" version="1">Siphon Knowledge Tier</content>
 	<content contentuid="h7833a3f0g3e10g4af6ga014gfe001b9e7588" version="1">Reclaim a &lt;LSTag Type="ActionResource" Tooltip="GZI_Knowledge"&gt;Knowledge Tier&lt;/LSTag&gt; when &lt;LSTag Type="Spell" Tooltip="Target_GZI_Training_Revoke"&gt;Revoke Knowledge&lt;/LSTag&gt; consumes a tier of &lt;LSTag Type="Spell" Tooltip="Target_GZI_Training_DUMMY"&gt;Teachings of Zerthimon&lt;/LSTag&gt;</content>

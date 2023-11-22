@@ -1,5 +1,19 @@
+new entry "GZI_Telekinesis_Container"
+type "SpellData"
+data "SpellType" "Throw"
+data "Level" "5"
+data "SpellSchool" "Transmutation"
+data "Icon" "Spell_Transmutation_Telekinesis"
+data "DisplayName" "h6d7b71e7gb7c1g4f33g8176gfbda83f82958;1"
+data "Description" "h75bcffa4g701fg4dbfga374gdbe936ce1d71;1"
+data "ContainerSpells" "GZI_Telekinesis_Toss;GZI_Telekinesis_Spike"
+data "SpellFlags" "IsSpell;HasVerbalComponent;IsLinkedSpellContainer"
+//data "TooltipStatusApply" "ApplyStatus(TELEKINESIS_TECHNICAL,100,10)"
 
-new entry "Throw_GZI_Telekinesis_Toss"
+
+
+
+new entry "GZI_Telekinesis_Toss"
 type "SpellData"
 data "SpellType" "Throw"
 using "Throw_Throw"
@@ -35,9 +49,10 @@ data "CastEffect" "74c0adbe-5a19-430b-942a-f378180112b1"
 data "HitAnimationType" "MagicalDamage_Psychic"
 data "HitEffect" "eec186d8-ae79-4800-a463-756d9834ecbb"
 data "SpellAnimationType" "Telekinesis"
+data "SpellContainerID" "GZI_Telekinesis_Container"
 
 
-new entry "Throw_GZI_Telekinesis_Spike"
+new entry "GZI_Telekinesis_Spike"
 type "SpellData"
 data "SpellType" "Throw"
 using "Throw_Throw"
@@ -75,6 +90,6 @@ data "CastEffect" "74c0adbe-5a19-430b-942a-f378180112b1"
 data "HitAnimationType" "MagicalDamage_Psychic"
 data "HitEffect" "eec186d8-ae79-4800-a463-756d9834ecbb"
 data "SpellAnimationType" "Telekinesis"
-
+data "SpellContainerID" "GZI_Telekinesis_Container"
 
 //"RestoreResource(SELF, GZI_Knowledge,1);IF(HasStatus('GZI_TRAINING_C')):RemoveStatus(GZI_TRAINING_C);IF(HasStatus('GZI_TRAINING_B')):RemoveStatus(GZI_TRAINING_B);IF(HasStatus('GZI_TRAINING_A')):RemoveStatus(GZI_TRAINING_A);"

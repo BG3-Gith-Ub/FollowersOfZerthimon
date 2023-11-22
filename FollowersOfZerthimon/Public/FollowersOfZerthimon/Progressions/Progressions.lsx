@@ -33,7 +33,7 @@
         <node id="Progression">
           <attribute id="Level" type="uint8" value="3"/>
           <attribute id="Name" type="LSString" value="Githzerai_3"/>
-          <attribute id="PassivesAdded" type="LSString" value="GTZ_Zerth_Telekinetics_Path;GTZ_Zerth_Equipment_Training"/>          
+          <attribute id="PassivesAdded" type="LSString" value="GTZ_Zerth_Telekinetics_Path;"/>          
           <attribute id="ProgressionType" type="uint8" value="2"/>
           <attribute id="Boosts" type="LSString" value = "ActionResource(Interupt_Shield_GZI,1,0);ActionResource(GZI_Psionic_Focus,1,0)"/>
           <attribute id="Selectors" type="LSString" value="AddSpells(cff754a0-ce76-4596-8df4-110d3a4cbf0e,,Intelligence,,AlwaysPrepared,UntilRest)"/>  <!-- //old bc5fa476-8329-4e60-bfee-0db7d057d5c2 -->
@@ -54,6 +54,14 @@
           <attribute id="Boosts" type="LSString" value="ActionResource(GZI_Knowledge,1,0);ActionResource(GZI_Psionic_Focus,1,0)"/>   GTZ_Zerth_Bestow_Training_C GTZ_Zerth_Bestow_Training_B GTZ_Zerth_Bestow_Training_A
         </node>
 
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="6"/>
+          <attribute id="Name" type="LSString" value="Githzerai_6"/>
+          <attribute id="PassivesAdded" type="LSString" value="GTZ_Zerth_Telekinetics_Path_Two;"/>          
+          <attribute id="ProgressionType" type="uint8" value="2"/>
+          <attribute id="TableUUID" type="guid" value="eccc27e9-0d6f-409a-98d1-c924ce52c364"/>
+          <attribute id="UUID" type="guid" value="249b00d0-318f-4f2f-a04e-436df73f6fa1"/>
+        </node>
 
         <node id="Progression">
           <attribute id="Level" type="uint8" value="7"/>
