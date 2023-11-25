@@ -118,14 +118,20 @@ data "Boosts" "UnlockSpell(Projectile_Zerth_Psi_Lance)"
 
 new entry "GZI_KNWLD_TECH"
 type "PassiveData"
-data "StatusPropertyFlags" "DisableCombatlog;DisableOverhead;IgnoreResting"
-data "Properties" "Highlighted"
 data "DisplayName" "hd7110194g97b8g42eagabadga0bafb96834d;1" 
 data "Description" "h7833a3f0g3e10g4af6ga014gfe001b9e7588;1" 
+data "Icon" "Spell_Zerth_GZI_RevokeKnowledge"
 data "StatsFunctorContext" "OnCast"
 data "Conditions" "SpellId('Target_GZI_Training_Revoke')"
 data "StatsFunctors" "IF(CharacterLevelGreaterThan(4) and not CharacterLevelGreaterThan(6)):ApplyStatus(SELF,GZI_KNWLD_ADD_STATUS_A,100,1);IF(CharacterLevelGreaterThan(6) and not CharacterLevelGreaterThan(8)):ApplyStatus(SELF,GZI_KNWLD_ADD_STATUS_B,100,1);IF(CharacterLevelGreaterThan(8)):ApplyStatus(SELF,GZI_KNWLD_ADD_STATUS_C,100,1);"
-data "Icon" "Spell_Zerth_GZI_RevokeKnowledge"
+data "Properties" "Highlighted"
+
+new entry "GZI_KNWLD_TECH_STATUS_PASSIVE"
+type "PassiveData"
+data "StatsFunctorContext" "OnCast"
+data "Conditions" "SpellId('Target_GZI_Training_Revoke')"
+data "StatsFunctors" "RestoreResource(SELF,GZI_Knowledge,1,0)"
+data "Properties" "IsHidden"
 
 
 
