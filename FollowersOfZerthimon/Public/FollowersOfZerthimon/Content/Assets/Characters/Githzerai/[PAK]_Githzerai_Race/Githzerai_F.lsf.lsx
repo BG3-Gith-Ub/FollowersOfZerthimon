@@ -2809,7 +2809,7 @@
               <attribute id="ExportAsPreset" type="bool" value="True"/>
               <attribute id="GroupName" type="FixedString" value="04Tattoo"/>
               <attribute id="ParameterName" type="FixedString" value="BodyTattooIndex"/>
-              <attribute id="Value" type="float" value="2"/>
+              <attribute id="Value" type="float" value="1"/>
             </node>
             <node id="ScalarParameters">
               <attribute id="BaseValue" type="float" value="1"/>
@@ -5617,6 +5617,20 @@
           <attribute id="Width" type="int32" value="2048"/>
           <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023"/>
         </node>
+        //TATTOO
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="5120" />
+					<attribute id="ID" type="FixedString" value="0b17820a-4ba9-48b8-829c-1b20bbc92184" />
+					<attribute id="Name" type="LSString" value="Skin_Atlas_Body_GTZ_Tattoo_A_MSK1" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Models/_SharedAssets/SHARED_Atlas/Resources/Skin_Atlas_Body_UNI_Tattoo_A_MSK1.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Skin_Atlas_Body_UNI_Tattoo_A_MSK1" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="4096" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209035" />
+				</node>
 
         //GEN A
         <node id="Resource">

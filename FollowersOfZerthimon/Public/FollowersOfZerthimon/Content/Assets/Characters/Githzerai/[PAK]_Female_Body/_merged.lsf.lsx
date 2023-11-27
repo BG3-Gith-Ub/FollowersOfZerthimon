@@ -185,31 +185,71 @@
 					<children>
 						<node id="Base"/>
 						<node id="ClothProxyMapping"/>
+						
 						<node id="Objects">
 						<attribute id="LOD" type="uint8" value="0"/>
 						<attribute id="MaterialID" type="FixedString" value="dab5b929-173a-4df0-97bc-3645b8e26e22"/>
 						<attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Body_A.GTZ_F_NKD_Body_A_Mesh.0"/>
 						</node>
+						<!--
+						<node id="Objects">
+						<attribute id="LOD" type="uint8" value="0"/>
+						<attribute id="MaterialID" type="FixedString" value="effa6438-64ba-475b-a2f3-f9b375e3fb9b"/>
+						<attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Body_A.GTZ_F_NKD_Body_A_Mesh.001.1"/>
+						</node>
+-->
 						<node id="Objects">
 						<attribute id="LOD" type="uint8" value="1"/>
 						<attribute id="MaterialID" type="FixedString" value="dab5b929-173a-4df0-97bc-3645b8e26e22"/>
-						<attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Body_A.GTZ_F_NKD_Body_A_Mesh_LOD1.1"/>
+						<attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Body_A.GTZ_F_NKD_Body_A_Mesh_LOD1.2"/>
 						</node>
+						<!--
+						<node id="Objects">
+						<attribute id="LOD" type="uint8" value="1"/>
+						<attribute id="MaterialID" type="FixedString" value="effa6438-64ba-475b-a2f3-f9b375e3fb9b"/>
+						<attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Body_A.GTZ_F_NKD_Body_A_Mesh_LOD1.001.3"/>
+						</node>
+-->
+
 						<node id="Objects">
 						<attribute id="LOD" type="uint8" value="2"/>
 						<attribute id="MaterialID" type="FixedString" value="dab5b929-173a-4df0-97bc-3645b8e26e22"/>
-						<attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Body_A.GTZ_F_NKD_Body_A_Mesh_LOD2.2"/>
+						<attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Body_A.GTZ_F_NKD_Body_A_Mesh_LOD2.4"/>
 						</node>
+						<!--
+						<node id="Objects">
+						<attribute id="LOD" type="uint8" value="2"/>
+						<attribute id="MaterialID" type="FixedString" value="effa6438-64ba-475b-a2f3-f9b375e3fb9b"/>
+						<attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Body_A.GTZ_F_NKD_Body_A_Mesh_LOD2.001.5"/>
+						</node>
+-->
+
 						<node id="Objects">
 						<attribute id="LOD" type="uint8" value="3"/>
 						<attribute id="MaterialID" type="FixedString" value="dab5b929-173a-4df0-97bc-3645b8e26e22"/>
-						<attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Body_A.GTZ_F_NKD_Body_A_Mesh_LOD3.3"/>
+						<attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Body_A.GTZ_F_NKD_Body_A_Mesh_LOD3.6"/>
 						</node>
+						<!--
+						<node id="Objects">
+						<attribute id="LOD" type="uint8" value="3"/>
+						<attribute id="MaterialID" type="FixedString" value="effa6438-64ba-475b-a2f3-f9b375e3fb9b"/>
+						<attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Body_A.GTZ_F_NKD_Body_A_Mesh_LOD3.001.7"/>
+						</node>
+-->
+
 						<node id="Objects">
 						<attribute id="LOD" type="uint8" value="4"/>
 						<attribute id="MaterialID" type="FixedString" value="dab5b929-173a-4df0-97bc-3645b8e26e22"/>
-						<attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Body_A.GTZ_F_NKD_Body_A_Mesh_LOD4.4"/>
+						<attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Body_A.GTZ_F_NKD_Body_A_Mesh_LOD4.8"/>
 						</node>
+						<!--
+						<node id="Objects">
+						<attribute id="LOD" type="uint8" value="4"/>
+						<attribute id="MaterialID" type="FixedString" value="effa6438-64ba-475b-a2f3-f9b375e3fb9b"/>
+						<attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Body_A.GTZ_F_NKD_Body_A_Mesh_LOD4.001.9"/>
+						</node>		
+-->						
+
 					</children>
 				</node>
 			</children>

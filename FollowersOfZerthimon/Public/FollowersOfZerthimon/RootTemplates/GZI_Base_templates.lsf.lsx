@@ -11,11 +11,11 @@
           <attribute id="Type" type="FixedString" value="character"/>
           <attribute id="ParentTemplateId" type="FixedString" value="9ab35976-3555-4ed7-9343-7e52d8facad5"/>
           <attribute id="ReadinessFlags" type="uint32" value="12"/>
-          <attribute id="Icon" type="FixedString" value="f0656351-448d-1421-fde6-ba2e9ade0a7f-_(Icon_Githyanki_Male)"/>
+          <attribute id="Icon" type="FixedString" value="85df0c35-2555-4c26-8a4b-72fdc5ee202f-_(Icon_Githyanki_Male)"/>
           <attribute id="EquipmentRace" type="guid" value="f07faafa-0c6f-4f79-a049-70e96b23d51b"/>
           <attribute id="IsPlayer" type="bool" value="False"/>
           <attribute id="NotHardcore" type="bool" value="True"/>
-          <attribute id="CharacterVisualResourceID" type="FixedString" value="f0656351-448d-1421-fde6-ba2e9ade0a7f"/>
+          <attribute id="CharacterVisualResourceID" type="FixedString" value="85df0c35-2555-4c26-8a4b-72fdc5ee202f"/>
           <attribute id="GeneratePortrait" type="LSString" value="Icon_Githyanki_Male"/>
           <attribute id="Race" type="guid" value="ca1c9216-a0cf-44e7-811a-2f9081c536ed"/>
           <children>
