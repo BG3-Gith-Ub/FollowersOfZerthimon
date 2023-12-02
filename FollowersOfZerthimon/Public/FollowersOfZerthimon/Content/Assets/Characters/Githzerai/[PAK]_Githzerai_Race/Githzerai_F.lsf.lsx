@@ -2627,6 +2627,8 @@
           </children>
         </node>
         
+
+        <!-- New version WIP-->
         //BODY A
         <node id="Resource">
           <attribute id="DiffusionProfileUUID" type="FixedString" value=""/>
@@ -2966,7 +2968,7 @@
               <attribute id="Enabled" type="bool" value="True"/>
               <attribute id="ExportAsPreset" type="bool" value="True"/>
               <attribute id="GroupName" type="FixedString" value="01Texture Maps"/>
-              <attribute id="ID" type="FixedString" value="be86c1ff-c2be-1290-63c6-edfc87fccf88"/>
+              <attribute id="ID" type="FixedString" value="2d1854fb-e287-46db-8fa8-1d6a9f29c0a0"/>
               <attribute id="ParameterName" type="FixedString" value="CancelMSK"/>
             </node>
             <node id="Texture2DParameters">
