@@ -198,10 +198,17 @@
 						<attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Body_A.GTZ_F_NKD_Body_A_Mesh.001.1"/>
 						</node>
 -->
+						<!--<node id="Objects">
+						<attribute id="LOD" type="uint8" value="0"/>
+						<attribute id="MaterialID" type="FixedString" value="dab5b929-173a-4df0-97bc-3645b8e26e22"/>
+						<attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Body_A.GTZ_F_NKD_Body_A_Mesh.2"/>
+						</node>-->
+
+
 						<node id="Objects">
 						<attribute id="LOD" type="uint8" value="1"/>
-						<attribute id="MaterialID" type="FixedString" value="dab5b929-173a-4df0-97bc-3645b8e26e22"/>
-						<attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Body_A.GTZ_F_NKD_Body_A_Mesh_LOD1.2"/>
+						<attribute id="MaterialID" type="FixedString" value="e89c12f1-d6bc-4abe-af72-2a200282828a"/>
+						<attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Body_A.GTZ_F_NKD_Body_A_Nails_Mesh.1"/>
 						</node>
 						<!--
 						<node id="Objects">
@@ -255,4 +262,23 @@
 			</children>
 		</node>
 	</region>
+
+	<region id="VirtualTextureBank">
+		<node id="VirtualTextureBank">
+			<children>
+				<node id="Resource">
+					<attribute id="GTexFileName" type="FixedString" value="42000455d4a94630a815bd82fa8f9b02" />
+					<attribute id="ID" type="FixedString" value="69131d5d-3d7a-4389-8801-7e02eade1cc2" />
+					<attribute id="Name" type="LSString" value="GTZ_F_NKD_Body_A" />
+					<attribute id="Prefetch" type="bool" value="False" />
+					<attribute id="PrefetchMipLevel" type="int8" value="-1" />
+					<attribute id="ReferencedColorSpaces" type="uint32" value="6" />
+					<attribute id="SourceFile" type="LSString" value="" />
+					<attribute id="VirtualTextureLayerConfig" type="uint32" value="3" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540922158" />
+				</node>
+			</children>
+		</node>
+	</region>
+
 </save>

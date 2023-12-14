@@ -24,6 +24,14 @@ data "Properties" "Highlighted;ForceShowInCC"
 data "StatsFunctorContext" "OnCreate"
 data "StatsFunctors" "ApplyStatus(SELF,GZI_DETECT_THOUGHTS,100,-1)"     
 
+new entry "GTZ_Zerth_Revoke_Training"
+type "PassiveData"
+data "DisplayName" "ha059ddc4gbf80g45bdg9958g1c3eb66cf3b7;1"
+data "Description" "hcca5f466gba6bg4656g8360g46fc39c61d34;1" 
+data "Icon" "PassiveFeature_Zerth_Teachings"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockSpell(Target_GZI_Training_Revoke)"
+
 
 new entry "GTZ_Zerth_Bestow_Training_A"
 type "PassiveData"
@@ -31,8 +39,8 @@ data "DisplayName" "h1c86913fg1c35g4865g93f8g576c856265a3;2"
 data "Description" "h8c9b0f14gdbb2g4a4bga648g716d6d85957c;1" 
 data "Icon" "PassiveFeature_Zerth_Teachings"
 data "Properties" "Highlighted"
-data "Boosts" "UnlockSpell(Target_GZI_Training_A);UnlockSpell(Target_GZI_Training_Revoke)"
-
+data "Boosts" "UnlockSpell(Target_GZI_Training_A)"
+//;UnlockSpell(Target_GZI_Training_Revoke)
 
 new entry "GTZ_Zerth_Bestow_Training_B"
 type "PassiveData"
@@ -121,6 +129,7 @@ type "PassiveData"
 data "DisplayName" "hd7110194g97b8g42eagabadga0bafb96834d;1" 
 data "Description" "h7833a3f0g3e10g4af6ga014gfe001b9e7588;1" 
 data "Icon" "Spell_Zerth_GZI_RevokeKnowledge"
+data "Boosts" "UnlockSpell(Target_GZI_Training_Revoke)"
 data "StatsFunctorContext" "OnCast"
 data "Conditions" "SpellId('Target_GZI_Training_Revoke')"
 data "StatsFunctors" "IF(CharacterLevelGreaterThan(4) and not CharacterLevelGreaterThan(6)):ApplyStatus(SELF,GZI_KNWLD_ADD_STATUS_A,100,1);IF(CharacterLevelGreaterThan(6) and not CharacterLevelGreaterThan(8)):ApplyStatus(SELF,GZI_KNWLD_ADD_STATUS_B,100,1);IF(CharacterLevelGreaterThan(8)):ApplyStatus(SELF,GZI_KNWLD_ADD_STATUS_C,100,1);"

@@ -48,11 +48,12 @@
           <attribute id="PassivesAdded" type="LSString" value="GTZ_Zerth_Bestow_Training_A;GZI_KNWLD_TECH"/>
           <attribute id="PassivesRemoved" type="LSString" value="GTZ_Zerth_Bestow_Training_B;GTZ_Zerth_Bestow_Training_C"/>           
           <attribute id="ProgressionType" type="uint8" value="2"/>
-          <attribute id="Selectors" type="LSString" value="AddSpells(b5218b5e-37a6-4ff7-8821-8bead1baa9ba,,Intelligence,,AlwaysPrepared,UntilRest)"/>  ;AddSpells(fdce7a0b-1e19-432b-a8eb-07fa4f17f097)
+          <attribute id="Selectors" type="LSString" value="AddSpells(b5218b5e-37a6-4ff7-8821-8bead1baa9ba,,Intelligence,,AlwaysPrepared,UntilRest)"/>  <!--AddSpells(fdce7a0b-1e19-432b-a8eb-07fa4f17f097)-->
           <attribute id="TableUUID" type="guid" value="eccc27e9-0d6f-409a-98d1-c924ce52c364"/>
           <attribute id="UUID" type="guid" value="6ffab5cd-9118-4472-b610-30df59a3ff6f"/>
-          <attribute id="Boosts" type="LSString" value="ActionResource(GZI_Knowledge,1,0);ActionResource(GZI_Psionic_Focus,1,0)"/>   GTZ_Zerth_Bestow_Training_C GTZ_Zerth_Bestow_Training_B GTZ_Zerth_Bestow_Training_A
+          <attribute id="Boosts" type="LSString" value="ActionResource(GZI_Knowledge,1,0);ActionResource(GZI_Psionic_Focus,1,0)"/>   <!--GTZ_Zerth_Bestow_Training_C GTZ_Zerth_Bestow_Training_B GTZ_Zerth_Bestow_Training_A-->
         </node>
+
 
         <node id="Progression">
           <attribute id="Level" type="uint8" value="6"/>
@@ -62,6 +63,7 @@
           <attribute id="TableUUID" type="guid" value="eccc27e9-0d6f-409a-98d1-c924ce52c364"/>
           <attribute id="UUID" type="guid" value="249b00d0-318f-4f2f-a04e-436df73f6fa1"/>
         </node>
+
 
         <node id="Progression">
           <attribute id="Level" type="uint8" value="7"/>
@@ -73,7 +75,7 @@
           <attribute id="UUID" type="guid" value="91e65196-1db2-4233-89cd-33d075f56c6e"/>
           <attribute id="Boosts" type="LSString" value="ActionResource(GZI_Knowledge,1,0);ActionResource(GZI_Psionic_Focus,2,0)" />
         </node>
-
+        
 
         <node id="Progression">
           <attribute id="Level" type="uint8" value="9"/>
@@ -84,7 +86,94 @@
           <attribute id="TableUUID" type="guid" value="eccc27e9-0d6f-409a-98d1-c924ce52c364"/>
           <attribute id="UUID" type="guid" value="f1dfb467-0a26-4dec-8ff0-0ec28e3eac2f"/>
           <attribute id="Boosts" type="LSString" value="ActionResource(GZI_Knowledge,1,0);ActionResource(GZI_Psionic_Focus,2,0)" />
-        </node>                
+        </node>    
+
+
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="10"/>
+          <attribute id="Name" type="LSString" value="Githzerai_10"/>
+          <attribute id="ProgressionType" type="uint8" value="2"/>
+          <attribute id="TableUUID" type="guid" value="eccc27e9-0d6f-409a-98d1-c924ce52c364"/>
+          <attribute id="UUID" type="guid" value="adaff82e-e152-4f2b-8d4c-7d8ff664f67d"/>
+        </node>
+
+
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="1"/>
+          <attribute id="Name" type="LSString" value="Githzerai_11"/>
+          <attribute id="ProgressionType" type="uint8" value="2"/>
+          <attribute id="TableUUID" type="guid" value="eccc27e9-0d6f-409a-98d1-c924ce52c364"/>
+          <attribute id="UUID" type="guid" value="054c6091-667f-4619-ad47-45397834e4a4"/>
+        </node>
+
+        
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="12"/>
+          <attribute id="Name" type="LSString" value="Githzerai_12"/>
+          <attribute id="ProgressionType" type="uint8" value="2"/>
+          <attribute id="TableUUID" type="guid" value="eccc27e9-0d6f-409a-98d1-c924ce52c364"/>
+          <attribute id="UUID" type="guid" value="679494d4-da4f-4ea3-91fc-52d7cc20850a"/>
+        </node>
+
+
+        <!--13 thru 20-->
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="13"/>
+          <attribute id="Name" type="LSString" value="Githzerai_13"/>
+          <attribute id="ProgressionType" type="uint8" value="2"/>
+          <attribute id="TableUUID" type="guid" value="eccc27e9-0d6f-409a-98d1-c924ce52c364"/>
+          <attribute id="UUID" type="guid" value="bc0cb462-2550-4d4f-b6c8-5ee6ca9adf0f"/>
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="14"/>
+          <attribute id="Name" type="LSString" value="Githzerai_14"/>
+          <attribute id="ProgressionType" type="uint8" value="2"/>
+          <attribute id="TableUUID" type="guid" value="eccc27e9-0d6f-409a-98d1-c924ce52c364"/>
+          <attribute id="UUID" type="guid" value="e3318702-672e-4bb3-87e4-f14bc37d4ffa"/>
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="15"/>
+          <attribute id="Name" type="LSString" value="Githzerai_15"/>
+          <attribute id="ProgressionType" type="uint8" value="2"/>
+          <attribute id="TableUUID" type="guid" value="eccc27e9-0d6f-409a-98d1-c924ce52c364"/>
+          <attribute id="UUID" type="guid" value="ecf449ae-72bd-4c75-a915-e3e4449bbd18"/>
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="16"/>
+          <attribute id="Name" type="LSString" value="Githzerai_16"/>
+          <attribute id="ProgressionType" type="uint8" value="2"/>
+          <attribute id="TableUUID" type="guid" value="eccc27e9-0d6f-409a-98d1-c924ce52c364"/>
+          <attribute id="UUID" type="guid" value="30eb814b-b0db-4e27-918d-1e4cfcc39d35"/>
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="17"/>
+          <attribute id="Name" type="LSString" value="Githzerai_17"/>
+          <attribute id="ProgressionType" type="uint8" value="2"/>
+          <attribute id="TableUUID" type="guid" value="eccc27e9-0d6f-409a-98d1-c924ce52c364"/>
+          <attribute id="UUID" type="guid" value="4c620927-8bb1-43d3-afa3-1e787ea30bfa"/>
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="18"/>
+          <attribute id="Name" type="LSString" value="Githzerai_18"/>
+          <attribute id="ProgressionType" type="uint8" value="2"/>
+          <attribute id="TableUUID" type="guid" value="eccc27e9-0d6f-409a-98d1-c924ce52c364"/>
+          <attribute id="UUID" type="guid" value="24b44e3a-2189-4d2c-8362-01ef9cfa41d4"/>
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="19"/>
+          <attribute id="Name" type="LSString" value="Githzerai_19"/>
+          <attribute id="ProgressionType" type="uint8" value="2"/>
+          <attribute id="TableUUID" type="guid" value="eccc27e9-0d6f-409a-98d1-c924ce52c364"/>
+          <attribute id="UUID" type="guid" value="9ec8ef19-d860-4fd4-ad5e-13eaa8370ba0"/>
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="20"/>
+          <attribute id="Name" type="LSString" value="Githzerai_20"/>
+          <attribute id="ProgressionType" type="uint8" value="2"/>
+          <attribute id="TableUUID" type="guid" value="eccc27e9-0d6f-409a-98d1-c924ce52c364"/>
+          <attribute id="UUID" type="guid" value="020dd2cf-1856-4186-8fa4-42eabdeab7d3"/>
+        </node>
+
       </children>
     </node>
   </region>

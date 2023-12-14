@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TileSet Version="2" Name="Kaz">
+	<TileSetConfig>
+		<TileWidth>128</TileWidth>
+		<TileHeight>128</TileHeight>
+		<TileBorder>8</TileBorder>
+		<Compression>Best</Compression>
+		<PageSize>1048576</PageSize>
+		<OneFilePerGTex>false</OneFilePerGTex>
+		<BackfillPages>true</BackfillPages>
+		<EmbedMips>true</EmbedMips>
+		<EmbedTopLevelMips>true</EmbedTopLevelMips>
+	</TileSetConfig>
+	
+	<Paths>
+		<SourceTextures>Conversion\Textures</SourceTextures>
+		<VirtualTextures>Public\FollowersOfZerthimon\Assets\VirtualTextures</VirtualTextures>
+	</Paths>
+	
+	<Layers>
+		<Layer Name="Albedo" Type="R8G8B8A8_SRGB" />
+		<Layer Name="Normal" Type="X8Y8Z8W8" />
+		<Layer Name="Physical" Type="X8Y8Z8W8" />
+	</Layers>
+
+	<Textures>
+		<Texture Name="e05176c4ac30d5228d0c0452d938f699">
+			<Layer Name="Albedo" Source="e05176c4ac30d5228d0c0452d938f699_0.dds" />
+			<Layer Name="Normal" Source="e05176c4ac30d5228d0c0452d938f699_1.dds" />
+			<Layer Name="Physical" Source="e05176c4ac30d5228d0c0452d938f699_2.dds" />
+		</Texture>
+		<Texture Name="9c706286e2a5e5c7cdb27090846bb03">
+			<Layer Name="Albedo" Source="e05176c4ac30d5228d0c0452d938f699_0.dds" />
+			<Layer Name="Normal" Source="e05176c4ac30d5228d0c0452d938f699_1.dds" />
+			<Layer Name="Physical" Source="e05176c4ac30d5228d0c0452d938f699_2.dds" />
+		</Texture>
+		<Texture Name="aef618b39e9c4ee8f0609a396abe3a42">
+			<Layer Name="Albedo" Source="e05176c4ac30d5228d0c0452d938f699_0.dds" />
+			<Layer Name="Normal" Source="e05176c4ac30d5228d0c0452d938f699_1.dds" />
+			<Layer Name="Physical" Source="e05176c4ac30d5228d0c0452d938f699_2.dds" />
+		</Texture>	
+		<Texture Name="42000455d4a94630a815bd82fa8f9b02">
+			<Layer Name="Albedo" Source="e05176c4ac30d5228d0c0452d938f699_0.dds" />
+			<Layer Name="Normal" Source="e05176c4ac30d5228d0c0452d938f699_1.dds" />
+			<Layer Name="Physical" Source="e05176c4ac30d5228d0c0452d938f699_2.dds" />
+		</Texture>	
+		<Texture Name="42010455d4a94630a815bd82fa8f9b02">
+			<Layer Name="Albedo" Source="0778783bcafd402cbe2c197f6d07a276_0.dds" />
+			<Layer Name="Normal" Source="0778783bcafd402cbe2c197f6d07a276_1.dds" />
+			<Layer Name="Physical" Source="0778783bcafd402cbe2c197f6d07a276_2.dds" />
+		</Texture>		
+	</Textures>
+</TileSet>
