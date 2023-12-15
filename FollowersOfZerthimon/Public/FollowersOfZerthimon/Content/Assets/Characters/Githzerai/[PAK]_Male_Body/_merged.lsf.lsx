@@ -4,7 +4,6 @@
 	<region id="VisualBank">
 		<node id="VisualBank">
 			<children>
-			
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -14,7 +13,7 @@
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="f20578c4-03d0-4b20-96d8-bc08486580ff" /> <!--e6fa4c4b-8f7d-52d0-78d1-81405baf735f-->
+					<attribute id="ID" type="FixedString" value="f20578c4-03d0-4b20-96d8-bc08486580ff" />
 					<attribute id="MaterialType" type="uint8" value="0" />
 					<attribute id="Name" type="LSString" value="GTZ_M_Base" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
@@ -153,105 +152,64 @@
 						<node id="ClothProxyMapping" />
 					</children>
 				</node>
-							
-			
 				<node id="Resource">
-					<attribute id="AttachBone" type="FixedString" value=""/>
-					<attribute id="AttachmentSkeletonResource" type="FixedString" value=""/>
-					<attribute id="BlueprintInstanceResourceID" type="FixedString" value=""/>
-					<attribute id="BoundsMax" type="fvec3" value="0.8407087 1.670786 0.134198"/>
-					<attribute id="BoundsMin" type="fvec3" value="-0.8407087 -0.008007877 -0.2097121"/>
-					<attribute id="ClothColliderResourceID" type="FixedString" value="73baa883-3c64-0d0e-73dc-4597815b54c2"/>
-					<attribute id="HairPresetResourceId" type="FixedString" value=""/>
-					<attribute id="HairType" type="uint8" value="0"/>
-					<attribute id="ID" type="FixedString" value="8d31594b-7897-4331-afe2-1b3a214bdd66"/> //CHANGED
-					<attribute id="MaterialType" type="uint8" value="0"/>
-					<attribute id="Name" type="LSString" value="GTZ_M_NKD_Body_A"/>
-					<attribute id="NeedsSkeletonRemap" type="bool" value="False"/>
-					<attribute id="RemapperSlotId" type="FixedString" value=""/>
-					<attribute id="ScalpMaterialId" type="FixedString" value=""/>
-					<attribute id="SkeletonResource" type="FixedString" value="24db7c92-bc91-a744-3500-2ac4377f1132"/>
-					<attribute id="SkeletonSlot" type="FixedString" value=""/>
-					<attribute id="Slot" type="FixedString" value="NakedBody"/>
-					<attribute id="SoftbodyResourceID" type="FixedString" value="7f321eab-6f25-9304-c071-6d05800c9eff"/>
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Models/[PAK]_Githzerai/_Male/Resources/GTZ_M_NKD_Body_A.GR2"/>
-					<attribute id="SupportsVertexColorMask" type="bool" value="True"/>
-					<attribute id="Template" type="FixedString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Models/[PAK]_Githzerai/_Male/Resources/GTZ_M_NKD_Body_A.Dummy_Root.0"/>
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023"/>
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.8407087 1.670786 0.134198" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.8407087 -0.008007877 -0.2097121" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="73baa883-3c64-0d0e-73dc-4597815b54c2" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="8d31594b-7897-4331-afe2-1b3a214bdd66" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="GTZ_M_NKD_Body_A" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="24db7c92-bc91-a744-3500-2ac4377f1132" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="NakedBody" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="7f321eab-6f25-9304-c071-6d05800c9eff" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Models/[PAK]_Githzerai/_Male/Resources/GTZ_M_NKD_Body_A.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Models/[PAK]_Githzerai/_Male/Resources/GTZ_M_NKD_Body_A.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
 					<children>
-						<node id="Base"/>
-						<node id="ClothProxyMapping"/>
-
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
 						<node id="Objects">
-						<attribute id="LOD" type="uint8" value="0"/>
-						<attribute id="MaterialID" type="FixedString" value="b70001df-4c14-4795-92f0-c06532429a5f"/>
-						<attribute id="ObjectID" type="FixedString" value="GTZ_M_NKD_Body_A.GTY_M_NKD_Body_A_Mesh.0"/>
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="b70001df-4c14-4795-92f0-c06532429a5f" />
+							<attribute id="ObjectID" type="FixedString" value="GTZ_M_NKD_Body_A.GTY_M_NKD_Body_A_Mesh.0" />
 						</node>
-						<!--
 						<node id="Objects">
-						<attribute id="LOD" type="uint8" value="0"/>
-						<attribute id="MaterialID" type="FixedString" value="effa6438-64ba-475b-a2f3-f9b375e3fb9b"/>
-						<attribute id="ObjectID" type="FixedString" value="GTZ_M_NKD_Body_A.GTY_M_NKD_Body_A_Mesh.001.1"/>
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="e89c12f1-d6bc-4abe-af72-2a200282828a" />
+							<attribute id="ObjectID" type="FixedString" value="GTZ_M_NKD_Body_A.GTZ_M_NKD_Body_A_Nails_Mesh.1" />
 						</node>
--->
-
 						<node id="Objects">
-						<attribute id="LOD" type="uint8" value="1"/>
-						<attribute id="MaterialID" type="FixedString" value="e89c12f1-d6bc-4abe-af72-2a200282828a"/>
-						<attribute id="ObjectID" type="FixedString" value="GTZ_M_NKD_Body_A.GTZ_M_NKD_Body_A_Nails_Mesh.1"/>
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="b70001df-4c14-4795-92f0-c06532429a5f" />
+							<attribute id="ObjectID" type="FixedString" value="GTZ_M_NKD_Body_A.GTY_M_NKD_Body_A_Mesh_LOD1.2" />
 						</node>
-
 						<node id="Objects">
-						<attribute id="LOD" type="uint8" value="1"/>
-						<attribute id="MaterialID" type="FixedString" value="b70001df-4c14-4795-92f0-c06532429a5f"/>
-						<attribute id="ObjectID" type="FixedString" value="GTZ_M_NKD_Body_A.GTY_M_NKD_Body_A_Mesh_LOD1.2"/>
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="b70001df-4c14-4795-92f0-c06532429a5f" />
+							<attribute id="ObjectID" type="FixedString" value="GTZ_M_NKD_Body_A.GTY_M_NKD_Body_A_Mesh_LOD2.4" />
 						</node>
-						<!--
 						<node id="Objects">
-						<attribute id="LOD" type="uint8" value="1"/>
-						<attribute id="MaterialID" type="FixedString" value="effa6438-64ba-475b-a2f3-f9b375e3fb9b"/>
-						<attribute id="ObjectID" type="FixedString" value="GTZ_M_NKD_Body_A.GTY_M_NKD_Body_A_Mesh_LOD1.001.3"/>
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="b70001df-4c14-4795-92f0-c06532429a5f" />
+							<attribute id="ObjectID" type="FixedString" value="GTZ_M_NKD_Body_A.GTY_M_NKD_Body_A_Mesh_LOD3.6" />
 						</node>
--->
 						<node id="Objects">
-						<attribute id="LOD" type="uint8" value="2"/>
-						<attribute id="MaterialID" type="FixedString" value="b70001df-4c14-4795-92f0-c06532429a5f"/>
-						<attribute id="ObjectID" type="FixedString" value="GTZ_M_NKD_Body_A.GTY_M_NKD_Body_A_Mesh_LOD2.4"/>
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="b70001df-4c14-4795-92f0-c06532429a5f" />
+							<attribute id="ObjectID" type="FixedString" value="GTZ_M_NKD_Body_A.GTY_M_NKD_Body_A_Mesh_LOD4.8" />
 						</node>
-						<!--
-						<node id="Objects">
-						<attribute id="LOD" type="uint8" value="2"/>
-						<attribute id="MaterialID" type="FixedString" value="effa6438-64ba-475b-a2f3-f9b375e3fb9b"/>
-						<attribute id="ObjectID" type="FixedString" value="GTZ_M_NKD_Body_A.GTY_M_NKD_Body_A_Mesh_LOD2.001.5"/>
-						</node>
--->
-						<node id="Objects">
-						<attribute id="LOD" type="uint8" value="3"/>
-						<attribute id="MaterialID" type="FixedString" value="b70001df-4c14-4795-92f0-c06532429a5f"/>
-						<attribute id="ObjectID" type="FixedString" value="GTZ_M_NKD_Body_A.GTY_M_NKD_Body_A_Mesh_LOD3.6"/>
-						</node>
-						<!--
-						<node id="Objects">
-						<attribute id="LOD" type="uint8" value="3"/>
-						<attribute id="MaterialID" type="FixedString" value="effa6438-64ba-475b-a2f3-f9b375e3fb9b"/>
-						<attribute id="ObjectID" type="FixedString" value="GTZ_M_NKD_Body_A.GTY_M_NKD_Body_A_Mesh_LOD3.001.7"/>
-						</node>
--->
-						<node id="Objects">
-						<attribute id="LOD" type="uint8" value="4"/>
-						<attribute id="MaterialID" type="FixedString" value="b70001df-4c14-4795-92f0-c06532429a5f"/>
-						<attribute id="ObjectID" type="FixedString" value="GTZ_M_NKD_Body_A.GTY_M_NKD_Body_A_Mesh_LOD4.8"/>
-						</node>
-						<!--
-						<node id="Objects">
-						<attribute id="LOD" type="uint8" value="4"/>
-						<attribute id="MaterialID" type="FixedString" value="effa6438-64ba-475b-a2f3-f9b375e3fb9b"/>
-						<attribute id="ObjectID" type="FixedString" value="GTZ_M_NKD_Body_A.GTY_M_NKD_Body_A_Mesh_LOD4.001.9"/>
-						</node>
--->						
-
 					</children>
-				</node>	
+				</node>
 			</children>
 		</node>
 	</region>

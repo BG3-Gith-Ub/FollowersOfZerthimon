@@ -958,7 +958,7 @@
 															<attribute id="Time" type="float" value="0.9991083" />
 														</node>
 														<node id="Frame">
-															<attribute id="A" type="float" value="-3.062101E+07" />
+															<attribute id="A" type="float" value="-30621010" />
 															<attribute id="B" type="float" value="25575.43" />
 															<attribute id="C" type="float" value="27.4368" />
 															<attribute id="D" type="float" value="19.97691" />
@@ -23608,28 +23608,28 @@
 													<attribute id="FrameType" type="uint8" value="1" />
 													<children>
 														<node id="Frame">
-															<attribute id="A" type="float" value="1.911637E+07" />
+															<attribute id="A" type="float" value="19116370" />
 															<attribute id="B" type="float" value="49997.67" />
 															<attribute id="C" type="float" value="0" />
 															<attribute id="D" type="float" value="0" />
 															<attribute id="Time" type="float" value="0.004026288" />
 														</node>
 														<node id="Frame">
-															<attribute id="A" type="float" value="9.201383E+07" />
+															<attribute id="A" type="float" value="92013830" />
 															<attribute id="B" type="float" value="321477.1" />
 															<attribute id="C" type="float" value="1332.296" />
 															<attribute id="D" type="float" value="2.058239" />
 															<attribute id="Time" type="float" value="0.004987283" />
 														</node>
 														<node id="Frame">
-															<attribute id="A" type="float" value="2.151311E+08" />
+															<attribute id="A" type="float" value="215131100" />
 															<attribute id="B" type="float" value="579103.3" />
 															<attribute id="C" type="float" value="2205.1" />
 															<attribute id="D" type="float" value="3.717119" />
 															<attribute id="Time" type="float" value="0.005723089" />
 														</node>
 														<node id="Frame">
-															<attribute id="A" type="float" value="4.534669E+08" />
+															<attribute id="A" type="float" value="453466900" />
 															<attribute id="B" type="float" value="1052803" />
 															<attribute id="C" type="float" value="3406.737" />
 															<attribute id="D" type="float" value="5.738879" />
@@ -23664,28 +23664,28 @@
 															<attribute id="Time" type="float" value="0.007693592" />
 														</node>
 														<node id="Frame">
-															<attribute id="A" type="float" value="4.482927E+08" />
+															<attribute id="A" type="float" value="448292700" />
 															<attribute id="B" type="float" value="-2603632" />
 															<attribute id="C" type="float" value="7563.964" />
 															<attribute id="D" type="float" value="18.56928" />
 															<attribute id="Time" type="float" value="0.008772142" />
 														</node>
 														<node id="Frame">
-															<attribute id="A" type="float" value="2.045073E+08" />
+															<attribute id="A" type="float" value="204507300" />
 															<attribute id="B" type="float" value="-1094930" />
 															<attribute id="C" type="float" value="3512.125" />
 															<attribute id="D" type="float" value="24.26111" />
 															<attribute id="Time" type="float" value="0.009770684" />
 														</node>
 														<node id="Frame">
-															<attribute id="A" type="float" value="2.73954E+07" />
+															<attribute id="A" type="float" value="27395400" />
 															<attribute id="B" type="float" value="-399700.1" />
 															<attribute id="C" type="float" value="1937.194" />
 															<attribute id="D" type="float" value="26.87999" />
 															<attribute id="Time" type="float" value="0.01434879" />
 														</node>
 														<node id="Frame">
-															<attribute id="A" type="float" value="-2.45033E+08" />
+															<attribute id="A" type="float" value="-245033000" />
 															<attribute id="B" type="float" value="829732.3" />
 															<attribute id="C" type="float" value="-1272.943" />
 															<attribute id="D" type="float" value="30" />
@@ -25425,7 +25425,7 @@
 													<attribute id="FrameType" type="uint8" value="1" />
 													<children>
 														<node id="Frame">
-															<attribute id="A" type="float" value="-9.993909E+07" />
+															<attribute id="A" type="float" value="-99939090" />
 															<attribute id="B" type="float" value="51172.27" />
 															<attribute id="C" type="float" value="0" />
 															<attribute id="D" type="float" value="0.2" />

@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
-  <version major="10" minor="0" revision="0" build="0" lslib_meta="v1,bswap_guids"/>
+	<version major="10" minor="0" revision="0" build="0" lslib_meta="v1,bswap_guids" />
 	<region id="Tags">
 		<node id="Tags">
 			<attribute id="Description" type="LSString" value="Character is really a Githyanki" />

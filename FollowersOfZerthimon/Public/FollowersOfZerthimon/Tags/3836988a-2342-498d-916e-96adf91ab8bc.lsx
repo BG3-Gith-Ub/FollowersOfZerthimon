@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
 	<version major="4" minor="0" revision="0" build="58" lslib_meta="v1,bswap_guids" />
 	<region id="Tags">
@@ -20,7 +20,7 @@
 						</node>
 						<node id="Category">
 							<attribute id="Name" type="LSString" value="CharacterSheet" />
-						</node>						
+						</node>
 					</children>
 				</node>
 			</children>

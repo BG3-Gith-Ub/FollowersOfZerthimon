@@ -1,66 +1,94 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
-  <version major="4" minor="0" revision="0" build="49" lslib_meta="v1,bswap_guids"/>
-  <region id="Templates">
-    <node id="Templates">
-      <children>
-        <node id="GameObjects">
-          <attribute id="MapKey" type="FixedString" value="e1b0049c-3d63-48a4-ba00-117cd0a29fc9"/>
-          <attribute id="Name" type="LSString" value="BASE_Githzerai_Male"/>
-          <attribute id="LevelName" type="FixedString" value=""/>
-          <attribute id="Type" type="FixedString" value="character"/>
-          <attribute id="ParentTemplateId" type="FixedString" value="9ab35976-3555-4ed7-9343-7e52d8facad5"/>
-          <attribute id="ReadinessFlags" type="uint32" value="12"/>
-          <attribute id="Icon" type="FixedString" value="85df0c35-2555-4c26-8a4b-72fdc5ee202f-_(Icon_Githyanki_Male)"/>
-          <attribute id="EquipmentRace" type="guid" value="f07faafa-0c6f-4f79-a049-70e96b23d51b"/>
-          <attribute id="IsPlayer" type="bool" value="False"/>
-          <attribute id="NotHardcore" type="bool" value="True"/>
-          <attribute id="CharacterVisualResourceID" type="FixedString" value="85df0c35-2555-4c26-8a4b-72fdc5ee202f"/>
-          <attribute id="GeneratePortrait" type="LSString" value="Icon_Githyanki_Male"/>
-          <attribute id="Race" type="guid" value="ca1c9216-a0cf-44e7-811a-2f9081c536ed"/>
-          <children>
-            <node id="Tags">
-              <children>
-                <node id="Tag">
-                  <attribute id="Object" type="guid" value="8f74d144-041e-4035-a9ac-72f41fc32de7"/>
-                </node>
-                <node id="Tag">
-                  <attribute id="Object" type="guid" value="7fa93b80-8ba5-4c1d-9b00-5dd20ced7f67"/>
-                </node>
-              </children>
-            </node>
-            <node id="LocomotionParams"/>
-          </children>
-        </node>
-        <node id="GameObjects">
-          <attribute id="MapKey" type="FixedString" value="fb6c3396-2aea-4800-9e9f-826854a6bdf3"/>
-          <attribute id="Name" type="LSString" value="BASE_Githzerai_Female"/>
-          <attribute id="LevelName" type="FixedString" value=""/>
-          <attribute id="Type" type="FixedString" value="character"/>
-          <attribute id="ParentTemplateId" type="FixedString" value="9ab35976-3555-4ed7-9343-7e52d8facad5"/>
-          <attribute id="ReadinessFlags" type="uint32" value="12"/>
-          <attribute id="VisualTemplate" type="FixedString" value=""/>
-          <attribute id="Icon" type="FixedString" value="ee076753-8e72-48ae-a2e3-a877fc2a8ce7-_(Icon_Githyanki_Female)"/>  //CHANGED
-          <attribute id="EquipmentRace" type="guid" value="06aaae02-bb9e-4fa3-ac00-b08e13a5b0fa"/>
-          <attribute id="CharacterVisualResourceID" type="FixedString" value="ee076753-8e72-48ae-a2e3-a877fc2a8ce7"/> //CHANGED
-          <attribute id="GeneratePortrait" type="LSString" value="Icon_Githyanki_Female"/>
-          <attribute id="Race" type="guid" value="ca1c9216-a0cf-44e7-811a-2f9081c536ed"/>
-          <children>
-            <node id="Tags">
-              <children>
-                <node id="Tag">
-                  <attribute id="Object" type="guid" value="3806477c-65a7-4100-9f92-be4c12c4fa4f"/>
-                </node>
-                <node id="Tag">
-                  <attribute id="Object" type="guid" value="7fa93b80-8ba5-4c1d-9b00-5dd20ced7f67"/>
-                </node>
-              </children>
-            </node>
-            <node id="GameMaster"/>
-            <node id="LocomotionParams"/>
-          </children>
-        </node>     
-      </children>
-    </node>
-  </region>
+	<version major="4" minor="0" revision="0" build="49" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="e1b0049c-3d63-48a4-ba00-117cd0a29fc9" />
+					<attribute id="Name" type="LSString" value="BASE_Githzerai_Male" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="9ab35976-3555-4ed7-9343-7e52d8facad5" />
+					<attribute id="ReadinessFlags" type="uint32" value="12" />
+					<attribute id="Icon" type="FixedString" value="85df0c35-2555-4c26-8a4b-72fdc5ee202f-_(Icon_Githyanki_Male)" />
+					<attribute id="EquipmentRace" type="guid" value="f07faafa-0c6f-4f79-a049-70e96b23d51b" />
+					<attribute id="IsPlayer" type="bool" value="False" />
+					<attribute id="NotHardcore" type="bool" value="True" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="85df0c35-2555-4c26-8a4b-72fdc5ee202f" />
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Githyanki_Male" />
+					<attribute id="Race" type="guid" value="ca1c9216-a0cf-44e7-811a-2f9081c536ed" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="8f74d144-041e-4035-a9ac-72f41fc32de7" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="7fa93b80-8ba5-4c1d-9b00-5dd20ced7f67" />
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="fb6c3396-2aea-4800-9e9f-826854a6bdf3" />
+					<attribute id="Name" type="LSString" value="BASE_Githzerai_Female" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="9ab35976-3555-4ed7-9343-7e52d8facad5" />
+					<attribute id="ReadinessFlags" type="uint32" value="12" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="Icon" type="FixedString" value="ee076753-8e72-48ae-a2e3-a877fc2a8ce7-_(Icon_Githyanki_Female)" />
+					<attribute id="EquipmentRace" type="guid" value="06aaae02-bb9e-4fa3-ac00-b08e13a5b0fa" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="ee076753-8e72-48ae-a2e3-a877fc2a8ce7" />
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Githyanki_Female" />
+					<attribute id="Race" type="guid" value="ca1c9216-a0cf-44e7-811a-2f9081c536ed" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="3806477c-65a7-4100-9f92-be4c12c4fa4f" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="7fa93b80-8ba5-4c1d-9b00-5dd20ced7f67" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="6fd97d49-8480-4f67-b29c-d804506b6904" />
+					<attribute id="Name" type="LSString" value="BASE_Suhra_Female" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="9ab35976-3555-4ed7-9343-7e52d8facad5" />
+					<attribute id="ReadinessFlags" type="uint32" value="12" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="Icon" type="FixedString" value="60e9b8e0-b5ac-4922-b988-e5232ad02d16-_(Icon_Githyanki_Female)" />
+					<attribute id="EquipmentRace" type="guid" value="06aaae02-bb9e-4fa3-ac00-b08e13a5b0fa" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="60e9b8e0-b5ac-4922-b988-e5232ad02d16" />
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Githyanki_Female" />
+					<attribute id="Race" type="guid" value="ca1c9216-a0cf-44e7-811a-2f9081c536ed" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="3806477c-65a7-4100-9f92-be4c12c4fa4f" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="7fa93b80-8ba5-4c1d-9b00-5dd20ced7f67" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
 </save>

@@ -7,7 +7,7 @@
 				<node id="GameObjects">
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="LevelName" type="FixedString" value="SYS_PortraitPlayerRace_A" />
-					<attribute id="MapKey" type="FixedString" value="78400227-6933-4d72-b68c-801f6b11a243" /> <!--2c2ee9e0-ac2a-4a1f-a58d-654bed522e34-->
+					<attribute id="MapKey" type="FixedString" value="78400227-6933-4d72-b68c-801f6b11a243" />
 					<attribute id="Name" type="LSString" value="Icon_Githzerai_Male" />
 					<attribute id="OnlyOsirisEvents" type="bool" value="False" />
 					<attribute id="TemplateName" type="FixedString" value="15111ce4-12fc-4757-bb81-7c2c212e141a" />
@@ -38,10 +38,6 @@
 						</node>
 					</children>
 				</node>
-			
-
-
-
 				<node id="GameObjects">
 					<attribute id="DOFAperature" type="float" value="21" />
 					<attribute id="DOFFarOnly" type="float" value="0" />
@@ -53,7 +49,7 @@
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Lerp" type="bool" value="True" />
 					<attribute id="LevelName" type="FixedString" value="SYS_PortraitPlayerRace_A" />
-					<attribute id="MapKey" type="FixedString" value="49adde63-232f-4ad4-bb08-043a2aa49415" /> <!--69d11f4d-0106-4cc9-99bf-69a2af97d68a-->
+					<attribute id="MapKey" type="FixedString" value="49adde63-232f-4ad4-bb08-043a2aa49415" />
 					<attribute id="Name" type="LSString" value="Camera_Icon_Githzerai_Female" />
 					<attribute id="OnlyOsirisEvents" type="bool" value="False" />
 					<attribute id="Speed" type="float" value="5" />
@@ -97,7 +93,7 @@
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Lerp" type="bool" value="True" />
 					<attribute id="LevelName" type="FixedString" value="SYS_PortraitPlayerRace_A" />
-					<attribute id="MapKey" type="FixedString" value="01810b3a-e5a1-4c80-a74a-b19d0aa683c7" />  <!--6bbebd18-cd53-44b0-83a1-505ace9184e2-->
+					<attribute id="MapKey" type="FixedString" value="01810b3a-e5a1-4c80-a74a-b19d0aa683c7" />
 					<attribute id="Name" type="LSString" value="Camera_Icon_Githzerai_Male" />
 					<attribute id="OnlyOsirisEvents" type="bool" value="False" />
 					<attribute id="Speed" type="float" value="5" />
@@ -130,20 +126,10 @@
 						</node>
 					</children>
 				</node>
-
-
-
-
-
-
-
-
-
-
 				<node id="GameObjects">
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="LevelName" type="FixedString" value="SYS_PortraitPlayerRace_A" />
-					<attribute id="MapKey" type="FixedString" value="f369be19-30ae-4dd6-aee2-231aa8a5dee4" /> <!--bed1a13f-fe93-46b5-9936-04eea9ad93b3-->
+					<attribute id="MapKey" type="FixedString" value="f369be19-30ae-4dd6-aee2-231aa8a5dee4" />
 					<attribute id="Name" type="LSString" value="Icon_Githzerai_Female" />
 					<attribute id="OnlyOsirisEvents" type="bool" value="False" />
 					<attribute id="TemplateName" type="FixedString" value="15111ce4-12fc-4757-bb81-7c2c212e141a" />
@@ -174,8 +160,6 @@
 						</node>
 					</children>
 				</node>
-
-
 			</children>
 		</node>
 	</region>

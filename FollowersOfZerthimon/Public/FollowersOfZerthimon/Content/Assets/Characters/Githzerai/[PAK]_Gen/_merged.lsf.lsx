@@ -4,7 +4,6 @@
 	<region id="VisualBank">
 		<node id="VisualBank">
 			<children>
-				//GEN A
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -14,7 +13,7 @@
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="0fbb171a-6a58-516b-0c5f-9d252a4f6ee9" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="e5f1c623-24f5-4ef1-b10c-60da68a93ecc" /> //CHANGED
+					<attribute id="ID" type="FixedString" value="e5f1c623-24f5-4ef1-b10c-60da68a93ecc" />
 					<attribute id="MaterialType" type="uint8" value="0" />
 					<attribute id="Name" type="LSString" value="GTZ_F_NKD_Body_Genital_A" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
@@ -36,7 +35,7 @@
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="1d401399-7c7b-45d3-90d0-571bf10b7c41" /> //CHANGED
+							<attribute id="MaterialID" type="FixedString" value="1d401399-7c7b-45d3-90d0-571bf10b7c41" />
 							<attribute id="ObjectID" type="FixedString" value="GTY_F_NKD_Body_Genital_A.GTY_F_NKD_Body_Genital_A_Mesh.0" />
 						</node>
 						<node id="Objects">
@@ -56,9 +55,6 @@
 						</node>
 					</children>
 				</node>
-
-
-				//GEN A NH
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -68,7 +64,7 @@
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="50d378f5-696e-4448-9769-e7b077a8c808" /> //CHANGED
+					<attribute id="ID" type="FixedString" value="50d378f5-696e-4448-9769-e7b077a8c808" />
 					<attribute id="MaterialType" type="uint8" value="0" />
 					<attribute id="Name" type="LSString" value="GTZ_F_NKD_Body_Genital_A_NoHair" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
@@ -99,9 +95,7 @@
 							<attribute id="ObjectID" type="FixedString" value="GTY_F_NKD_Body_Genital_A_NoHair.GTY_F_NKD_Body_Genital_A_Mesh1_LOD1.1" />
 						</node>
 					</children>
-				</node>				
-
-				//GEN B
+				</node>
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -111,7 +105,7 @@
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="1bc003b0-0afe-495b-04fb-c4902ec82d00" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="d7725e95-daef-4000-82a5-5449d6b60643" /> //CHANGED 20a4db7c-139f-77c9-3af1-bfda5bc2a318
+					<attribute id="ID" type="FixedString" value="d7725e95-daef-4000-82a5-5449d6b60643" />
 					<attribute id="MaterialType" type="uint8" value="0" />
 					<attribute id="Name" type="LSString" value="GTZ_F_NKD_Body_Genital_B" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
@@ -153,8 +147,6 @@
 						</node>
 					</children>
 				</node>
-
-				//GEN B NH
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -196,8 +188,6 @@
 						</node>
 					</children>
 				</node>
-
-				//GEN C
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -239,8 +229,6 @@
 						</node>
 					</children>
 				</node>
-
-				//GEN C NH
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -277,11 +265,6 @@
 						</node>
 					</children>
 				</node>
-
-
-			<!--MALE-->
-			
-				//A NH
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -323,7 +306,6 @@
 						</node>
 					</children>
 				</node>
-				//A
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -375,11 +357,6 @@
 						</node>
 					</children>
 				</node>
-
-
-
-
-				//C
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -421,7 +398,6 @@
 						</node>
 					</children>
 				</node>
-				//C NH
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -458,9 +434,6 @@
 						</node>
 					</children>
 				</node>
-
-
-				//B
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -512,7 +485,6 @@
 						</node>
 					</children>
 				</node>
-				//B NH 
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -549,9 +521,6 @@
 						</node>
 					</children>
 				</node>
-
-
-
 			</children>
 		</node>
 	</region>

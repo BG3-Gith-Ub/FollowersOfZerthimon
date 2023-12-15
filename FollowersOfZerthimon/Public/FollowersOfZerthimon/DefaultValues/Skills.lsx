@@ -1,17 +1,17 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
-    <version major="4" minor="0" revision="9" build="329"/>
-    <region id="DefaultValues">
-        <node id="root">
-            <children>
-                <node id="DefaultValue">
-                    <attribute id="Add" type="LSString" value="Insight"/>
-                    <attribute id="Level" type="int32" value="1"/>
-                    <attribute id="SelectorId" type="LSString" value="GithzeraiDefaults"/>  
-                    <attribute id="TableUUID" type="guid" value="eccc27e9-0d6f-409a-98d1-c924ce52c364"/>
-                    <attribute id="UUID" type="guid" value="e787ccb5-a88a-40bf-8e76-af1fca633842"/>
-                </node>
-            </children>
-        </node>
-    </region>
+	<version major="4" minor="0" revision="9" build="329" lslib_meta="v1,bswap_guids" />
+	<region id="DefaultValues">
+		<node id="root">
+			<children>
+				<node id="DefaultValue">
+					<attribute id="Add" type="LSString" value="Insight" />
+					<attribute id="Level" type="int32" value="1" />
+					<attribute id="SelectorId" type="LSString" value="GithzeraiDefaults" />
+					<attribute id="TableUUID" type="guid" value="eccc27e9-0d6f-409a-98d1-c924ce52c364" />
+					<attribute id="UUID" type="guid" value="e787ccb5-a88a-40bf-8e76-af1fca633842" />
+				</node>
+			</children>
+		</node>
+	</region>
 </save>

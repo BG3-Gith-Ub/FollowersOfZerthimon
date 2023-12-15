@@ -1,149 +1,149 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
-    <version major="4" minor="0" revision="9" build="323" />
-    <region id="LevelMapValues">
-        <node id="root">
-            <children>
-                <node id="LevelMapSeries">
-					<attribute id="Level1" type="LSString" value="2d4"/>
-					<attribute id="Level2" type="LSString" value="2d4"/>
-                    <attribute id="Level3" type="LSString" value="2d4"/>
-					<attribute id="Level4" type="LSString" value="3d4"/>
-                    <attribute id="Level5" type="LSString" value="3d4"/>
-					<attribute id="Level6" type="LSString" value="3d4"/>
-                    <attribute id="Level7" type="LSString" value="4d4"/>
-					<attribute id="Level8" type="LSString" value="5d4"/>
-                    <attribute id="Level9" type="LSString" value="5d4"/>
-					<attribute id="Level10" type="LSString" value="6d4"/>
-                    <attribute id="Level11" type="LSString" value="5d6"/>
-					<attribute id="Level12" type="LSString" value="4d8"/>
-                    <attribute id="Level13" type="LSString" value="4d8"/>
-                    <attribute id="Level15" type="LSString" value="4d10"/>
-                    <attribute id="Level18" type="LSString" value="4d10"/>
-                    <attribute id="Level20" type="LSString" value="3d6"/>
-					<attribute id="Level24" type="LSString" value="3d8"/>
-					<attribute id="Level28" type="LSString" value="4d8"/>
-                    <attribute id="Level32" type="LSString" value="4d8"/>
-					<attribute id="Level36" type="LSString" value="4d8"/>
-                    <attribute id="Name" type="FixedString" value="LimboIsHard"/>
-                    <attribute id="UUID" type="guid" value="1deda781-4ee2-4a1d-b949-01ffc1d725b9"/>
-                </node>
-                <node id="LevelMapSeries">
-					<attribute id="Level1" type="LSString" value="4d4"/>
-					<attribute id="Level2" type="LSString" value="4d4"/>
-                    <attribute id="Level3" type="LSString" value="4d4"/>
-					<attribute id="Level4" type="LSString" value="6d4"/>
-                    <attribute id="Level5" type="LSString" value="6d4"/>
-					<attribute id="Level6" type="LSString" value="6d4"/>
-                    <attribute id="Level7" type="LSString" value="8d4"/>
-					<attribute id="Level8" type="LSString" value="10d4"/>
-                    <attribute id="Level9" type="LSString" value="10d4"/>
-					<attribute id="Level10" type="LSString" value="12d4"/>
-                    <attribute id="Level11" type="LSString" value="10d6"/>
-					<attribute id="Level12" type="LSString" value="8d8"/>
-                    <attribute id="Level13" type="LSString" value="8d8"/>
-                    <attribute id="Level15" type="LSString" value="8d10"/>
-                    <attribute id="Level18" type="LSString" value="8d10"/>
-                    <attribute id="Level20" type="LSString" value="6d6"/>
-					<attribute id="Level24" type="LSString" value="6d8"/>
-					<attribute id="Level28" type="LSString" value="8d8"/>
-                    <attribute id="Level32" type="LSString" value="8d8"/>
-					<attribute id="Level36" type="LSString" value="8d8"/>
-                    <attribute id="Name" type="FixedString" value="LimboIsHardDouble"/>
-                    <attribute id="UUID" type="guid" value="5c443448-af6e-4ee9-b994-c1f28b0a322d"/>
-                </node>
-                <node id="LevelMapSeries">
-					<attribute id="Level1" type="LSString" value="6d4"/>
-					<attribute id="Level2" type="LSString" value="6d4"/>
-                    <attribute id="Level3" type="LSString" value="6d4"/>
-					<attribute id="Level4" type="LSString" value="9d4"/>
-                    <attribute id="Level5" type="LSString" value="9d4"/>
-					<attribute id="Level6" type="LSString" value="9d4"/>
-                    <attribute id="Level7" type="LSString" value="12d4"/>
-					<attribute id="Level8" type="LSString" value="15d4"/>
-                    <attribute id="Level9" type="LSString" value="15d4"/>
-					<attribute id="Level10" type="LSString" value="18d4"/>
-                    <attribute id="Level11" type="LSString" value="15d6"/>
-					<attribute id="Level12" type="LSString" value="12d8"/>
-                    <attribute id="Level13" type="LSString" value="12d8"/>
-                    <attribute id="Level15" type="LSString" value="12d10"/>
-                    <attribute id="Level18" type="LSString" value="12d10"/>
-                    <attribute id="Level20" type="LSString" value="9d6"/>
-					<attribute id="Level24" type="LSString" value="9d8"/>
-					<attribute id="Level28" type="LSString" value="12d8"/>
-                    <attribute id="Level32" type="LSString" value="12d8"/>
-					<attribute id="Level36" type="LSString" value="12d8"/>
-                    <attribute id="Name" type="FixedString" value="LimboIsHardTriple"/>
-                    <attribute id="UUID" type="guid" value="3cb06304-43ae-4993-a357-7288ecea8391"/>
-                </node>
+	<version major="4" minor="0" revision="9" build="323" lslib_meta="v1,bswap_guids" />
+	<region id="LevelMapValues">
+		<node id="root">
+			<children>
 				<node id="LevelMapSeries">
-                    <attribute id="Level1" type="LSString" value="10"/>
-					<attribute id="Level2" type="LSString" value="10"/>
-                    <attribute id="Level3" type="LSString" value="12"/>
-					<attribute id="Level4" type="LSString" value="12"/>
-                    <attribute id="Level5" type="LSString" value="13"/>
-					<attribute id="Level6" type="LSString" value="15"/>
-                    <attribute id="Level7" type="LSString" value="17"/>
-					<attribute id="Level8" type="LSString" value="20"/>
-                    <attribute id="Level9" type="LSString" value="22"/>
-					<attribute id="Level10" type="LSString" value="25"/>
-                    <attribute id="Level11" type="LSString" value="30"/>
-					<attribute id="Level12" type="LSString" value="30"/>
-                    <attribute id="Level13" type="LSString" value="30"/>
-                    <attribute id="Level15" type="LSString" value="30"/>
-                    <attribute id="Level18" type="LSString" value="30"/>
-                    <attribute id="Level20" type="LSString" value="30"/>
-					<attribute id="Level24" type="LSString" value="30"/>
-					<attribute id="Level28" type="LSString" value="30"/>
-                    <attribute id="Level32" type="LSString" value="30"/>
-					<attribute id="Level36" type="LSString" value="40"/>
-                    <attribute id="Name" type="FixedString" value="limboradius"/>
-                    <attribute id="UUID" type="guid" value="ce96612c-59db-4c27-af95-fe826a48107c"/>
-                </node>
+					<attribute id="Level1" type="LSString" value="2d4" />
+					<attribute id="Level2" type="LSString" value="2d4" />
+					<attribute id="Level3" type="LSString" value="2d4" />
+					<attribute id="Level4" type="LSString" value="3d4" />
+					<attribute id="Level5" type="LSString" value="3d4" />
+					<attribute id="Level6" type="LSString" value="3d4" />
+					<attribute id="Level7" type="LSString" value="4d4" />
+					<attribute id="Level8" type="LSString" value="5d4" />
+					<attribute id="Level9" type="LSString" value="5d4" />
+					<attribute id="Level10" type="LSString" value="6d4" />
+					<attribute id="Level11" type="LSString" value="5d6" />
+					<attribute id="Level12" type="LSString" value="4d8" />
+					<attribute id="Level13" type="LSString" value="4d8" />
+					<attribute id="Level15" type="LSString" value="4d10" />
+					<attribute id="Level18" type="LSString" value="4d10" />
+					<attribute id="Level20" type="LSString" value="3d6" />
+					<attribute id="Level24" type="LSString" value="3d8" />
+					<attribute id="Level28" type="LSString" value="4d8" />
+					<attribute id="Level32" type="LSString" value="4d8" />
+					<attribute id="Level36" type="LSString" value="4d8" />
+					<attribute id="Name" type="FixedString" value="LimboIsHard" />
+					<attribute id="UUID" type="guid" value="1deda781-4ee2-4a1d-b949-01ffc1d725b9" />
+				</node>
 				<node id="LevelMapSeries">
-                    <attribute id="Level1" type="LSString" value="1"/>
-					<attribute id="Level2" type="LSString" value="1"/>
-                    <attribute id="Level3" type="LSString" value="1"/>
-					<attribute id="Level4" type="LSString" value="1"/>
-                    <attribute id="Level5" type="LSString" value="1"/>
-					<attribute id="Level6" type="LSString" value="1"/>
-                    <attribute id="Level7" type="LSString" value="1"/>
-					<attribute id="Level8" type="LSString" value="2"/>
-                    <attribute id="Level9" type="LSString" value="2"/>
-					<attribute id="Level10" type="LSString" value="2"/>
-                    <attribute id="Level11" type="LSString" value="2"/>
-					<attribute id="Level12" type="LSString" value="3"/>
-                    <attribute id="Level13" type="LSString" value="3"/>
-                    <attribute id="Level15" type="LSString" value="4"/>
-                    <attribute id="Level18" type="LSString" value="4"/>
-                    <attribute id="Level20" type="LSString" value="4"/>
-					<attribute id="Level24" type="LSString" value="5"/>
-					<attribute id="Level28" type="LSString" value="5"/>
-                    <attribute id="Level32" type="LSString" value="5"/>
-					<attribute id="Level36" type="LSString" value="6"/>
-                    <attribute id="Name" type="FixedString" value="limbotargets"/>
-                    <attribute id="UUID" type="guid" value="6019c70b-b390-4476-9393-43bbebb19975"/>
-                </node>
+					<attribute id="Level1" type="LSString" value="4d4" />
+					<attribute id="Level2" type="LSString" value="4d4" />
+					<attribute id="Level3" type="LSString" value="4d4" />
+					<attribute id="Level4" type="LSString" value="6d4" />
+					<attribute id="Level5" type="LSString" value="6d4" />
+					<attribute id="Level6" type="LSString" value="6d4" />
+					<attribute id="Level7" type="LSString" value="8d4" />
+					<attribute id="Level8" type="LSString" value="10d4" />
+					<attribute id="Level9" type="LSString" value="10d4" />
+					<attribute id="Level10" type="LSString" value="12d4" />
+					<attribute id="Level11" type="LSString" value="10d6" />
+					<attribute id="Level12" type="LSString" value="8d8" />
+					<attribute id="Level13" type="LSString" value="8d8" />
+					<attribute id="Level15" type="LSString" value="8d10" />
+					<attribute id="Level18" type="LSString" value="8d10" />
+					<attribute id="Level20" type="LSString" value="6d6" />
+					<attribute id="Level24" type="LSString" value="6d8" />
+					<attribute id="Level28" type="LSString" value="8d8" />
+					<attribute id="Level32" type="LSString" value="8d8" />
+					<attribute id="Level36" type="LSString" value="8d8" />
+					<attribute id="Name" type="FixedString" value="LimboIsHardDouble" />
+					<attribute id="UUID" type="guid" value="5c443448-af6e-4ee9-b994-c1f28b0a322d" />
+				</node>
 				<node id="LevelMapSeries">
-					<attribute id="Level1" type="LSString" value="1d8"/>
-                    <attribute id="Level3" type="LSString" value="1d8"/>
-                    <attribute id="Level5" type="LSString" value="1d8"/>
-                    <attribute id="Level7" type="LSString" value="2d6"/>
-                    <attribute id="Level9" type="LSString" value="2d8"/>
-                    <attribute id="Level11" type="LSString" value="3d6"/>
-					<attribute id="Level12" type="LSString" value="3d6"/>
-                    <attribute id="Level13" type="LSString" value="3d6"/>
-                    <attribute id="Level15" type="LSString" value="3d8"/>
-                    <attribute id="Level18" type="LSString" value="3d8"/>
-                    <attribute id="Level20" type="LSString" value="4d6"/>
-					<attribute id="Level24" type="LSString" value="4d6"/>
-					<attribute id="Level28" type="LSString" value="4d8"/>
-                    <attribute id="Level32" type="LSString" value="5d8"/>
-					<attribute id="Level36" type="LSString" value="5d8"/>
-                    <attribute id="Name" type="FixedString" value="LimboIsEasy"/>
-                    <attribute id="UUID" type="guid" value="66282752-5c69-4cde-aeae-9c5a35ea8b95"/>
-                </node>
-            </children>
-        </node>
-    </region>
+					<attribute id="Level1" type="LSString" value="6d4" />
+					<attribute id="Level2" type="LSString" value="6d4" />
+					<attribute id="Level3" type="LSString" value="6d4" />
+					<attribute id="Level4" type="LSString" value="9d4" />
+					<attribute id="Level5" type="LSString" value="9d4" />
+					<attribute id="Level6" type="LSString" value="9d4" />
+					<attribute id="Level7" type="LSString" value="12d4" />
+					<attribute id="Level8" type="LSString" value="15d4" />
+					<attribute id="Level9" type="LSString" value="15d4" />
+					<attribute id="Level10" type="LSString" value="18d4" />
+					<attribute id="Level11" type="LSString" value="15d6" />
+					<attribute id="Level12" type="LSString" value="12d8" />
+					<attribute id="Level13" type="LSString" value="12d8" />
+					<attribute id="Level15" type="LSString" value="12d10" />
+					<attribute id="Level18" type="LSString" value="12d10" />
+					<attribute id="Level20" type="LSString" value="9d6" />
+					<attribute id="Level24" type="LSString" value="9d8" />
+					<attribute id="Level28" type="LSString" value="12d8" />
+					<attribute id="Level32" type="LSString" value="12d8" />
+					<attribute id="Level36" type="LSString" value="12d8" />
+					<attribute id="Name" type="FixedString" value="LimboIsHardTriple" />
+					<attribute id="UUID" type="guid" value="3cb06304-43ae-4993-a357-7288ecea8391" />
+				</node>
+				<node id="LevelMapSeries">
+					<attribute id="Level1" type="LSString" value="10" />
+					<attribute id="Level2" type="LSString" value="10" />
+					<attribute id="Level3" type="LSString" value="12" />
+					<attribute id="Level4" type="LSString" value="12" />
+					<attribute id="Level5" type="LSString" value="13" />
+					<attribute id="Level6" type="LSString" value="15" />
+					<attribute id="Level7" type="LSString" value="17" />
+					<attribute id="Level8" type="LSString" value="20" />
+					<attribute id="Level9" type="LSString" value="22" />
+					<attribute id="Level10" type="LSString" value="25" />
+					<attribute id="Level11" type="LSString" value="30" />
+					<attribute id="Level12" type="LSString" value="30" />
+					<attribute id="Level13" type="LSString" value="30" />
+					<attribute id="Level15" type="LSString" value="30" />
+					<attribute id="Level18" type="LSString" value="30" />
+					<attribute id="Level20" type="LSString" value="30" />
+					<attribute id="Level24" type="LSString" value="30" />
+					<attribute id="Level28" type="LSString" value="30" />
+					<attribute id="Level32" type="LSString" value="30" />
+					<attribute id="Level36" type="LSString" value="40" />
+					<attribute id="Name" type="FixedString" value="limboradius" />
+					<attribute id="UUID" type="guid" value="ce96612c-59db-4c27-af95-fe826a48107c" />
+				</node>
+				<node id="LevelMapSeries">
+					<attribute id="Level1" type="LSString" value="1" />
+					<attribute id="Level2" type="LSString" value="1" />
+					<attribute id="Level3" type="LSString" value="1" />
+					<attribute id="Level4" type="LSString" value="1" />
+					<attribute id="Level5" type="LSString" value="1" />
+					<attribute id="Level6" type="LSString" value="1" />
+					<attribute id="Level7" type="LSString" value="1" />
+					<attribute id="Level8" type="LSString" value="2" />
+					<attribute id="Level9" type="LSString" value="2" />
+					<attribute id="Level10" type="LSString" value="2" />
+					<attribute id="Level11" type="LSString" value="2" />
+					<attribute id="Level12" type="LSString" value="3" />
+					<attribute id="Level13" type="LSString" value="3" />
+					<attribute id="Level15" type="LSString" value="4" />
+					<attribute id="Level18" type="LSString" value="4" />
+					<attribute id="Level20" type="LSString" value="4" />
+					<attribute id="Level24" type="LSString" value="5" />
+					<attribute id="Level28" type="LSString" value="5" />
+					<attribute id="Level32" type="LSString" value="5" />
+					<attribute id="Level36" type="LSString" value="6" />
+					<attribute id="Name" type="FixedString" value="limbotargets" />
+					<attribute id="UUID" type="guid" value="6019c70b-b390-4476-9393-43bbebb19975" />
+				</node>
+				<node id="LevelMapSeries">
+					<attribute id="Level1" type="LSString" value="1d8" />
+					<attribute id="Level3" type="LSString" value="1d8" />
+					<attribute id="Level5" type="LSString" value="1d8" />
+					<attribute id="Level7" type="LSString" value="2d6" />
+					<attribute id="Level9" type="LSString" value="2d8" />
+					<attribute id="Level11" type="LSString" value="3d6" />
+					<attribute id="Level12" type="LSString" value="3d6" />
+					<attribute id="Level13" type="LSString" value="3d6" />
+					<attribute id="Level15" type="LSString" value="3d8" />
+					<attribute id="Level18" type="LSString" value="3d8" />
+					<attribute id="Level20" type="LSString" value="4d6" />
+					<attribute id="Level24" type="LSString" value="4d6" />
+					<attribute id="Level28" type="LSString" value="4d8" />
+					<attribute id="Level32" type="LSString" value="5d8" />
+					<attribute id="Level36" type="LSString" value="5d8" />
+					<attribute id="Name" type="FixedString" value="LimboIsEasy" />
+					<attribute id="UUID" type="guid" value="66282752-5c69-4cde-aeae-9c5a35ea8b95" />
+				</node>
+			</children>
+		</node>
+	</region>
 </save>
