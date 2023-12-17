@@ -249,9 +249,14 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="1" />
-							<attribute id="MaterialID" type="FixedString" value="e89c12f1-d6bc-4abe-af72-2a200282828a" />
-							<attribute id="ObjectID" type="FixedString" value="SUHRA_F_NKD_Body_A.GTZ_F_NKD_Body_A_Arm_Mesh.2" />
+							<attribute id="MaterialID" type="FixedString" value="bd766da1-70ae-4ccb-aa45-03bba2e59ed0" />
+							<attribute id="ObjectID" type="FixedString" value="SUHRA_F_NKD_Body_A.GTZ_F_NKD_Body_A_Hand_Mesh.2" />
 						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="a5a3b5f5-db19-4398-8c06-1c37316822d5" />
+							<attribute id="ObjectID" type="FixedString" value="SUHRA_F_NKD_Body_A.GTZ_F_NKD_Body_A_Arm_Mesh.3" />
+						</node>						
 					</children>
 				</node>
 			</children>

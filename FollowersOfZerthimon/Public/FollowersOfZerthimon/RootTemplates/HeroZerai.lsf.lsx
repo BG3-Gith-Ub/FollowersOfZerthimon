@@ -89,10 +89,10 @@
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="6fd97d49-8480-4f67-b29c-d804506b6904" />
 					<attribute id="Flag" type="int32" value="0" />
-					<attribute id="Icon" type="FixedString" value="af6c99ae-78f9-4b1c-894a-0b7d888b964a-_(Icon_Githyanki_Female)" />
+					<attribute id="Icon" type="FixedString" value="4a103c94-4c88-4250-8fd9-e6d875fe7a52-_(Icon_Githyanki_Female)" />
 					<attribute id="Stats" type="FixedString" value="HeroGithFemale" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="af6c99ae-78f9-4b1c-894a-0b7d888b964a" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="4a103c94-4c88-4250-8fd9-e6d875fe7a52" />
 					<attribute id="PortraitVisualResourceID" type="FixedString" value="00f931b5-7105-da0c-8992-26beeb53dbbc" />
 					<children>
 						<node id="SpeakerGroupList">
