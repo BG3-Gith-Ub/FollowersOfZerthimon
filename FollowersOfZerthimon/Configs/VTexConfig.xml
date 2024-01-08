@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TileSet Version="2" Name="Kaz">
+	<TileSetConfig>
+        <Compression>LZ4</Compression>
+        <OneFilePerGTex>false</OneFilePerGTex>
+        <BackfillPages>true</BackfillPages>
+        <DeduplicateTiles>true</DeduplicateTiles>
+        <ZeroBorders>false</ZeroBorders>
+	</TileSetConfig>
+	
+	<Paths>
+		<SourceTextures>Conversion\Textures</SourceTextures>
+		<VirtualTextures>Public\FollowersOfZerthimon\Assets\VirtualTextures</VirtualTextures>
+	</Paths>
+	
+	<Layers>
+		<Layer Name="Albedo" Type="R8G8B8A8_SRGB" />
+		<Layer Name="Normal" Type="X8Y8Z8W8" />
+		<Layer Name="Physical" Type="X8Y8Z8W8" />
+	</Layers>
+
+	<Textures>
+		<Texture Name="42000455d4a94630a815bd82fa8f9b02">
+			<Layer Name="Albedo" Source="e05176c4ac30d5228d0c0452d938f699_0.dds" />
+			<Layer Name="Normal" Source="e05176c4ac30d5228d0c0452d938f699_1.dds" />
+			<Layer Name="Physical" Source="e05176c4ac30d5228d0c0452d938f699_2.dds" />
+		</Texture>	
+		<Texture Name="42010455d4a94630a815bd82fa8f9b02">
+			<Layer Name="Albedo" Source="0778783bcafd402cbe2c197f6d07a276_0.dds" />
+			<Layer Name="Normal" Source="0778783bcafd402cbe2c197f6d07a276_1.dds" />
+			<Layer Name="Physical" Source="0778783bcafd402cbe2c197f6d07a276_2.dds" />
+		</Texture>		
+		<Texture Name="420HND55d4a94630a815bd82fa8f9b02">
+			<Layer Name="Albedo" Source="SuhraBodyARMINNER_BM.dds" />
+			<Layer Name="Normal" Source="SuhraBodyARMINNER_NM.dds" />
+			<Layer Name="Physical" Source="SuhraBodyARMINNER_PM.dds" />
+		</Texture>		
+		<Texture Name="420ARM55d4a94630a815bd82fa8f9b02">
+			<Layer Name="Albedo" Source="SuhraBodyARMOUTER_BM.dds" />
+			<Layer Name="Normal" Source="SuhraBodyARMOUTER_NM.dds" />
+			<Layer Name="Physical" Source="SuhraBodyARMOUTER_PM.dds" />
+		</Texture>		
+	</Textures>
+</TileSet>
