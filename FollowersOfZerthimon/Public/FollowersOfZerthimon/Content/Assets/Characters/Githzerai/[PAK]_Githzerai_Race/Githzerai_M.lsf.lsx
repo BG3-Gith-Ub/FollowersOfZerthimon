@@ -2471,45 +2471,6 @@
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209016" />
 				</node>
-				<node id="Resource">
-					<attribute id="Depth" type="int32" value="1" />
-					<attribute id="Height" type="int32" value="512" />
-					<attribute id="ID" type="FixedString" value="" />
-					<attribute id="Name" type="LSString" value="GTZ_M_NKD_Body_Genital_A_HMVY" />
-					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Models/[PAK]_Githzerai/GTZ_M_NKD/Resources/GTZ_M_NKD_Body_Genital_A_HMVY.DDS" />
-					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="GTZ_M_NKD_Body_Genital_A_HMVY" />
-					<attribute id="Type" type="int32" value="1" />
-					<attribute id="Width" type="int32" value="512" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
-				</node>
-				<node id="Resource">
-					<attribute id="Depth" type="int32" value="1" />
-					<attribute id="Height" type="int32" value="512" />
-					<attribute id="ID" type="FixedString" value="" />
-					<attribute id="Name" type="LSString" value="GTZ_M_NKD_Body_Genital_A_CLEA" />
-					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Models/[PAK]_Githzerai/GTZ_M_NKD/Resources/GTZ_M_NKD_Body_Genital_A_CLEA.DDS" />
-					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="GTZ_M_NKD_Body_Genital_A_CLEA" />
-					<attribute id="Type" type="int32" value="1" />
-					<attribute id="Width" type="int32" value="512" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
-				</node>
-				<node id="Resource">
-					<attribute id="Depth" type="int32" value="1" />
-					<attribute id="Height" type="int32" value="512" />
-					<attribute id="ID" type="FixedString" value="" />
-					<attribute id="Name" type="LSString" value="GTZ_M_NKD_Body_Genital_A_NM" />
-					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Models/[PAK]_Githzerai/GTZ_M_NKD/Resources/GTZ_M_NKD_Body_Genital_A_NM.DDS" />
-					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="GTZ_M_NKD_Body_Genital_A_NM" />
-					<attribute id="Type" type="int32" value="1" />
-					<attribute id="Width" type="int32" value="512" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
-				</node>
 			</children>
 		</node>
 	</region>
