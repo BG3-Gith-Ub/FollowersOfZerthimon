@@ -39,6 +39,11 @@
 			<Layer Name="Albedo" Source="SuhraBodyARMOUTER_BM.dds" />
 			<Layer Name="Normal" Source="SuhraBodyARMOUTER_NM.dds" />
 			<Layer Name="Physical" Source="SuhraBodyARMOUTER_PM.dds" />
+		</Texture>	
+		<Texture Name="420BAC11d4a94630a815bd82fa8f9b02">
+			<Layer Name="Albedo" Source="SuhraBodyBackpiece_BM.dds" />
+			<Layer Name="Normal" Source="SuhraBodyBackpiece_NM.dds" />
+			<Layer Name="Physical" Source="SuhraBodyBackpiece_PM.dds" />
 		</Texture>		
 	</Textures>
 </TileSet>

@@ -191,7 +191,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="1" />
-							<attribute id="MaterialID" type="FixedString" value="e89c12f1-d6bc-4abe-af72-2a200282828a" />
+							<attribute id="MaterialID" type="FixedString" value="dab5b929-173a-4df0-97bc-3645b8e26e22" /> <!--e89c12f1-d6bc-4abe-af72-2a200282828a-->
 							<attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Body_A.GTZ_F_NKD_Body_A_Nails_Mesh.1" />
 						</node>
 						<node id="Objects">
@@ -244,7 +244,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="1" />
-							<attribute id="MaterialID" type="FixedString" value="dab5b929-173a-4df0-97bc-3645b8e26e22" /> <!--e89c12f1-d6bc-4abe-af72-2a200282828a-->
+							<attribute id="MaterialID" type="FixedString" value="ef6f2063-4380-4dda-8ff9-a3000dda05ab" /> <!--dab5b929-173a-4df0-97bc-3645b8e26e22//e89c12f1-d6bc-4abe-af72-2a200282828a-->
 							<attribute id="ObjectID" type="FixedString" value="SUHRA_F_NKD_Body_A.GTZ_F_NKD_Body_A_Nails_Mesh.1" />
 						</node>
 						<node id="Objects">
