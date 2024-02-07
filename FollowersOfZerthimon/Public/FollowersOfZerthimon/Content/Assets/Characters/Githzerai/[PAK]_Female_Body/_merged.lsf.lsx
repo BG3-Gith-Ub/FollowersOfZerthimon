@@ -245,7 +245,7 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="1" />
 							<attribute id="MaterialID" type="FixedString" value="ef6f2063-4380-4dda-8ff9-a3000dda05ab" /> <!--dab5b929-173a-4df0-97bc-3645b8e26e22//e89c12f1-d6bc-4abe-af72-2a200282828a-->
-							<attribute id="ObjectID" type="FixedString" value="SUHRA_F_NKD_Body_A.GTZ_F_NKD_Body_A_Nails_Mesh.1" />
+							<attribute id="ObjectID" type="FixedString" value="SUHRA_F_NKD_Body_A.GTZ_F_NKD_Body_A_Impl_Mesh.1" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="1" />
@@ -256,7 +256,17 @@
 							<attribute id="LOD" type="uint8" value="1" />
 							<attribute id="MaterialID" type="FixedString" value="a5a3b5f5-db19-4398-8c06-1c37316822d5" />
 							<attribute id="ObjectID" type="FixedString" value="SUHRA_F_NKD_Body_A.GTZ_F_NKD_Body_A_Arm_Mesh.3" />
-						</node>						
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="ae63a064-024d-4679-8991-708af82d5021" />
+							<attribute id="ObjectID" type="FixedString" value="SUHRA_F_NKD_Body_A.GTZ_F_NKD_Body_A_Arm_Mesh.4" />
+						</node>	
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="899bb118-00ea-432f-a2ab-f200b2a3a445" />
+							<attribute id="ObjectID" type="FixedString" value="SUHRA_F_NKD_Body_A.GTZ_F_NKD_Body_A_Arm_Mesh.5" />
+						</node>																			
 					</children>
 				</node>
 			</children>
