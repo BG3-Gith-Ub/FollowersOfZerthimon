@@ -44,6 +44,16 @@
 			<Layer Name="Albedo" Source="SuhraBodyBackpiece_BM.dds" />
 			<Layer Name="Normal" Source="SuhraBodyBackpiece_NM.dds" />
 			<Layer Name="Physical" Source="SuhraBodyBackpiece_PM.dds" />
-		</Texture>		
+		</Texture>	
+		<Texture Name="42013611d4a94630a815bd82fa8f9b01">
+			<Layer Name="Albedo" Source="SuhraBodyLEGINNER_BM.dds" />
+			<Layer Name="Normal" Source="SuhraBodyLEGINNER_NM.dds" />
+			<Layer Name="Physical" Source="SuhraBodyLEGINNER_PM.dds" />
+		</Texture>	
+		<Texture Name="42013611d4a94630a815bd82fa8f9b00">
+			<Layer Name="Albedo" Source="SuhraBodyLEGOUTER_BM.dds" />
+			<Layer Name="Normal" Source="SuhraBodyLEGOUTER_NM.dds" />
+			<Layer Name="Physical" Source="SuhraBodyLEGOUTER_PM.dds" />
+		</Texture>			
 	</Textures>
 </TileSet>
