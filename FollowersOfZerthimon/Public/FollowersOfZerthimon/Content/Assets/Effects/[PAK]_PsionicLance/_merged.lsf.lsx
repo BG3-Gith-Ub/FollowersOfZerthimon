@@ -1,0 +1,547 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="EffectBank">
+		<node id="EffectBank">
+			<children>
+				<node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="3 3 3" />
+					<attribute id="BoundsMin" type="fvec3" value="-3 -3 -3" />
+					<attribute id="Center" type="fvec3" value="0 0 0" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="2.5" />
+					<attribute id="EffectName" type="FixedString" value="VFX_PsionicMM_BodyFX_01" />
+					<attribute id="ID" type="FixedString" value="9abdcb42-0ab2-48e3-893b-b86f1955d2da" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="InterruptionMode" type="uint32" value="0" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Looping" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="VFX_PsionicMM_BodyFX_01" />
+					<attribute id="Radius" type="float" value="3" />
+					<attribute id="SourceFile" type="LSString" value="Public/FollowersOfZerthimon/Assets/Effects/Effects_Banks/VFX_PsionicMM_BodyFX_01.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="2f983fea-8003-d8fb-6dda-e1267bcefaa4" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="972b996e-282d-711a-72e5-cc2f0fc6e811" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="68c23e99-adec-436b-83b6-cc4305fd3d16" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5162997c-9b40-8389-d40a-ca5ff311650d" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f7fc084b-d098-0d9a-8033-1cb61c3beb37" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="b5dd8d98-46ef-79bb-478f-612b8f47c8ca" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="30e17083-9341-c17f-1993-4301d74f2152" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="e7b55705-01cd-edbd-7a8d-25321c31904d" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="09507f13-8b48-c991-2f7e-46e2958f3344" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="8b853a92-bcdf-bd5e-3f0a-a3c7893567bc" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="c88dc135-460a-5846-17a1-423ecd061012" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="85618ce5-276a-8c24-31e3-5a146e2c0150" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="7.5 7.5 7.5" />
+					<attribute id="BoundsMin" type="fvec3" value="-7.5 -7.5 -7.5" />
+					<attribute id="Center" type="fvec3" value="0 0 -0.5" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="2" />
+					<attribute id="EffectName" type="FixedString" value="VFX_PsionicMM_R_HandFX_01" />
+					<attribute id="ID" type="FixedString" value="59eb34b1-c3bf-4b24-85b7-ae0403fc37d1" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="InterruptionMode" type="uint32" value="2" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Looping" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="VFX_PsionicMM_R_HandFX_01" />
+					<attribute id="Radius" type="float" value="7.5" />
+					<attribute id="SourceFile" type="LSString" value="Public/FollowersOfZerthimon/Assets/Effects/Effects_Banks/VFX_PsionicMM_R_HandFX_01.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115198813274212" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="fb21ca3c-3b37-b5b8-86cd-c7feaead109d" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="c857d19b-25be-a746-1134-1fcf2107ac38" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="aca13066-f88a-f738-9da7-1ec9196ee17c" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="845f2c63-6282-c9a9-399a-3d1a3f061887" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5e1b3b30-8ca9-ea66-5346-d2a89dbf79fc" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="e7b55705-01cd-edbd-7a8d-25321c31904d" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="9c15f129-f070-7a2b-e66d-d728aaea2383" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="68f1ce79-3858-d978-a424-317527480bce" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="8b853a92-bcdf-bd5e-3f0a-a3c7893567bc" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f7fc084b-d098-0d9a-8033-1cb61c3beb37" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f51d4ea9-e053-382a-31b6-7d2458e4aab3" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5d3f11c9-7030-bed7-5a5a-6c3159aabd49" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="e01f4169-1972-e9f3-c08a-6256ee91fab9" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="b5dd8d98-46ef-79bb-478f-612b8f47c8ca" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="91bcdda5-afef-22b0-894c-1c2ead59f2d5" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="4 4 4" />
+					<attribute id="BoundsMin" type="fvec3" value="-4 -4 -4" />
+					<attribute id="Center" type="fvec3" value="0 0 0" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="5" />
+					<attribute id="EffectName" type="FixedString" value="VFX_PsionicMM_Root_01" />
+					<attribute id="ID" type="FixedString" value="424fb76a-8b24-4224-b525-182f3a0a7b8a" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="InterruptionMode" type="uint32" value="0" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Looping" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="VFX_PsionicMM_Root_01" />
+					<attribute id="Radius" type="float" value="4" />
+					<attribute id="SourceFile" type="LSString" value="Public/FollowersOfZerthimon/Assets/Effects/Effects_Banks/VFX_PsionicMM_Root_01.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="09507f13-8b48-c991-2f7e-46e2958f3344" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="1982a730-a35e-d62d-6bf6-59babc1d0c81" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="e388398e-efd3-a321-a37c-b4693f513902" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="b4c92036-3733-5b15-f86d-1a02855d0144" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="35478d57-bb26-1c91-adc3-7ee5c86c1602" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="3 3 3" />
+					<attribute id="BoundsMin" type="fvec3" value="-3 -3 -3" />
+					<attribute id="Center" type="fvec3" value="0 0 0" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="1.5" />
+					<attribute id="EffectName" type="FixedString" value="VFX_PsionicMM_CastFX_01" />
+					<attribute id="ID" type="FixedString" value="fb999ab6-2bb0-4e68-8d75-89b7349f6a6b" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="InterruptionMode" type="uint32" value="0" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Looping" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="VFX_PsionicMM_CastFX_01" />
+					<attribute id="Radius" type="float" value="3" />
+					<attribute id="SourceFile" type="LSString" value="Public/FollowersOfZerthimon/Assets/Effects/Effects_Banks/VFX_PsionicMM_CastFX_01.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="c48c04a0-0f5b-da7b-8a81-3ab40773086b" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="899c84df-e618-c891-5e72-ea09bbe8792e" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="022413d7-0e40-43f8-ba85-6aeeacb2a13a" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="97b12629-982f-c7b4-7807-1ca4cd35e0aa" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="962338aa-582e-ef68-45ff-76aab7c44eca" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="91bcdda5-afef-22b0-894c-1c2ead59f2d5" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="09507f13-8b48-c991-2f7e-46e2958f3344" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="b5dd8d98-46ef-79bb-478f-612b8f47c8ca" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f7fc084b-d098-0d9a-8033-1cb61c3beb37" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="68f1ce79-3858-d978-a424-317527480bce" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f247fd65-cfa3-679c-15ad-ab21948aa11c" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="94b29bf3-0b99-3d5c-2d0b-2410e201aabb" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="042147c1-75ac-a2bf-2f2c-bbfe055ea7cf" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="0c5ef267-581e-3d1e-6645-20626faa15ab" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="2c43722a-0a68-81d4-76a1-729c094346e7" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="b4b3fb6e-1b77-9431-a0ad-0503c7e28ac7" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="b25d953d-30da-59b7-e95f-c735c56af305" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="35616aa2-cdec-342a-943c-74b0fd665ecf" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="e8a4937f-b05a-eb00-3785-2e1e75cf34db" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="9acfb87b-b0b3-50a7-7408-414d4246d2b4" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="824c45ce-8580-8225-a0be-3f6fe5513388" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="b197d2f9-785a-6d86-5d91-0d3eac96be73" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="ede097c7-0436-0fac-26cd-83c60f31f3c7" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="9c15f129-f070-7a2b-e66d-d728aaea2383" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="68f1ce79-3858-d978-a424-317527480bce" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="8b853a92-bcdf-bd5e-3f0a-a3c7893567bc" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f7fc084b-d098-0d9a-8033-1cb61c3beb37" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="d76259d5-8693-a0c0-9377-d04d5222677c" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="d5e130fa-bfa2-ffc8-e324-0fd7dcd8f1b3" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="e7b55705-01cd-edbd-7a8d-25321c31904d" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f247fd65-cfa3-679c-15ad-ab21948aa11c" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f2219a9d-d817-f816-342a-84a236ec2a00" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="52c5db17-8a9e-8436-dc11-338301f99bb7" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="c851631a-669c-fb82-9138-93833bdb62f9" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="09507f13-8b48-c991-2f7e-46e2958f3344" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="34cc8a2f-8d3e-e4cd-3e75-8f96d4b8a4df" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f7d0ce54-1b3b-e8ae-debc-32e891fa8fd2" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="35b5111f-9c81-9403-16b3-d68437154bed" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="d02f30fb-e343-446c-ef67-892476186bf0" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="9ffbcedb-7417-0915-bbc1-d39a3f677288" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="972b996e-282d-711a-72e5-cc2f0fc6e811" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="68c23e99-adec-436b-83b6-cc4305fd3d16" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5162997c-9b40-8389-d40a-ca5ff311650d" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="b5dd8d98-46ef-79bb-478f-612b8f47c8ca" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="30e17083-9341-c17f-1993-4301d74f2152" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="c88dc135-460a-5846-17a1-423ecd061012" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="43c7417a-d000-f06d-acc0-a48824ac7735" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="29c0aa1f-7de3-8dbd-be47-2aa7d4a88447" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="c48c04a0-0f5b-da7b-8a81-3ab40773086b" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="899c84df-e618-c891-5e72-ea09bbe8792e" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="022413d7-0e40-43f8-ba85-6aeeacb2a13a" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="c0ee5929-fe44-6966-1e55-d933620fa661" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="97b12629-982f-c7b4-7807-1ca4cd35e0aa" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="962338aa-582e-ef68-45ff-76aab7c44eca" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="6d1997f3-03c7-a813-7efa-7f7e1edac10b" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="4f5b525d-cdf7-1d04-2db5-d1f6e28c013b" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f812d39c-7d2b-e112-931a-9265f910dbc0" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="5 5 5" />
+					<attribute id="BoundsMin" type="fvec3" value="-5 -5 -5" />
+					<attribute id="Center" type="fvec3" value="0 0 0" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="1.5" />
+					<attribute id="EffectName" type="FixedString" value="VFX_PsionicMM_TrailFX_01" />
+					<attribute id="ID" type="FixedString" value="6ad371e1-feb7-4b63-87d8-022aa53aa149" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="InterruptionMode" type="uint32" value="0" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Looping" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="VFX_PsionicMM_TrailFX_01" />
+					<attribute id="Radius" type="float" value="5" />
+					<attribute id="SourceFile" type="LSString" value="Public/FollowersOfZerthimon/Assets/Effects/Effects_Banks/VFX_PsionicMM_TrailFX_01.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="804a9887-15fc-ad4c-a78a-a53545e2a196" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="94b29bf3-0b99-3d5c-2d0b-2410e201aabb" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="6d1997f3-03c7-a813-7efa-7f7e1edac10b" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f51d4ea9-e053-382a-31b6-7d2458e4aab3" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="2ec77517-7a5a-f53b-4809-9b909d6c5328" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="707add78-20c6-ec43-477d-bf2d0fa51d67" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="042147c1-75ac-a2bf-2f2c-bbfe055ea7cf" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f5a7fc9e-ce58-7b41-fd0c-89f5cfe47841" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="09507f13-8b48-c991-2f7e-46e2958f3344" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="27ca1cd9-73d0-0901-372b-478bd1f7e7e3" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="97b12629-982f-c7b4-7807-1ca4cd35e0aa" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="72a19c48-148f-c5d4-2370-03d8b5866150" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="dda44a7e-58bf-8fe7-70d6-bae48845fc8d" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="10e191cd-82e0-945d-d326-70c357af42b8" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="87126f58-b84f-8b3d-a953-e7a01aeb6a0e" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f7fc084b-d098-0d9a-8033-1cb61c3beb37" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="821de826-473d-6579-2844-71384d7d752e" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f778b8cb-be10-21d2-158e-71848cb3437d" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="616a337d-352c-9fff-633a-8d58730d6506" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="4b32aed8-01c8-5ab2-adcc-2b5fad7712cf" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="7d8a5eec-aa32-e561-9288-463e4fa076f7" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="6 6 6" />
+					<attribute id="BoundsMin" type="fvec3" value="-6 -6 -6" />
+					<attribute id="Center" type="fvec3" value="0 0 0" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="2.5" />
+					<attribute id="EffectName" type="FixedString" value="VFX_PsionicMM_ImpactFX_01" />
+					<attribute id="ID" type="FixedString" value="5135d204-0f7f-413d-adac-1985ca351528" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="InterruptionMode" type="uint32" value="0" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Looping" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="VFX_PsionicMM_ImpactFX_01" />
+					<attribute id="Radius" type="float" value="6" />
+					<attribute id="SourceFile" type="LSString" value="Public/FollowersOfZerthimon/Assets/Effects/Effects_Banks/VFX_PsionicMM_ImpactFX_01.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="2ec77517-7a5a-f53b-4809-9b909d6c5328" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="94b29bf3-0b99-3d5c-2d0b-2410e201aabb" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="707add78-20c6-ec43-477d-bf2d0fa51d67" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="a81ddf67-e243-0150-2a9a-fc184c1dff51" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="6d1997f3-03c7-a813-7efa-7f7e1edac10b" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f51d4ea9-e053-382a-31b6-7d2458e4aab3" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="0488219a-c563-4214-0f4d-206e62ec5453" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="2caa5816-c758-2e1f-c58e-a42f03c308aa" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="4e9073d3-c903-9db0-76d1-169aaf33b43f" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="2af916b7-f20c-c1df-779c-5d70ec6eae16" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="2e2be536-7a1d-2c20-41d5-a4025d5f9367" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5e1b3b30-8ca9-ea66-5346-d2a89dbf79fc" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="9e7fffb5-6984-daf9-dfad-fddc501e5d5a" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="c6a74939-bef8-f8e5-2c21-3037b8a1d8bf" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="2a0291bc-4a16-ca17-393f-d7641c9ba812" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

@@ -1,0 +1,5 @@
+{
+    "RequiredVersion": 12,
+    "ModTable": "FOLLOWERS_OF_ZERTHIMON",
+    "FeatureFlags": ["Lua"]
+}

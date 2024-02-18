@@ -1,0 +1,13 @@
+{
+    "FileVersion": 1,
+    "Spells": [
+      {
+        "ID": "Shout_DisguiseSelf",
+        "Action": "Insert",
+        "ContainerSpells": [
+          "RANDO_Shout_DisguiseSelf_Zerai_Male",
+          "RANDO_Shout_DisguiseSelf_Zerai_Female"
+        ]
+      }
+    ]
+  }

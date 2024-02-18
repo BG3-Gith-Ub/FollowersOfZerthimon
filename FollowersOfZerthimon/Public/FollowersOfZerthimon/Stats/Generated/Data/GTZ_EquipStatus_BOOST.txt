@@ -1,0 +1,13 @@
+new entry "MAG_ZERTH_MAGIC_ARMOR_ROBE_B_TEMP_HP"
+type "StatusData"
+data "StatusType" "BOOST"
+using "MAG_CHARISMA_CASTER_TEMP_HP"
+data "Boosts" "TemporaryHP(WisdomModifier)"
+
+
+new entry "MAG_ZERTH_MAGIC_ARMOR_ROBE_B_TECHNICAL"
+type "StatusData"
+data "StatusType" "BOOST"
+using "MAG_CHARISMA_CASTER_TEMP_HP_TECHNICAL"
+data "StackId" "MAG_ZERTH_MAGIC_ARMOR_ROBE_B_TECHNICAL"
+data "TickFunctors" "IF(Combat() and Tagged('ZERTH')):ApplyStatus(MAG_ZERTH_MAGIC_ARMOR_ROBE_B_TEMP_HP, 100, 1)"

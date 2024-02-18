@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="330" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="AnimationSetResourceID" type="FixedString" value="955b1b70-725c-539b-c870-ed2fcccef2c7" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="64aa1fdf-e94b-493c-bf7b-40c754bd8f73" />
+					<attribute id="DisplayName" type="TranslatedString" handle="he636d8ffg177fg406bg8daeg6bc4c8b5e5cf" version="2" />
+					<attribute id="Equipment" type="FixedString" value="EQP_Daisy" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="64aa1fdf-e94b-493c-bf7b-40c754bd8f73-EQP_Daisy_(Icon_Githyanki_Female)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="178fe039-3396-47a1-a51c-39faa48e71c6" />
+					<attribute id="Name" type="LSString" value="Githzerai_Female_Daisy" />
+					<attribute id="ParentTemplateId" type="FixedString" value="fb6c3396-2aea-4800-9e9f-826854a6bdf3" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="6fe77279-1bba-5cc0-a5e0-34beabd2501d" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="0b378e99-5830-da47-9614-7c4aae3a1e27" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="17c2405e-5771-4150-ad00-b1ef8d1dd5ae" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="AnimationSetResourceID" type="FixedString" value="adc23239-d7fc-bb4b-d9ab-1ee2b979404f" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="2380562d-ec10-4679-a44e-5fbe16853337" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h1f5d212fg190fg4bebg8f44g60a648623226" version="2" />
+					<attribute id="Equipment" type="FixedString" value="EQP_Daisy" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="2380562d-ec10-4679-a44e-5fbe16853337-EQP_Daisy_(Icon_Githyanki_Male)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="1374a8e3-2241-47f4-a663-5626a692becd" />
+					<attribute id="Name" type="LSString" value="Githzerai_Male_Daisy" />
+					<attribute id="ParentTemplateId" type="FixedString" value="e1b0049c-3d63-48a4-ba00-117cd0a29fc9" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="6fe77279-1bba-5cc0-a5e0-34beabd2501d" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="9817eece-ccb2-7f70-ce27-1e10bf08efa5" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="807af8f5-0183-42d9-8d40-6e93d5236cc2" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

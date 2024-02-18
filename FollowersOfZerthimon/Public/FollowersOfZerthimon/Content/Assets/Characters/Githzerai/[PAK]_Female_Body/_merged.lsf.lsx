@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids" />
+	<region id="VisualBank">
+		<node id="VisualBank">
+			<children>
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="7f690bf1-9180-4864-9d68-504c58a7e668" />
+					<attribute id="BoundsMax" type="fvec3" value="0 0 0" />
+					<attribute id="BoundsMin" type="fvec3" value="0 0 0" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="3e7934d3-48eb-466d-8b9a-5e6b6774ed15" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="GTZ_F_Base" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="6baabc59-f5c8-40ad-a911-c3348e009dfa" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="EMPTY_VISUAL_TEMPLATE" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+							<attribute id="PairElement2" type="FixedString" value="31a36c0d-a9d8-e47d-f48a-f22054b03349" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="d8cadb42-0ff9-4049-afaf-e5d78d06a399" />
+							<attribute id="PairElement2" type="FixedString" value="34e469eb-eb33-100f-4c4c-0f56aefb8888" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="d8cadb42-0ff9-4049-afaf-e5d78d06a399" />
+							<attribute id="PairElement2" type="FixedString" value="49253502-fd7f-a3f8-572e-6d70609c0807" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="92cd50b6-eb1b-4824-8adb-853e90c34c90" />
+							<attribute id="PairElement2" type="FixedString" value="6103f797-acaf-7bd8-bad6-d8fa3fd598a4" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="114e7aee-d1d4-4371-8d90-8a2080592faf" />
+							<attribute id="PairElement2" type="FixedString" value="3f2fae4a-ef71-a1a2-86aa-bd80ac38f80b" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="457d0a6e-9da8-4f95-a225-18382f0e94b5" />
+							<attribute id="PairElement2" type="FixedString" value="7a53ff88-d58d-6eb3-ccd2-c2f834574535" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="721dfac3-92d4-41f5-b773-b7072a86232f" />
+							<attribute id="PairElement2" type="FixedString" value="989627e1-eadd-09ae-cd85-33bd21c04fec" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="c4598bdb-fc07-40dd-a62c-90cc138bd76f" />
+							<attribute id="PairElement2" type="FixedString" value="66d4414c-c6e6-05e0-cb4b-b3e43cb47541" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="ff4d9497-023c-434a-bd14-82fc367e991c" />
+							<attribute id="PairElement2" type="FixedString" value="240639a2-4d75-5506-54b1-717c6d15abc0" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="36be18ba-23db-4dff-bfa6-ae105ce43144" />
+							<attribute id="PairElement2" type="FixedString" value="fc1cd3a9-6dd6-766e-5edb-3ce46e002535" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="e8b1eab0-ef11-40a2-8a0b-cee8d062bf2a" />
+							<attribute id="PairElement2" type="FixedString" value="673ce226-b474-afc1-84c1-e1c4d9b65f66" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="784001e2-c96d-4153-beb6-2adbef5abc92" />
+							<attribute id="PairElement2" type="FixedString" value="e59a4d27-1b0f-5ca5-22a4-f6614a0a7903" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="b4225a4b-4bbe-4d97-9e3c-4719dbd1487c" />
+							<attribute id="PairElement2" type="FixedString" value="b9171c41-1607-a696-afd6-93b9bfb8cc01" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="a865965f-501b-46e9-9eaa-7748e8c04d09" />
+							<attribute id="PairElement2" type="FixedString" value="014a118b-a836-d13d-dfbf-b137376fb46d" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="92cd50b6-eb1b-4824-8adb-853e90c34c90" />
+							<attribute id="PairElement2" type="FixedString" value="46d23140-9287-7cfa-b741-a21ba524d0c7" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="ee40b340-0e2f-4bf0-9f91-334a30cb1f85" />
+							<attribute id="PairElement2" type="FixedString" value="b463a973-065a-7b8b-aa95-88bad8cfe869" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="c4598bdb-fc07-40dd-a62c-90cc138bd76f" />
+							<attribute id="PairElement2" type="FixedString" value="f6fa6a9d-8ba4-e36e-5163-36851c0007fc" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="aafbe780-d237-416e-9d05-e03070c9dbee" />
+							<attribute id="PairElement2" type="FixedString" value="28c5d18e-7d16-375d-3afe-50315f9aaff0" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="d559367e-4d27-402a-8898-a72fd5f20c8b" />
+							<attribute id="PairElement2" type="FixedString" value="1eedf39e-9983-b276-b406-d70d0af5f254" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="f9448523-02e4-4117-b437-b1761e39f487" />
+							<attribute id="PairElement2" type="FixedString" value="ae996c12-9f93-655f-6f04-f7bec8cef6eb" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="b5f03140-8f72-8f07-685c-dd29bc8d77aa" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="e005b1e4-c76c-4c92-9a12-569c324c7ca7" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="650430c0-d32a-4c52-c22f-1e7ada8322f0" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="815b91ee-09d0-a1f1-9bb8-4cf31b3a15d5" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="608fad95-e71a-5c83-27a4-ffa06c59dd0e" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="311dae8b-42d4-25e2-3b29-845847509494" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="da29fce1-056a-4f86-b110-d61679c21238" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="8405f6a4-e695-c33a-d482-a4d9a472599e" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="324bfb20-54e4-01c5-8a11-849c3352a6a3" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.7242292 1.56981 0.1288812" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.7242292 -0.003527571 -0.1586151" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="37dc6fdd-0838-0727-97f4-e201324bfe5b" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="e804edf1-24f4-4e6b-bc0d-7e010a563bcf" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="GTZ_F_NKD_Body_A" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="NakedBody" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="15827dce-b0c0-c740-541b-03633a5a9c6d" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Models/[PAK]_Githzerai/_Female/Resources/GTZ_F_NKD_Body_A.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Models/[PAK]_Githzerai/_Female/Resources/GTZ_F_NKD_Body_A.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<children>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="dab5b929-173a-4df0-97bc-3645b8e26e22" />
+							<attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Body_A.GTZ_F_NKD_Body_A_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="dab5b929-173a-4df0-97bc-3645b8e26e22" /> <!--e89c12f1-d6bc-4abe-af72-2a200282828a-->
+							<attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Body_A.GTZ_F_NKD_Body_A_Nails_Mesh.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="dab5b929-173a-4df0-97bc-3645b8e26e22" />
+							<attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Body_A.GTZ_F_NKD_Body_A_Mesh_LOD2.4" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="dab5b929-173a-4df0-97bc-3645b8e26e22" />
+							<attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Body_A.GTZ_F_NKD_Body_A_Mesh_LOD3.6" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="dab5b929-173a-4df0-97bc-3645b8e26e22" />
+							<attribute id="ObjectID" type="FixedString" value="GTZ_F_NKD_Body_A.GTZ_F_NKD_Body_A_Mesh_LOD4.8" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.7242292 1.56981 0.1288812" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.7242292 -0.003527571 -0.1586151" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="37dc6fdd-0838-0727-97f4-e201324bfe5b" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="af6c99ae-78f9-4b1c-894a-0b7d888b964a" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="SUHRA_F_NKD_Body_A" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="NakedBody" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="15827dce-b0c0-c740-541b-03633a5a9c6d" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Models/[PAK]_Githzerai/_Female/Resources/SUHRA_F_NKD_Body_A.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/FollowersOfZerthimon/Assets/Characters/_Models/[PAK]_Githzerai/_Female/Resources/SUHRA_F_NKD_Body_A.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<children>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="dab5b929-173a-4df0-97bc-3645b8e26e22" />
+							<attribute id="ObjectID" type="FixedString" value="SUHRA_F_NKD_Body_A.GTZ_F_NKD_Body_A_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="ef6f2063-4380-4dda-8ff9-a3000dda05ab" /> <!--dab5b929-173a-4df0-97bc-3645b8e26e22//e89c12f1-d6bc-4abe-af72-2a200282828a-->
+							<attribute id="ObjectID" type="FixedString" value="SUHRA_F_NKD_Body_A.GTZ_F_NKD_Body_A_Impl_Mesh.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="bd766da1-70ae-4ccb-aa45-03bba2e59ed0" />
+							<attribute id="ObjectID" type="FixedString" value="SUHRA_F_NKD_Body_A.GTZ_F_NKD_Body_A_Hand_Mesh.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="a5a3b5f5-db19-4398-8c06-1c37316822d5" />
+							<attribute id="ObjectID" type="FixedString" value="SUHRA_F_NKD_Body_A.GTZ_F_NKD_Body_A_Arm_Mesh.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="ae63a064-024d-4679-8991-708af82d5021" />
+							<attribute id="ObjectID" type="FixedString" value="SUHRA_F_NKD_Body_A.GTZ_F_NKD_Body_A_Arm_Mesh.4" />
+						</node>	
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="899bb118-00ea-432f-a2ab-f200b2a3a445" />
+							<attribute id="ObjectID" type="FixedString" value="SUHRA_F_NKD_Body_A.GTZ_F_NKD_Body_A_Arm_Mesh.5" />
+						</node>																			
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+	<region id="VirtualTextureBank">
+		<node id="VirtualTextureBank">
+			<children>
+				<node id="Resource">
+					<attribute id="GTexFileName" type="FixedString" value="42000455d4a94630a815bd82fa8f9b02" />
+					<attribute id="ID" type="FixedString" value="69131d5d-3d7a-4389-8801-7e02eade1cc2" />
+					<attribute id="Name" type="LSString" value="GTZ_F_NKD_Body_A" />
+					<attribute id="Prefetch" type="bool" value="False" />
+					<attribute id="PrefetchMipLevel" type="int8" value="-1" />
+					<attribute id="ReferencedColorSpaces" type="uint32" value="6" />
+					<attribute id="SourceFile" type="LSString" value="" />
+					<attribute id="VirtualTextureLayerConfig" type="uint32" value="3" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540922158" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

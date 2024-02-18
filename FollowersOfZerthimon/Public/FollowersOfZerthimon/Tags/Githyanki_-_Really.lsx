@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="10" minor="0" revision="0" build="0" lslib_meta="v1,bswap_guids" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="Character is really a Githyanki" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="he80cb422g017dg420fg958fg275334601c62" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="hd7c9e050gc312g47e2gaccag5e0f11bebd4b" version="2" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="REALLY_GITHYANKI" />
+			<attribute id="UUID" type="guid" value="1180781a-76f5-419c-80ee-9e4c973f1113" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Dialog" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Race" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="PlayerRace" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
