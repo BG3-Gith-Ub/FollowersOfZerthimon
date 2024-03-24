@@ -54,6 +54,26 @@
 			<Layer Name="Albedo" Source="SuhraBodyLEGOUTER_BM.dds" />
 			<Layer Name="Normal" Source="SuhraBodyLEGOUTER_NM.dds" />
 			<Layer Name="Physical" Source="SuhraBodyLEGOUTER_PM.dds" />
+		</Texture>		
+		<Texture Name="52013611d4a94630a815bd82fa8f9b01">
+			<Layer Name="Albedo" Source="MGTZROBOLEGinner_BM.dds" />
+			<Layer Name="Normal" Source="MGTZROBOLEGinner_NM.dds" />
+			<Layer Name="Physical" Source="MGTZROBOLEGinner_PM.dds" />
+		</Texture>	
+		<Texture Name="52013611d4a94630a815bd82fa8f9b00">
+			<Layer Name="Albedo" Source="MGTZROBOLEGOUTER_BM.dds" />
+			<Layer Name="Normal" Source="MGTZROBOLEGOUTER_NM.dds" />
+			<Layer Name="Physical" Source="MGTZROBOLEGOUTER_PM.dds" />
 		</Texture>			
+		<Texture Name="520HND55d4a94630a815bd82fa8f9b02">
+			<Layer Name="Albedo" Source="MGTZROBOARMinner_BM.dds" />
+			<Layer Name="Normal" Source="MGTZROBOARMinner_NM.dds" />
+			<Layer Name="Physical" Source="MGTZROBOARMinner_PM.dds" />
+		</Texture>		
+		<Texture Name="520ARM55d4a94630a815bd82fa8f9b02">
+			<Layer Name="Albedo" Source="MGTZROBOARMOUTER_BM.dds" />
+			<Layer Name="Normal" Source="MGTZROBOARMOUTER_NM.dds" />
+			<Layer Name="Physical" Source="MGTZROBOARMOUTER_PM.dds" />
+		</Texture>	
 	</Textures>
 </TileSet>
