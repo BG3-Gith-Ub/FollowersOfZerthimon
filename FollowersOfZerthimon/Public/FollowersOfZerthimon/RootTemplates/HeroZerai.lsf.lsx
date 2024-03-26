@@ -164,6 +164,15 @@
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
 								</node>
+								<node id="Tag"> <!--Construct-->
+									<attribute id="Object" type="guid" value="22e5209c-eaeb-40dc-b6ef-a371794110c2" />
+								</node>
+								<node id="Tag"> <!--Augmented-->
+									<attribute id="Object" type="guid" value="17412a1b-cf82-441c-9303-5e5739fc5a27" />
+								</node>
+								<node id="Tag"> <!--Mechanical-->
+									<attribute id="Object" type="guid" value="a7db06a6-3649-48a5-9069-d98a49f6a10c" />
+								</node>									
 							</children>
 						</node>
 						<node id="LocomotionParams" />

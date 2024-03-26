@@ -185,7 +185,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="1" />
-							<attribute id="MaterialID" type="FixedString" value="e89c12f1-d6bc-4abe-af72-2a200282828a" />
+							<attribute id="MaterialID" type="FixedString" value="b70001df-4c14-4795-92f0-c06532429a5f" />
 							<attribute id="ObjectID" type="FixedString" value="GTZ_M_NKD_Body_A.GTZ_M_NKD_Body_A_Nails_Mesh.1" />
 						</node>
 						<node id="Objects">
