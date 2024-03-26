@@ -130,6 +130,54 @@
 						<node id="LocomotionParams" />
 					</children>
 				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="8b93b009-9e49-4397-bccf-200fd8262362" />
+					<attribute id="Name" type="LSString" value="Githzerai_Male_Player_Construct" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="dca27728-aa9c-4114-81f3-70f9fecf6090" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="fd7134c5-cdb3-42e6-8fdd-d4754990391b-_(Icon_Githyanki_Male)" />
+					<attribute id="Stats" type="FixedString" value="HeroGithMale" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="fd7134c5-cdb3-42e6-8fdd-d4754990391b" />
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="2c0ba7ad-66be-884e-b680-9b7e5a2203a0" />
+					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="3806477c-65a7-4100-9f92-be4c12c4fa4f" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="7fa93b80-8ba5-4c1d-9b00-5dd20ced7f67" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>
+								<node id="Tag"> <!--Construct-->
+									<attribute id="Object" type="guid" value="22e5209c-eaeb-40dc-b6ef-a371794110c2" />
+								</node>
+								<node id="Tag"> <!--Augmented-->
+									<attribute id="Object" type="guid" value="17412a1b-cf82-441c-9303-5e5739fc5a27" />
+								</node>
+								<node id="Tag"> <!--Mechanical-->
+									<attribute id="Object" type="guid" value="a7db06a6-3649-48a5-9069-d98a49f6a10c" />
+								</node>									
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+					</children>
+				</node>				
 			</children>
 		</node>
 	</region>

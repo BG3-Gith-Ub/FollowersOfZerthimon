@@ -88,6 +88,35 @@
 						<node id="LocomotionParams" />
 					</children>
 				</node>
+
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="dca27728-aa9c-4114-81f3-70f9fecf6090" />
+					<attribute id="Name" type="LSString" value="BASE_Githzerai_Male_Construct" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="9ab35976-3555-4ed7-9343-7e52d8facad5" />
+					<attribute id="ReadinessFlags" type="uint32" value="12" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="Icon" type="FixedString" value="fc4bbd1a-6e3d-45bb-b94e-8867f3265772-_(Icon_Githyanki_Male)" />
+					<attribute id="EquipmentRace" type="guid" value="f07faafa-0c6f-4f79-a049-70e96b23d51b" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="fc4bbd1a-6e3d-45bb-b94e-8867f3265772" />
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Githyanki_Male" />
+					<attribute id="Race" type="guid" value="ca1c9216-a0cf-44e7-811a-2f9081c536ed" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="3806477c-65a7-4100-9f92-be4c12c4fa4f" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="7fa93b80-8ba5-4c1d-9b00-5dd20ced7f67" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>				
 			</children>
 		</node>
 	</region>

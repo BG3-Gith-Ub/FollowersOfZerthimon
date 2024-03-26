@@ -27,9 +27,22 @@
 		{
 			"GTexName": "42013611d4a94630a815bd82fa8f9b00",
 			"GTS": "Public/FollowersOfZerthimon/Assets/VirtualTextures/Kaz.gts"
-		}				
+		},
+		{
+			"GTexName": "52013611d4a94630a815bd82fa8f9b01",
+			"GTS": "Public/FollowersOfZerthimon/Assets/VirtualTextures/Kaz.gts"
+		},
+		{
+			"GTexName": "52013611d4a94630a815bd82fa8f9b00",
+			"GTS": "Public/FollowersOfZerthimon/Assets/VirtualTextures/Kaz.gts"
+		},
+		{
+			"GTexName": "520HND55d4a94630a815bd82fa8f9b02",
+			"GTS": "Public/FollowersOfZerthimon/Assets/VirtualTextures/Kaz.gts"
+		},
+		{
+			"GTexName": "520ARM55d4a94630a815bd82fa8f9b02",
+			"GTS": "Public/FollowersOfZerthimon/Assets/VirtualTextures/Kaz.gts"
+		}							
 	]
 }
-
-
-
